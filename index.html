@@ -1,0 +1,46 @@
+---
+layout: default
+title: Work Creative
+meta_description: WorkCreative.net brings you the very best web development, design, management & support jobs. We want you to land your dream job. Find yours today.
+meta_keywords: web development job, web design job, job web design, job in web design, job web development, web design job description, web site design job, web design job boards, web design job postings
+---
+
+  		<!--//////////////////////////////////// Main Content ////////////////////////////////////-->
+    	<div class='span9'>
+      	<div class='list-container'>         
+		    	<!-- job-list -->
+		      <div class='jplist' id='job-list'> 
+          <!--//////////////////////////////////// Data Filters ////////////////////////////////////-->
+          	<!-- panel -->
+            <div class='panel'>
+            	{% include location-sort.html %}                
+             	<header class='list-header clear'>
+                	<h2>All Jobs</h2>
+                </header>
+                
+                <!--//////////////////////////////////// Job List ////////////////////////////////////-->
+                		
+                		<!-- data -->
+                		<div class='list'>
+	                		{% for post in site.posts %}    	
+                            <a class='list-item' href='{{post.url}}'>
+                                <div class='block'>
+                                    <div class='type'>{{post.type}}</div>
+                                    <div class='desc'>{{post.title}}</div>
+                                    <div class='company'>{{post.company}}</div>
+                                    <div class='location'>{{post.location}}</div>
+                                    <div class='date'>{{post.post-date}}</div>
+                                </div><!--/block-->
+                            </a><!--/list-item-->
+                            {% endfor %}
+                		</div><!--/list>
+       	
+                    <!--//////////////////////////////////// No Results Error ////////////////////////////////////-->
+                  	<div class='jplist-no-results fade-in'>
+                      <p><strong>Fooey:</strong>Your search did not match and current job locations.</p>
+                   </div><!--/jplist-no-results-->  
+            </div><!--/panel -->
+        </div><!--/job-list-->                                  
+       </div><!--list-container-->
+      </div><!--span9-->
+      				{% include sidebar.html %}

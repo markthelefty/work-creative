@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+  		<!--//////////////////////////////////// Main Content ////////////////////////////////////-->
+    	<div class='span9'>
+      	<div class='content-container'> 
+      	<a class='back-to' href='http://workcreative.net'><i class='icon-arrow-left'></i> Back To Jobs</a>
+      		{% include share.html %}
+      		<h1>{{page.title}}</h1>
+      		<h6>at <strong>{{page.company}}</strong> in {{page.location}}</h6>
+      			{{content}}
+      		<a class='apply' href='http://{{page.apply}}'>Apply For This Position</a>
+	      </div><!--content-container-->
+      </div><!--span9-->
+      {% include sidebar.html %}

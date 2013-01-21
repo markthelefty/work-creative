@@ -1,0 +1,6 @@
+site_name: 'Work Creative'
+site_url: 'http://workcreative.net'
+markdown: rdiscount
+rdiscount:
+    extensions: [smart]
+permalink: jobs/:title

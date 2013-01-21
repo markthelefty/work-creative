@@ -1,0 +1,28 @@
+<div class='location-field'>
+	<header>
+    <input data-control-action='filter' data-control-name='desc-filter' data-control-type='textbox' data-items='4' data-path='.location' data-provide='typeahead' data-source='['Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware','Florida','Georgia','Hawaii','Idaho','Illinois','Indiana','Iowa','Kansas','Kentucky','Louisiana','Maine','Maryland','Massachusetts','Michigan','Minnesota','Mississippi','Missouri','Montana','Nebraska','Nevada','New Hampshire','New Jersey','New Mexico','New York','North Dakota','North Carolina','Ohio','Oklahoma','Oregon','Pennsylvania','Rhode Island','South Carolina','South Dakota','Tennessee','Texas','Utah','Vermont','Virginia','Washington','West Virginia','Wisconsin','Wyoming','New York City','Los Angeles','Chicago','Houston','Philadelphia','Phoenix','San Antonio','San Diego','Dallas','San Jose','Jacksonville','Indianapolis','San Francisco','Austin','Columbus','Fort Worth','Charlotte','Detroit','El Paso','Memphis','Baltimore','Boston','Seattle','Washington','Nashville','Denver','Louisville','Milwaukee','Portland','Las Vegas','Oklahoma City','Albuquerque','Tucson','Fresno','Sacramento','Long Beach','Kansas City','Mesa','Virginia Beach','Atlanta','Colorado Springs','Omaha','Raleigh','Miami', 'Cleveland','Tulsa','Oakland','Minneapolis','Wichita', 'Arlington']' id='location-filter' placeholder='Filter By Location ie. New York' type='text' value=''/>
+                                
+    <div class='api-job-list'>
+		   <!-- filter by type -->
+		    <input class='fadeTrigger' id='filter-text-design' type='button' data='tooltip' data-placement='bottom' data-original-title='Designer Jobs' value='Designer Jobs'/></a>
+		    <input class='fadeTrigger' id='filter-text-programming' type='button' data='tooltip' data-placement='bottom' data-original-title='Developer Jobs' value='Developer Jobs'/>
+		    <input class='fadeTrigger' id='filter-text-ios' type='button' data='tooltip' data-placement='bottom' data-original-title='iOS Dev Jobs' value='iOS Dev Jobs'/>
+		    <input class='fadeTrigger' id='filter-text-executive' type='button' data='tooltip' data-placement='bottom' data-original-title='Executive Jobs' value='Executive Jobs'/>
+		    <input class='fadeTrigger' id='filter-text-support' type='button' data='tooltip' data-placement='bottom' data-original-title='Support Jobs' value='Support Jobs'/>
+		    <input class='fadeTrigger' id='filter-text-miscellaneous' type='button' data='tooltip' data-placement='bottom' data-original-title='Misc/Other Jobs' value='Misc/Other Jobs'/>
+		</div><!-- api-job-list -->
+                                 
+    <!-- filter -->
+    <input data-control-action='filter' data-control-name='type-filter' data-control-type='textbox' data-path='.type' placeholder='Filter by type' style='display:none;' type='text' value=''/>
+                                 
+    <!-- crude date sort -->
+    <div data-control-action='sort' data-control-type='drop-down' style='display:none'>
+    	<li>
+      	<span data-default='true' data-order='desc' data-path='.date' data-type='number'></span>
+      </li>
+    </div><!--/crude date sort -->
+    
+    <!-- Reset Button -->
+    <input class='reset-btn' data-control-action='reset' data-control-name='reset' data-control-type='reset' type='button' value='Reset'/>
+  </header>
+</div><!--/location-field -->   

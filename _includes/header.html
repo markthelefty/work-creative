@@ -1,0 +1,22 @@
+<div id='header'>
+    <div class='navbar navbar-fixed-top navbar-inverse'>
+        <div class='navbar-inner'>
+            <div class='container'>
+                <a class='btn btn-navbar' data-target='.nav-collapse' data-toggle='collapse'>
+                    <span class='icon-bar'></span>
+                    <span class='icon-bar'></span>
+                    <span class='icon-bar'></span>
+                </a>
+                <a class='brand' href='http://workcreative.net'>Work Creative</a>
+                <div class='nav-collapse subnav-collapse pull-right collapse' id='top-navigation'>
+                    <ul class='nav'>
+                    	{% if page.title == 'Work Creative' %}<li class='active'><a href='http://workcreative.net'>Find A Job</a></li>{% elsif page.title != 'Work Creative' %}<li><a href='http://workcreative.net'>Find A Job</a></li>{% endif %}
+                    	{% if page.title == 'Post A Job' %}<li class='active'><a href='http://workcreative.net/post-job.html'>Post A Job</a></li>{% elsif page.title != 'Post A Job' %}<li><a href='http://workcreative.net/post-job.html'>Post A Job</a></li>{% endif %}
+                    	{% if page.title == 'About Us' %}<li class='active'><a href='about.html'>About Us</a></li>{% elsif page.title != 'About Us' %}<li><a href='http://workcreative.net/about.html'>About Us</a></li>{% endif %}
+                    	{% if page.title == 'Blog' %}<li class='active'><a href='blog.html'>The Blog</a></li>{% elsif page.title != 'Blog' %}<li><a href='http://workcreative.net/blog.html'>The Blog</a></li>{% endif %}
+                    </ul>
+                </div><!--/top-navigation-->
+            </div><!--/container-->
+        </div><!--/navbar-inner-->
+    </div><!--/navbar-->
+</div><!--/header-->

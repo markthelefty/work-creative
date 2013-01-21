@@ -1,0 +1,12 @@
+{% for post in site.posts %}    	
+<a class='list-item' href='{{post.url}}'>
+	<div class='block'>
+		<div class='type'>{{post.type}}</div>
+		<div class='desc'>{{post.description}}</div>
+		<div class='company'>{{post.company}}</div>
+		<div class='location'>{{post.location}}</div>
+		<div class='date'>{{post.date}}</div>
+		{{post.content}}
+	</div><!--/block-->
+</a><!--/list-item-->
+{% endfor %}
