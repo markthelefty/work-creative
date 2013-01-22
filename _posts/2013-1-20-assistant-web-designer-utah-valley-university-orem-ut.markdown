@@ -4,7 +4,8 @@ type: Design
 title: Assistant - Web Designer
 company: Utah Valley University
 location: Orem, UT
-apply: uvu.jobs/applicants/jsp/shared/frameset/Frameset.jsp?time=1358733930312
+http: https
+apply: www.uvu.jobs/applicants/jsp/shared/frameset/Frameset.jsp?time=1358818020171
 post-date: 1-20-2013
 --- 
 

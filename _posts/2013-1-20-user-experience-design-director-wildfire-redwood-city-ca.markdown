@@ -4,6 +4,7 @@ type: Executive
 title: User Experience Design Director
 company: Wildfire
 location: Redwood City CA
+http: http
 apply: www.jobscore.com/jobs/wildfireapp/user-experience-design-director/bx64CyO6ar4zgzeJe4bk1X
 post-date: 1-20-2013
 --- 

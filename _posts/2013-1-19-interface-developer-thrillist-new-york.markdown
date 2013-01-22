@@ -4,6 +4,7 @@ type: Programming
 title: Interface Developer
 company: Thrillist
 location: New York, NY
+http: https
 apply: jobs-thrillist.icims.com/jobs/1048/job?mode=job&iis=Job+Board
 post-date: 1-19-2013
 --- 

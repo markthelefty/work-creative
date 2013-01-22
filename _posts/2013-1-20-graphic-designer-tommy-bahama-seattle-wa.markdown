@@ -4,6 +4,7 @@ type: Design
 title: Graphic Designer
 company: Tommy Bahama
 location: Seattle, WA
+http: https
 apply: www1.apply2jobs.com/TommyBahama/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=91&CurrentPage=6
 post-date: 1-20-2013
 --- 

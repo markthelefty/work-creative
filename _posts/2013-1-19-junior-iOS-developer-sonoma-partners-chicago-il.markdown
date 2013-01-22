@@ -4,7 +4,8 @@ type: iOS
 title: Junior iOS Developer
 company: Sonoma Partners
 location: Chicago, IL
-apply: careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=JHM3T27156VQ3FN76C4
+http: http
+apply: www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=JHM3T27156VQ3FN76C4
 post-date: 1-19-2013
 --- 
 

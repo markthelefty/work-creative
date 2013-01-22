@@ -4,7 +4,8 @@ type: Design
 title: Senior UI/Visual Designer
 company: Platfora
 location: San Mateo, CA
-apply: jobscore.com/jobs/platfora/senior-ui-visual-designer/dDnW5syA4r4QR3eJe4egig
+http: http
+apply: www.jobscore.com/jobs/platfora/senior-ui-visual-designer/dDnW5syA4r4QR3eJe4egig
 post-date: 1-19-2013
 --- 
 

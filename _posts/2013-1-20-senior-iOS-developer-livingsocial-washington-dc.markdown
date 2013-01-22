@@ -4,6 +4,7 @@ type: iOS
 title: Sr. iOS Developer
 company: LivingSocial
 location: Washington, DC
+http: http
 apply: hire.jobvite.com/CompanyJobs/Careers.aspx?c=qD09Vfwr&cs=9zj9VfwG&nl=1&jvi=oATLWfwU,Job
 post-date: 1-20-2013
 --- 

@@ -4,6 +4,7 @@ type: Executive
 title: Business Development Project Manager
 company: Huge
 location: Brooklyn, NY
+http: http
 apply: hugeinc.com/?q=careers/job-600-orcmwfw5
 post-date: 1-19-2013
 --- 

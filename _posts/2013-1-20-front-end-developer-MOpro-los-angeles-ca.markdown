@@ -4,6 +4,7 @@ type: Programming
 title: Front End Developer
 company: MOpro
 location: Los Angeles, CA
+http: http
 apply: mo.theresumator.com/apply/job_20121016003349_VX6HMOHHAF2ZVISC/Front-End-Developer.html
 post-date: 1-20-2013
 --- 

@@ -4,6 +4,7 @@ type: Design
 title: Senior Web Designer
 company: Dr. Schulze's American Botanical Pharmacy
 location: Marina del Rey, CA
+http: http
 apply: americanbotanicalpharmacy.theresumator.com/apply/job_20120920180702_JG4V56CGKAS8Q0LQ/Senior-Web-Designer.html
 post-date: 1-20-2013
 --- 

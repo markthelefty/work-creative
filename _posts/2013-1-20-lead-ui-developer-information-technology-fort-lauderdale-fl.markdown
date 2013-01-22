@@ -4,6 +4,7 @@ type: Programming
 title: Lead UI Developer
 company: Information Technology
 location: Fort Lauderdale, FL
+http: http
 apply: webconnect3.sendouts.com/CN_Frame.aspx?ID=tekpartners&SiteID=webconnect&Group=webconnect&Key=CN&CNTrackID=1002&PostId=78f16d0c-a9e1-403c-af41-20ba61bb3985&CnId=&applynewcan=0
 post-date: 1-20-2013
 --- 

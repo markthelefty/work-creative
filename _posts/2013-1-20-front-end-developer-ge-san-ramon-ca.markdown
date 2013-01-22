@@ -4,6 +4,7 @@ type: Programming
 title: Front End Developer
 company: GE (via Tech Consulting firm)
 location: San Ramon, CA
+http: http
 apply: careers.stackoverflow.com/jobs/29468/front-end-developer-ge-via-tech-consulting-firm?a=yOBb1TO
 post-date: 1-20-2013
 --- 

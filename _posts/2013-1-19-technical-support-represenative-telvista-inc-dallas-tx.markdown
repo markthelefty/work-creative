@@ -4,6 +4,7 @@ type: Support
 title: Technical Support Representative
 company: Telvista Inc.
 location: Dallas, TX
+http: https
 apply: telvista.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=217628&company_id=15895&version=1
 post-date: 1-19-2013
 --- 

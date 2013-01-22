@@ -4,6 +4,7 @@ type: Programming
 title: Sr. Front-End Web Developer
 company: j2 Global
 location: Hollywood, CA
+http: http
 apply: hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=q2h9Vfw7&j=oDCLWfwG
 post-date: 1-20-2013
 --- 

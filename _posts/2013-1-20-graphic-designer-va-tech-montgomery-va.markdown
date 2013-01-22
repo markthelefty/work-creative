@@ -4,6 +4,7 @@ type: Design
 title: Graphic Designer, Sr.
 company: VA Tech
 location: Montgomery, VA
+http: https
 apply: jobs.agencies.virginia.gov/applicants/jsp/shared/position/JobDetails_css.jsp
 post-date: 1-20-2013
 --- 

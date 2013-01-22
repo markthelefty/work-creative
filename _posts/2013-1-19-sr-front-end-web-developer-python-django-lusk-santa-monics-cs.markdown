@@ -4,6 +4,7 @@ type: Programming
 title: Sr. Front End Web Developer (Python/Django)
 company: Lusk
 location: Santa Monica, California
+http: http
 apply: talentvelocity.us/index.php?mod=search&job=136928&pid=49784&utm_source=Indeed&utm_medium=organic
 post-date: 1-19-2013
 --- 

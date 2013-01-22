@@ -4,6 +4,7 @@ type: iOS
 title: iOS Developers
 company: Infosys Limited
 location: Cupertino, CA
+http: http
 apply: jobview.monster.com/getjob.aspx?jobid=118379910&WT.mc
 post-date: 1-19-2013
 --- 

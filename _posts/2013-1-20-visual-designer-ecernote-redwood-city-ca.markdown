@@ -4,6 +4,7 @@ type: Design
 title: Visual Designer
 company: Evernote
 location: Redwood City, CA
+http: http
 apply: hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&su=flF9VfwO&c=qec9Vfwe&j=ob9rWfwr
 post-date: 1-20-2013
 --- 

@@ -4,7 +4,8 @@ type: Programming
 title: Web Designer & Developer
 company: PreGel AMERICA
 location: Concord, NC
-apply: pregelamerica.com/en/career/detail.asp?ID=92
+http: http
+apply: www.pregelamerica.com/en/career/detail.asp?ID=92
 post-date: 1-20-2013
 --- 
 

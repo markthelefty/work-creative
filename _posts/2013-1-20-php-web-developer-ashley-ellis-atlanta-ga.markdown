@@ -4,7 +4,8 @@ type: Programming
 title: PHP Web Developer
 company: Ashley Ellis, LLC
 location: Atlanta, GA
-apply: sologig.com/INTL/JobSeeker/Jobs/JobDetails.aspx?Job_DID=J3G5T363S5ST7B5S31K
+http: http
+apply: www.sologig.com/INTL/JobSeeker/Jobs/JobDetails.aspx?Job_DID=J3G5T363S5ST7B5S31K
 post-date: 1-20-2013
 --- 
 

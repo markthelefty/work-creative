@@ -4,6 +4,7 @@ type: Design
 title: Interaction Designer
 company: Electronic Arts
 location: Redwood City, CA
+http: https
 apply: performancemanager4.successfactors.com/career?company=EA&career_job_req_id=9842&career_ns=job_listing&navBarLevel=JOB_SEARCH
 post-date: 1-20-2013
 --- 

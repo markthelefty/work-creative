@@ -4,6 +4,7 @@ type: Programming
 title: Jr. Web Developer - FrontEnd
 company: OpenCandy, Inc.
 location: San Diego, CA
+http: http
 apply: ch.tbe.taleo.net/CH05/ats/careers/requisition.jsp?org=OPENCANDY&cws=1&rid=143
 post-date: 1-20-2013
 --- 

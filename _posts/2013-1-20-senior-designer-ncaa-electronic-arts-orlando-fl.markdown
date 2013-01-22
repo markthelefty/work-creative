@@ -4,6 +4,7 @@ type: Design
 title: Sr Designer - EA SPORTS- NCAA
 company: Electronic Arts
 location: Orlando, FL
+http: https
 apply: performancemanager4.successfactors.com/career?company=EA&career_job_req_id=8722&career_ns=job_listing&navBarLevel=JOB_SEARCH
 post-date: 1-20-2013
 --- 

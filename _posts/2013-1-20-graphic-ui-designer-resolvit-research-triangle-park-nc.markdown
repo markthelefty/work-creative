@@ -4,6 +4,7 @@ type: Design
 title: Graphic/UI Designer
 company: Resolvit
 location: Research Triangle Park, NC
+http: http
 apply: jobboard.nctechnology.org/jobs/5094927
 post-date: 1-20-2013
 --- 

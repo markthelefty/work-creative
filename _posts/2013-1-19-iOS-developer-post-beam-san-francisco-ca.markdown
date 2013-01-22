@@ -4,6 +4,7 @@ type: iOS
 title: iOS Developer
 company: Post+Beam
 location: San Francisco, CA
+http: http
 apply: postandbeam.theresumator.com/apply/job_20110912220535_KLK9GBBRAPAGGATG/IOS-Developer.html
 post-date: 1-19-2013
 --- 

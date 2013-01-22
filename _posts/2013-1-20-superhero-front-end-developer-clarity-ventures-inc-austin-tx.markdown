@@ -4,7 +4,8 @@ type: Programming
 title: (Superhero) Front-End Developer
 company: Clarity Ventures, Inc.
 location: Austin, TX
-apply: jobscore.com/jobs/clarityventuresinc/superhero-front-end-developer/df9IFmgxar4QcZeJe4efaV
+http: http
+apply: www.jobscore.com/jobs/clarityventuresinc/superhero-front-end-developer/df9IFmgxar4QcZeJe4efaV
 post-date: 1-20-2013
 --- 
 

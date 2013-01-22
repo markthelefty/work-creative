@@ -4,6 +4,7 @@ type: Design
 title: Sr. Visual Designer
 company: R/GA
 location: San Francisco, CA
+http: http
 apply: hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qAX9Vfwl&j=ohx9WfwD
 post-date: 1-20-2013
 --- 

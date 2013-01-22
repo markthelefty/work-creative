@@ -4,7 +4,8 @@ type: Executive
 title: Creative Director
 company: Swiss Watch International
 location: Hollywood, FL
-apply: coroflot.com/jobs/45111/Creative-Director
+http: http
+apply: www.coroflot.com/jobs/45111/Creative-Director
 post-date: 1-19-2013
 --- 
 

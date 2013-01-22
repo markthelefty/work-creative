@@ -4,6 +4,7 @@ type: iOS
 title: Android or iOS Mobile Software Developer
 company: Ignite Video
 location: San Francisco, CA
+http: http
 apply: careers.stackoverflow.com/jobs/29374/android-or-ios-mobile-software-developer-ignite-video
 post-date: 1-19-2013
 --- 

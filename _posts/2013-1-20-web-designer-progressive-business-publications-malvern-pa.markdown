@@ -4,6 +4,7 @@ type: Design
 title: Web Designer
 company: Progressive Business Publications
 location: Malvern, PA
+http: http
 apply: pbpemployment.com/job-opportunities/web-designer/
 post-date: 1-20-2013
 --- 

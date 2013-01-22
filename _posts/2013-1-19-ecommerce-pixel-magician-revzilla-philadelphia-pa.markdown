@@ -4,6 +4,7 @@ type: Design
 title: eCommerce Pixel Magician (Junior Web & Graphic Designer)
 company: RevZilla.com
 location: Philadelphia, PA
+http: http
 apply: revzilla.theresumator.com/apply/job_20130118230548_KJHQUKOFN6EKPTQ2/ECommerce-Pixel-Magician-Junior-Web-Graphic-Designer.html
 post-date: 1-19-2013
 --- 

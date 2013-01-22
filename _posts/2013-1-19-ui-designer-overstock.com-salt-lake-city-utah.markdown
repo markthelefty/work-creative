@@ -4,6 +4,7 @@ type: Design
 title: UI Designer
 company: Overstock.com
 location: Salt Lake City, UT
+http: http
 apply: newton.newtonsoftware.com/career/SubmitResume.action?clientId=4028f88c29ef64190129f13f707604e7&id=8a42a12b3c245793013c25ae90663311&specialization=
 post-date: 1-19-2013
 --- 

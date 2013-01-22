@@ -4,6 +4,7 @@ type: Programming
 title: Front-End Developer
 company: Oncall Interactive
 location: Chicago, IL
+http: http
 apply: oncall.theresumator.com/apply/job_20120510180815_KH1CEJHZA08ZAMHQ/FrontEnd-Developer.html
 post-date: 1-20-2013
 --- 

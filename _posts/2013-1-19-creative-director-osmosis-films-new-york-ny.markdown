@@ -4,7 +4,8 @@ type: Executive
 title: Creative Director
 company: Osmosis Films
 location: New York, NY
-apply: behance.net/joblist/Creative-Director/17797
+http: http
+apply: www.behance.net/joblist/Creative-Director/17797
 post-date: 1-19-2013
 --- 
 

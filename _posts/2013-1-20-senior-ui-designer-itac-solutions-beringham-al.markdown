@@ -4,7 +4,8 @@ type: Design
 title: Senior UI Designer
 company: ITAC Solutions
 location: Birmingham, AL
-apply: careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=J3J0NK6WKN3918V05Q7
+http: http
+apply: www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=J3J0NK6WKN3918V05Q7
 post-date: 1-20-2013
 --- 
 

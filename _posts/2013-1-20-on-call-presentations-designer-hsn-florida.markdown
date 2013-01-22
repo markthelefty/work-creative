@@ -4,6 +4,7 @@ type: Design
 title: On Call Presentations Designer
 company: HSN
 location: Florida
+http: https
 apply: hsn.taleo.net/careersection/2/jobdetail.ftl?job=86220
 post-date: 1-20-2013
 --- 

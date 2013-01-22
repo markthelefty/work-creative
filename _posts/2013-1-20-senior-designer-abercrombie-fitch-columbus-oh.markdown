@@ -4,6 +4,7 @@ type: Design
 title: Senior Designer
 company: Abercrombie & Fitch Trading Co
 location: Columbus, OH
+http: http
 apply: jobview.monster.com/getjob.aspx?jobid=118434859
 post-date: 1-20-2013
 --- 

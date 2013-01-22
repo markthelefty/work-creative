@@ -4,6 +4,7 @@ type: Executive
 title: Director, Interactive Project Management
 company: Prudential
 location: Newark, NJ
+http: https
 apply: pru.taleo.net/careersection/external_actuary/jobdetail.ftl?job=104696
 post-date: 1-19-2013
 --- 

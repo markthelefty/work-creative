@@ -4,6 +4,7 @@ type: Programming
 title: User Interface Developer
 company: Hitachi Consulting
 location: Dallas, TX
+http: http
 apply: ch.tbe.taleo.net/CH14/ats/careers/requisition.jsp?org=HITACHICONSULTING&cws=1&rid=3519
 post-date: 1-20-2013
 --- 

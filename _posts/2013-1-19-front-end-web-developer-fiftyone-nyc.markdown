@@ -4,7 +4,8 @@ type: Programming
 title: Front-End Web Developer
 company: FiftyOne
 location: New York, NY (Midtown)
-apply: fiftyone.com/company/careers/?gnk=job&gni=8a42a12b3c34506f013c4fd2af820846
+http: http
+apply: www.fiftyone.com/company/careers/?gnk=job&gni=8a42a12b3c34506f013c4fd2af820846
 post-date: 1-19-2013
 --- 
 

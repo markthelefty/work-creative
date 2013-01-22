@@ -4,6 +4,7 @@ type: iOS
 title: iOS Developer
 company: vtrIT
 location: Seattle, WA
+http: http
 apply: www.sologig.com/INTL/JobSeeker/Jobs/JobDetails.aspx?Job_DID=J3G1G56FX34ZRVBTTCW
 post-date: 1-20-2013
 --- 

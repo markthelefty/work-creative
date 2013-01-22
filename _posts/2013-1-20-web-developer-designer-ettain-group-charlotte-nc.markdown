@@ -4,7 +4,8 @@ type: Design
 title: Web Developer / Designer
 company: ettain group
 location: Charlotte, NC
-apply: careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=J3H7LM796SXCM8P240L&cbRecursionCnt=1
+http: http
+apply: www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=J3H7LM796SXCM8P240L&cbRecursionCnt=1
 post-date: 1-20-2013
 --- 
 

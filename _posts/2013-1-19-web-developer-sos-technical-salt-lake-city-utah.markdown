@@ -4,6 +4,7 @@ type: Programming
 title: Web Developer
 company: SOS Technical
 location: Salt Lake City, Utah 
+http: https
 apply: utahtech.iapplicants.com/application.php?job_id=384705&app_id=559
 post-date: 1-19-2013
 --- 

@@ -4,7 +4,8 @@ type: Programming
 title: Lead UI Developer - UI/UX
 company: TekPartners
 location: Hallandale Beach, FL
-apply: careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=J3H75T783FMXQGFY1Z8
+http: http
+apply: www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=J3H75T783FMXQGFY1Z8
 post-date: 1-20-2013
 --- 
 

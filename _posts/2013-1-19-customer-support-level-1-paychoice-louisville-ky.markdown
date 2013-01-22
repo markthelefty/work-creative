@@ -4,6 +4,7 @@ type: Support
 title: CustomerSupport Level I
 company: PayChoice
 location: Louisville, KY
+http: http
 apply: ch.tbe.taleo.net/CH06/ats/careers/requisition.jsp?org=PAYCHOICEHR&cws=1&rid=143
 post-date: 1-19-2013
 --- 

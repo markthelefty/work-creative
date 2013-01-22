@@ -4,6 +4,7 @@ type: Executive
 title: Interactive Art Director / Interactive Designer
 company: Lookthinkmake
 location: Austin, TX
+http: http
 apply: austin.aiga.org/job-postings/interactive-art-director-interactive-designer/
 post-date: 1-19-2013
 --- 

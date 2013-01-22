@@ -4,6 +4,7 @@ type: Design
 title: Temp-to-Perm Digital Art Director/Designer
 company: mcgarrybowen
 location: New York, NY
+http: http
 apply: ch.tbe.taleo.net/CH18/ats/careers/requisition.jsp?org=MCGARRYBOWEN2&cws=1&rid=190
 post-date: 1-20-2013
 --- 

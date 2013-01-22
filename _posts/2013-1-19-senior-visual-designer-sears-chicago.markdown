@@ -4,6 +4,7 @@ type: Design
 title: Senior Visual Designer
 company: Sears
 location: Chicago, IL (Loop Area)
+http: http
 apply: appclix.postmasterlx.com/index.html?pid=c216459d3c47bc7e013c4ae603ae06d5
 post-date: 1-19-2013
 --- 

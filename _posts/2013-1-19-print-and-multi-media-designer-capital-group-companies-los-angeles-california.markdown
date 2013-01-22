@@ -4,6 +4,7 @@ type: Design
 title: Print and Multimedia Designer
 company: Capital Group Companies
 location: Los Angeles, CA
+http: http
 apply: sjobs.brassring.com/1033/ASP/TG/cim_jobdetail.asp?jobId=702195&PartnerId=13910&SiteId=5018
 post-date: 1-19-2013
 --- 

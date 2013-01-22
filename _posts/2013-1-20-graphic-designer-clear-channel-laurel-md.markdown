@@ -4,6 +4,7 @@ type: Design
 title: Graphic Designer
 company: Clear Channel
 location: Laurel, MD
+http: http
 apply: www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=JHN60X6XND3JTP18F0Q
 post-date: 1-20-2013
 --- 

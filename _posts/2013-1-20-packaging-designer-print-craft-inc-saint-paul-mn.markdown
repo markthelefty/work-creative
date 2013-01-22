@@ -4,7 +4,8 @@ type: Design
 title: Packaging Designer - CAD/Adobe Illustrator
 company: Print Craft Inc
 location: Saint Paul, MN
-apply: careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=JHV15D5XY3NPRP0QDN2
+http: http
+apply: www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?Job_DID=JHV15D5XY3NPRP0QDN2
 post-date: 1-20-2013
 --- 
 

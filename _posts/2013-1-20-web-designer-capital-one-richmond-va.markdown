@@ -4,6 +4,7 @@ type: Design
 title: Web Designer
 company: Capital One
 location: Richmond, VA
+http: http
 apply: capitalone.jobs2web.com/job/Richmond-Web-Designer-%28USA%29-Job-VA-23173/2386704/?feedId=690
 post-date: 1-20-2013
 --- 

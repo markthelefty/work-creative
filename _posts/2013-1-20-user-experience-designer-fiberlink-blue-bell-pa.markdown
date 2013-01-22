@@ -4,7 +4,8 @@ type: Design
 title: User Experience Designer
 company: Fiberlink
 location: Blue Bell, PA
-apply: careerrookie.com/Entry%20Level%20Jobs/Design/US-PA/User-Experience-Designer/J3J8J16S1BZFQ6JXCH9/?IPath=JRCM&APath=2.21.0.0.0
+http: http
+apply: www.careerrookie.com/Entry%20Level%20Jobs/Design/US-PA/User-Experience-Designer/J3J8J16S1BZFQ6JXCH9/?IPath=JRCM&APath=2.21.0.0.0
 post-date: 1-20-2013
 --- 
 
