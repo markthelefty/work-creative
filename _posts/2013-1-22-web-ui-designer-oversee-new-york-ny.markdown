@@ -19,10 +19,11 @@ Oversee.net’s Retail Group in New York City seeks an experienced user interfac
 * Analyzing results of usability tests to inform design
 * Responsive design for mobile and tablet views
 * User personas and agile user stories
-* HTML & CSS 
-* Using Adobe Creative Suite including Photoshop, Illustrator, Fireworks 
+* HTML & CSS
+* Using Adobe Creative Suite including Photoshop, Illustrator, Fireworks
 
-##Job Requirements: 
+
+##Job Requirements:
 * BA/BS degree in graphic design, business or a related field preferred
 * 3 plus years of experience and a portfolio of quality work
 * Mastery of UI design principles and best practices
@@ -31,6 +32,7 @@ Oversee.net’s Retail Group in New York City seeks an experienced user interfac
 * Ability to adapt quickly and easily to a changing environment
 * Excellent time management skills
 * Multi-tasker
+
 
 ##We are:
 ShopWiki.com, division of Oversee.net, a fun but hard-working tech company, working in the online shopping space, and expanding both domestically and internationally. We have a proven management team and an exceptional crew. The atmosphere is casual but intense and highly professional.
