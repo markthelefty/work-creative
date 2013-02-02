@@ -4,6 +4,7 @@ type: Programming
 title: Web Developer
 company: Todd Snyder
 location: New York, NY
+category: nj-fdev
 http: http
 apply: toddsnyder.theresumator.com/apply/VxE58k/Web-Developer.html
 post-date: 1-23-2013
