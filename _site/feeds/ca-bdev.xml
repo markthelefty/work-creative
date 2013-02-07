@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>Job Notification Feed</description>
+		<link></link>
+		<atom:link href="/feeds/ca-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>PHP Developer at SurveyMonkey in Palo Alto, CA</title>
+				<description>&lt;p&gt;SurveyMonkey is the world&amp;rsquo;s leading provider of web-based survey solutions, but there&amp;rsquo;s really much more to us than that. We&amp;rsquo;re a smart, passionate group of people who work hard to deliver the best survey experience on the planet, period. We do this because we believe everyone deserves easy access to the insights and information they need to make better, more informed decisions.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re also proud to admit that despite our incredible growth over the past 10 years, we refuse to grow up. We are still small and nimble; everyone plays an impactful role; and when we say good ideas can come from anyone, we mean it.&lt;/p&gt;
+
+&lt;p&gt;SurveyMonkey is trusted by millions of customers, including 100% of the Fortune 100, as well as other businesses, academic institutions and organizations of all shapes and sizes. In any given month, we collect more than 40 million survey responses from people in all countries around the world.&lt;/p&gt;
+
+&lt;p&gt;If this sounds like home to you, and you&amp;rsquo;re ready to make your work matter to millions, we&amp;rsquo;d love to meet you.&lt;/p&gt;
+
+&lt;h2&gt;The Role:&lt;/h2&gt;
+
+&lt;p&gt;In this role you&amp;rsquo;ll collaborate with engineers, product managers, business stakeholders, and the technical operations team to develop and own the next generation of the platform that connects millions of people around the globe every day to surveys that seek their opinions.  Limited only by your creativity, you&amp;rsquo;ll invent new features, develop distributed services, and help build a scalable and reliable platform using the latest techniques and technologies.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Write full-stack code for high-volume, web-based applications, from the database to the front-end layers.  Be able to develop prototypes quickly and take an interest in new technology/techniques.&lt;/li&gt;
+&lt;li&gt;Help invent new features and design, develop, deploy, and help support highly scalable and reliable distributes services and software that enable us to deliver great applications.&lt;/li&gt;
+&lt;li&gt;Contribute to the design of the architecture for and the interconnections between our applications.  Hold you own in a team of people with significant experience.&lt;/li&gt;
+&lt;li&gt;Take ownership of significant pieces of the codebase.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BS, MS, or PhD in Computer Science or a related technical discipline (or equivalent)&lt;/li&gt;
+&lt;li&gt;Significant experience with data structures, algorithms, and software design&lt;/li&gt;
+&lt;li&gt;Significant experience with application performance tuning&lt;/li&gt;
+&lt;li&gt;Extensive programming experience in PHP and SQL with Python skills a strong plus&lt;/li&gt;
+&lt;li&gt;A solid understanding of and experience with Linux and Apache&lt;/li&gt;
+&lt;li&gt;Knowledge of storage architectures, NoSQL databases, and network and security protocols and architectures a strong plus&lt;/li&gt;
+&lt;li&gt;Experience with SQL Server a strong plus&lt;/li&gt;
+&lt;li&gt;Experience with caching such as memcached a strong plus&lt;/li&gt;
+&lt;li&gt;Experience with front-end development such as HTML5, CSS3, and Jquery a strong plus&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;At SurveyMonkey, we offer competitive salaries, medical/dental benefits, PTO, 401k, paid holidays, and equity compensation.&lt;/p&gt;
+
+&lt;p&gt;SurveyMonkey is an equal opportunity employer.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 03 Feb 2013 11:35:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/php-developer-surveymonkey-palo-alto-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/php-developer-surveymonkey-palo-alto-ca</guid>
+			</item>
+		
+	</channel>
+</rss>

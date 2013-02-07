@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>Job Notification Feed</description>
+		<link></link>
+		<atom:link href="/feeds/nj-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer at Todd Snyder in New York, NY</title>
+				<description>&lt;p&gt;Todd Snyder is looking for an amazing web developer who can create &amp;amp; develop applications for our ecommerce site as well as internal tools to help our business expand. We’re looking for someone that not only knows front-end and back-end development like the back of their hand but is always learning new technologies and applying them to their work.&lt;/p&gt;
+
+&lt;p&gt;This is a salaried full-time position.&lt;/p&gt;
+
+&lt;h2&gt;Primary Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Write unbelievably clean &amp;amp; amazing code&lt;/li&gt;
+&lt;li&gt;Work with the design team to develop applications for our e-commerce website&lt;/li&gt;
+&lt;li&gt;Engage in special projects that align personal interests and the company’s needs&lt;/li&gt;
+&lt;li&gt;Create and maintain databases&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eager to work in a fast-paced startup&lt;/li&gt;
+&lt;li&gt;3+ years of relevant work experience&lt;/li&gt;
+&lt;li&gt;Experience developing web-based consumer-facing applications using Ruby on Rails, jQuery, HTML5, CSS3 &amp;amp; AJAX&lt;/li&gt;
+&lt;li&gt;A good sense of design&lt;/li&gt;
+&lt;li&gt;Ability to work on the full web stack: From UI/UX design/front-end development to server side back-end development&lt;/li&gt;
+&lt;li&gt;Knowledge of standards and best practices across front-end &amp;amp; back-end development&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Not Required but Extra Credit:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience working with the Shopify API&lt;/li&gt;
+&lt;li&gt;Again, a good eye for design&lt;/li&gt;
+&lt;li&gt;Strong user and believer in GitHub and open source software&lt;/li&gt;
+&lt;li&gt;User of Heroku or Parse&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Working at Todd Snyder:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with a fast-moving fashion start-up&lt;/li&gt;
+&lt;li&gt;Health/Dental&lt;/li&gt;
+&lt;li&gt;Free &amp;amp; Discounted Menswear!&lt;/li&gt;
+&lt;li&gt;Be a integral part of a growing team&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;To apply please submit your resume and links to previous work.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 03 Feb 2013 12:35:28 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-todd-snyder-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-todd-snyder-new-york-ny</guid>
+			</item>
+		
+	</channel>
+</rss>

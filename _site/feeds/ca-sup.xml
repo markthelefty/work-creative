@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>Job Notification Feed</description>
+		<link></link>
+		<atom:link href="/feeds/ca-sup.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Customer Support Specialist at Responsys in San Bruno, CA</title>
+				<description>&lt;p&gt;The candidate must be able to work directly with customers in high-pressure situations; have strong analytic, organizational, time management, and communication skills; thrive in a team environment; and possess the willingness to do whatever it takes to achieve the highest level of customer satisfaction. The candidate will interact with cross-functional teams including Production Support and Engineering. This position requires HTML and SQL debugging skills.&lt;/p&gt;
+
+&lt;p&gt;The job responsibilities include, but are not limited to, analyze, track and resolve customer issues in a professional, timely manner; identify alternate solutions when necessary and communicate them to customers; develop and implement web based support initiatives including internal knowledge base, and customer facing solutions; Manage escalated cases and track to resolution; Debug HTML and SQL related issues.  This position also requires participation in the on-call rotation.&lt;/p&gt;
+
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5-7 years customer support experience for software applications&lt;/li&gt;
+&lt;li&gt;2+ years with multi-tiered application support experience&lt;/li&gt;
+&lt;li&gt;Excellent verbal and written communication skills&lt;/li&gt;
+&lt;li&gt;Outstanding interpersonal and telephone skills&lt;/li&gt;
+&lt;li&gt;Strong problem solving skills&lt;/li&gt;
+&lt;li&gt;Ability to function and thrive in a team environment with an appreciation of aggressive goals&lt;/li&gt;
+&lt;li&gt;Energetic, with a strong desire to succeed.&lt;/li&gt;
+&lt;li&gt;Some knowledge of TCP/IP networking with good understanding of SMTP, DNS, and HTTP protocols&lt;/li&gt;
+&lt;li&gt;Some knowledge of Linux/Unix operating systems with the ability to write and debug shell scripts&lt;/li&gt;
+&lt;li&gt;Some knowledge of relational database management systems with the ability to write and debug SQL queries&lt;/li&gt;
+&lt;li&gt;Knowledge JavaScript a plus&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sun, 03 Feb 2013 11:36:17 -0500</pubDate>
+				<link>http://workcreative.net/jobs/customer-support-specialist-responsys-san-bruno-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/customer-support-specialist-responsys-san-bruno-ca</guid>
+			</item>
+		
+	</channel>
+</rss>

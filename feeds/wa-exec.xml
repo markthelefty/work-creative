@@ -1,0 +1,21 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>{{ site.name }}</title>
+		<description>Job Notification Feed</description>
+		<link>{{ site.url }}</link>
+		<atom:link href="{{ site.url }}/feeds/wa-exec.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.categories.wa-exec limit:10 %}
+			<item>
+				<title>{{ post.title }} at {{post.company}} in {{post.location}}</title>
+				<description>{{ post.content | xml_escape }}</description>
+				<pubDate>{{ post.date | date: "Sun, 03 Feb 2013 12:51:37 -0500" }}</pubDate>
+				<link>http://workcreative.net/{{ post.url }}</link>
+				<guid isPermaLink="true">http://workcreative.net/{{ post.url }}</guid>
+			</item>
+		{% endfor %}
+	</channel>
+</rss>

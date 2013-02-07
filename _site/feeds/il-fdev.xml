@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>Job Notification Feed</description>
+		<link></link>
+		<atom:link href="/feeds/il-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-End Developer at Siteworx, Inc in Chicago, IL</title>
+				<description>&lt;p&gt;Siteworx is looking for a motivated Front End / User Interface Developer to work on large development projects in our downtown Chicago office.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You will be working directly with our User Experience and Design staff to transition interfaces from concept to reality, then working with our product development staff to integrate the interfaces you create into our technical solutions.&lt;/li&gt;
+&lt;li&gt;Communication skills are highly important, as you will need to interface with multiple teams of individuals, as well as clients.&lt;/li&gt;
+&lt;li&gt;Interested candidates should be well-versed in XHTML/HTML5, CSS 2 &amp;amp; 3, and jQuery.  Experience with the Sencha/ExtJS framework and web content management systems, such as Adobe CQ, Sitecore, EPiServer, or Drupal is a plus.&lt;/li&gt;
+&lt;li&gt;Must haves: 4-year degree ( pref. in Computer Science) or related fields is preferred, your past experience, examples of your work, your ability to learn, and your demonstrated passion for technology are more important.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;About us:&lt;/h2&gt;
+
+&lt;p&gt;Siteworx is an award-winning interactive agency with deep roots in agile design, Web content management (WCM) and systems integration. For more than a decade, we’ve tapped an uncommon blend of technology and design know-how to discover, create and deploy best in class Web and mobile experiences that deliver business results. Siteworx was recently named to the IMA&amp;rsquo;s Top 10 Agencies of 2011 and has been recognized among KMWorld&amp;rsquo;s 100 Companies that Matter in Knowledge Management for the last three consecutive years. Headquartered in Reston, Virginia, Siteworx maintains full-service offices in San Francisco, CA, Atlanta, GA, Chicago, IL, Raleigh, NC, Rochester, NY and New York, NY. Learn more at &lt;a href=&quot;http://www.siteworx.com&quot;&gt;http://www.siteworx.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Siteworx employees are a unique mix of creative and technical individuals whose skill and dedication have won acclaim and loyalty from our many high profile clients. We are passionate about our work and about our lives, and our culture emphasizes the need to balance them.&lt;/p&gt;
+
+&lt;p&gt;Siteworx offers competitive salary and benefits including health, dental and life insurance; 401k plan with employer contribution; vacation, holiday and sick leave; and education reimbursement plan. EOE/M/F/D/V&lt;/p&gt;
+</description>
+				<pubDate>Sun, 03 Feb 2013 11:48:07 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-siteworx-inc-chicago-il</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-siteworx-inc-chicago-il</guid>
+			</item>
+		
+	</channel>
+</rss>

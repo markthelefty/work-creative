@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>Job Notification Feed</description>
+		<link></link>
+		<atom:link href="/feeds/ri-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Drupal Themer / Front-End Developer at Lullabot in Providence, RI</title>
+				<description>&lt;p&gt;Come help Lullabot build the biggest and best Drupal websites in existence!&lt;/p&gt;
+
+&lt;p&gt;Do you relish pixel perfection? Do you have dreams in the 960 grid? Were you the first to use CSS3 to create gradients, and rounded corners for Mozilla and Webkit, while maintaining reliable fallbacks for IE? Could you teach a class on the way different legacy browsers implemented the box model? Are you passionate about HTML5 adoption and semantic mark-up? Have you created themes in Drupal 6 and 7? Do you understand renderable arrays? Do you have &amp;lsquo;vi vs. emacs&amp;rsquo;-style arguments with other geeky themer friends about the best base theme for Drupal, or cringe at the thought of anyone, anywhere using a base theme? If so, read on, my friend, read on&amp;hellip;&lt;/p&gt;
+
+&lt;h2&gt;Ideal candidates will:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Be intimate with Drupal theming and configuration; experience with Drupal 7 is a must.&lt;/li&gt;
+&lt;li&gt;Have experience with PHP, including modifying Drupal template files, preprocessing variables, and writing functions in template.php.&lt;/li&gt;
+&lt;li&gt;Be comfortable with theming Drupal forms, and knowledgeable of what&amp;rsquo;s possible with HTML5 forms markup.&lt;/li&gt;
+&lt;li&gt;Be comfortable with JQuery and JavaScript for Drupal 7.&lt;/li&gt;
+&lt;li&gt;Be able to bend IE7 and 8 to your will.&lt;/li&gt;
+&lt;li&gt;Have a fanatical eye for detail, and a passion for pixel perfection.&lt;/li&gt;
+&lt;li&gt;Employ a courageous attitude toward CSS3, experimenting with CSS3 methods for gradients, rounded corners, fonts, etc., but know when graceful fallbacks are necessary.&lt;/li&gt;
+&lt;li&gt;Be familiar with Git for version control.&lt;/li&gt;
+&lt;li&gt;Know Drupal coding standards.&lt;/li&gt;
+&lt;li&gt;Strong fluency with grid-based systems for layout&lt;/li&gt;
+&lt;li&gt;Demonstrate experience with LESS or SASS&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Personal skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Be self-directed and able to manage your own tasks.&lt;/li&gt;
+&lt;li&gt;Have strong communication skills and a positive attitude toward your work (we love our work and you should too)!&lt;/li&gt;
+&lt;li&gt;Plays well with others.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;More about Lullabot:&lt;/h2&gt;
+
+&lt;p&gt;We are a 7-year-old distributed (sometimes called &amp;ldquo;virtual&amp;rdquo;) company without a central office. Though both of the company&amp;rsquo;s founders now live in the Providence, RI, area, the remainder of our 27 employees are spread out across the Western Hemisphere. We&amp;rsquo;re very proud of our team of experts and our contributions and leadership in the Drupal community. We simply hire the most talented people wherever they are.&lt;/p&gt;
+
+&lt;p&gt;We prefer to provide an intimate, high-quality, highly focused relationship with our clients. This focus on quality over quantity means that we try to grow slowly and we turn down many more projects than we accept.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re asking applicants to submit a 2-minute video introducing themselves. We realize that for many people this is an exercise in self-consciousness; however, being a virtual company, it helps us quickly get to know you. Just shoot something with your computer&amp;rsquo;s webcam and post it as a password-protected video on Vimeo. You can post your video elsewhere, or get more fancy with it if you like, but we&amp;rsquo;re really just looking for a brief introduction. Take a look at one-of-these-videos to see what&amp;rsquo;s gotten folks hired in the past.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 03 Feb 2013 12:43:19 -0500</pubDate>
+				<link>http://workcreative.net/jobs/drupal-themer-front-end-developer-lullabot-providence-ri</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/drupal-themer-front-end-developer-lullabot-providence-ri</guid>
+			</item>
+		
+	</channel>
+</rss>
