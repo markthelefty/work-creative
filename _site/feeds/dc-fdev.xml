@@ -1,10 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/dc-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/dc-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-End Web Developer at Resolvit, LLC in Washington, DC</title>
+				<description>&lt;p&gt;&lt;strong&gt;Resolvit IT &amp;amp; Management Consulting (Resolvit)&lt;/strong&gt; is looking for a &lt;strong&gt;Front End Web Developer&lt;/strong&gt; to work on-site in Washington, DC as a full time Resolvit employee.&lt;/p&gt;
+
+&lt;p&gt;Front End Web Developer will be responsible for the presentation level of web presence both inside and outside of the CMS. The successful candidate can thrive in an agile development environment utilizing the latest CSS, JS, and responsive design practices.&lt;/p&gt;
+
+&lt;h2&gt;The candidate will be responsible for the following areas:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jira to document development progress, code migrations and status on work assignments and communicates these updates during daily stand-ups.&lt;/li&gt;
+&lt;li&gt;Reviews and influences ongoing front-end designs, standards and methods for online presence.&lt;/li&gt;
+&lt;li&gt;Develops innovative solutions for stable, secure, high-volume web-based applications through our sprint process.&lt;/li&gt;
+&lt;li&gt;Committed to continually learning through actively participating in code reviews and solution demonstrations.&lt;/li&gt;
+&lt;li&gt;On-call support of front end solutions.&lt;/li&gt;
+&lt;li&gt;Provides technical documentation, code comments, and readable code that is properly stored in a version control system.&lt;/li&gt;
+&lt;li&gt;Possesses an intense drive to learn how to improve our core products and services.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Expertise with UI/UX on critical, large scale web sites.&lt;/li&gt;
+&lt;li&gt;Experience developing and troubleshooting front end solutions across multiple browsers and devices.&lt;/li&gt;
+&lt;li&gt;Solid understanding of the behavior of web application security issues.&lt;/li&gt;
+&lt;li&gt;Ability to multi-task and grow in a fast paced agile development environment.&lt;/li&gt;
+&lt;li&gt;Strong analytical, written and verbal skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5+ years, expert level, javascript and CSS development experience.&lt;/li&gt;
+&lt;li&gt;2+ years of AJAX development experience.&lt;/li&gt;
+&lt;li&gt;Strong knowledge of HTML5, JSON, XML.&lt;/li&gt;
+&lt;li&gt;Firm grasp of cross-browser JS and CSS complexities.&lt;/li&gt;
+&lt;li&gt;Experience with open JS frameworks such as jQuery.&lt;/li&gt;
+&lt;li&gt;Experience in mobile development.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Recommended Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with Adobe’s CQ Content Management System.&lt;/li&gt;
+&lt;li&gt;Experience  with Adobe’s Test &amp;amp; Target and SiteCatalyst products.&lt;/li&gt;
+&lt;li&gt;Experience with responsive design.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;About Resolvit&lt;/h2&gt;
+
+&lt;p&gt;We&amp;rsquo;re a progressive management and IT consulting firm that helps clients' businesses grow with the power of our people—functional and technical experts who bridge the gap between IT and the business that it supports.&lt;/p&gt;
+
+&lt;p&gt;Our projects focus on software development and infrastructure support in the vertical markets of: telecommunications, healthcare and biotechnology, manufacturing and distribution, finance, media, and government. Our project managers, programmers, designers, analysts, and engineers support Fortune 1000 clients.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve grown 121% over the last two years. How? We hire the best in their fields—results-focused professionals with skills that are re-deployable from one engagement to the next. Our employees receive excellent benefits to include Health, Dental, Vision, 401K, Tuition Reimbursement and more.&lt;/p&gt;
+
+&lt;p&gt;At Resolvit, you&amp;rsquo;ll be one of the people growing our business. We&amp;rsquo;d like to make you part of our success. Contact us to discuss your future.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 08 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-resolvit-llc-washington-dc</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-resolvit-llc-washington-dc</guid>
+			</item>
+		
+			<item>
+				<title>Senior Front-End Developer at Onward ITG in Washington, DC</title>
+				<description>&lt;p&gt;OnwardITG is partnering with a Global Consulting Firm to provide Technology, Marketing, and Consulting services to the Federal Government. This firm, is seeking a Sr. Associate of Interactive Development to assist with developing the HTML5, CSS and JavaScript code needed to achieve the design and functionality layer of a website they&amp;rsquo;re creating, for the next 3-6 months, with possibility of extension.&lt;/p&gt;
+
+&lt;h2&gt;Main duties and responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Front end web development&lt;/li&gt;
+&lt;li&gt;Collaborate with site developers on given tasks&lt;/li&gt;
+&lt;li&gt;Examine design compellations to ensure creative can be translated into front-end technologies&lt;/li&gt;
+&lt;li&gt;Work with back-end development/developers (code integration)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HTML5&lt;/li&gt;
+&lt;li&gt;CSS2/3&lt;/li&gt;
+&lt;li&gt;JavaScript (jQuery)&lt;/li&gt;
+&lt;li&gt;CMS experience (must be familiar with coding templates for CMS integration)&lt;/li&gt;
+&lt;li&gt;Photoshop or Illustrator&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Tue, 05 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-front-end-developer-onward-itg-washington-dc</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-front-end-developer-onward-itg-washington-dc</guid>
+			</item>
 		
 	</channel>
 </rss>

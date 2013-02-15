@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/wa-exec.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/wa-exec.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Director Of Web Design at Expedia, Inc. in Bellevue, WA</title>
+				<description>&lt;p&gt;Expedia is shaping a new, world-class travel experience for the web. We&amp;rsquo;re embracing the shift from desktops to using multiple devices, and the Global User Experience Design organization is leading the way. We&amp;rsquo;re building a team of product designers that eat, sleep, and breathe Web design and the technology that shapes it.&lt;/p&gt;
+
+&lt;p&gt;If you can’t help but devour Internet products to understand what makes something beautiful and effective…&lt;/p&gt;
+
+&lt;p&gt;If you are insatiably curious about people’s needs and how different experiences can make things better in both big ways and small…&lt;/p&gt;
+
+&lt;p&gt;If you know how to inspire others and mentor through showing not just telling…&lt;/p&gt;
+
+&lt;p&gt;Then you&amp;rsquo;ve found your home, and we want you to join our UX Leadership team.&lt;/p&gt;
+
+&lt;h2&gt;As the Director of Web Design, you will report to the VP of Global Design and User Experience and you will:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Build, manage, and mentor a team of Web designers&lt;/li&gt;
+&lt;li&gt;Lead and evangelize visual design standards and processes&lt;/li&gt;
+&lt;li&gt;Collaborate with the Director of Content Strategy and Director of Information Architecture on product design strategy&lt;/li&gt;
+&lt;li&gt;Partner with Engineering on front-end technology and approaches to assure gorgeous, adaptive and performant user interfaces&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Technically speaking, we&amp;rsquo;re looking for:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Storied experience designing with the technical constraints of the web and devices&lt;/li&gt;
+&lt;li&gt;Experience designing fluid grid systems and adopting or creating front-end frameworks&lt;/li&gt;
+&lt;li&gt;Fluent in HTML5, CSS3, JavaScript and other web scripting languages (ability to handcode prototypes not necessary but highly preferred)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;In your portfolio, we&amp;rsquo;ll be looking for:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to create beautiful designs by leveraging expert knowledge of typography, layout and composition, color theory, grid systems and use of photography&lt;/li&gt;
+&lt;li&gt;Expertise in the aesthetics of interaction states and transitions&lt;/li&gt;
+&lt;li&gt;Diverse and deep experience with internet products and multi-device design&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Education and Experience&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelors degree in Graphic Design, or other design-related discipline.&lt;/li&gt;
+&lt;li&gt;Ten (10) years experience, including a minimum of five (5) years in a management role.&lt;/li&gt;
+&lt;li&gt;Knowledge of user-centered design principals and proven understanding of the interactive design process.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;About Expedia, Inc.&lt;/h2&gt;
+
+&lt;p&gt;Our mission is to revolutionize travel through the power of technology.&lt;/p&gt;
+
+&lt;p&gt;Collectively, the Expedia, Inc. brands cover virtually every aspect of researching, planning, and booking travel, from choosing the best airplane seat, to reading personal travel reviews of hotels, to planning what to do in a destination once you arrive. The Expedia, Inc. portfolio serves both leisure and business travelers with tastes and budgets ranging from modest to luxury. Expedia delivers consumer travel demand from nearly every continent to nearly 149,000 hotels and hundreds of airlines, tour operators, car rental companies and destination services supply partners. Please visit http://bit.ly/expediabrands to learn more about our travel brands.&lt;/p&gt;
+
+&lt;p&gt;This employer participates in E-Verify. The employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee&amp;rsquo;s I-9 to confirm work authorization.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/director-of-web-design-expedia-inc-bellevue-wa</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/director-of-web-design-expedia-inc-bellevue-wa</guid>
+			</item>
 		
 	</channel>
 </rss>

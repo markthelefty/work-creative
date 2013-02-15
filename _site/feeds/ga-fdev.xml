@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ga-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ga-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-end Application Developer (HTML5, CSS3, JavaScript) at Softtek in Milton, GA</title>
+				<description>&lt;p&gt;We are seeking an experienced Front end Web application developer (HTML5, CSS3, Javascript) to support our client near Milton, Georgia.  This is a 6 month, salaried position, with a possible 12 month extension.&lt;/p&gt;
+
+&lt;p&gt;Softtek offers a generous benefits package for our consultants, with no waiting period.&lt;/p&gt;
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor&amp;rsquo;s degree in area of Computer Science and at least 5 years of experience&lt;/li&gt;
+&lt;li&gt;Strong Frontend HTML5/CSS3/JavaScript skills&lt;/li&gt;
+&lt;li&gt;Experience creating HTML pages and templates from graphic design files (PSD)&lt;/li&gt;
+&lt;li&gt;Basic Web Application Experience&lt;/li&gt;
+&lt;li&gt;Mobile Web Experience with multiple form factor&lt;/li&gt;
+&lt;li&gt;Experience in single page application&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Experience with JavaScript Frameworks:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;jQuery&lt;/li&gt;
+&lt;li&gt;JQuery Mobile&lt;/li&gt;
+&lt;li&gt;YUI&lt;/li&gt;
+&lt;li&gt;backbone.js&lt;/li&gt;
+&lt;li&gt;underscore.js&lt;/li&gt;
+&lt;li&gt;Moustache&lt;/li&gt;
+&lt;li&gt;Handlebars&lt;/li&gt;
+&lt;li&gt;Dojo&lt;/li&gt;
+&lt;li&gt;Ember.js&lt;/li&gt;
+&lt;li&gt;Angular.js&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;US Citizenship, Green Card, or EAD is required&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Softtek Company Summary:&lt;/h2&gt;
+
+&lt;p&gt;Founded in 1982, Softtek is a global provider of process-driven IT solutions with 30 offices in North America, Latin America, Europe and Asia. With nine Global Delivery Centers in Mexico, China, Brazil, Argentina and Spain, Softtek helps improve time-to-business-solution, lower costs of existing applications, deliver better engineered and tested applications, and produce predictable outcomes for top-tier corporations in over 20 countries.  Through on-site, on-shore and its trademarked Global Nearshoreâ„¢ service delivery models, Softtek teams with CIOs to constantly increase the business value of IT. Softtek is the creator and a leader of the nearshore industry.&lt;/p&gt;
+
+&lt;h3&gt;Vision&lt;/h3&gt;
+
+&lt;p&gt;We aspire to transcend as a leading global provider of IT and business process solutions, forging longstanding and mutually beneficial relationships built on a foundation of earned trust. We will build our future by being a well-grounded and socially responsible company, with a profitable track record, delivering innovative high quality services, driven by a passionate, human-centric culture.&lt;/p&gt;
+
+&lt;h2&gt;Services:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Application-Related Services&lt;/li&gt;
+&lt;li&gt;Business Process Outsourcing&lt;/li&gt;
+&lt;li&gt;IT Infrastructure Support&lt;/li&gt;
+&lt;li&gt;Software Products and Associated Services&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Customers:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Softtek is a preferred service provider for several Fortune 500 organizations&lt;/li&gt;
+&lt;li&gt;Top-tier corporations in the markets where we operate&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Awards and Distinctions:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SEI CMMi Level 5&lt;/li&gt;
+&lt;li&gt;Six Sigma Corporate Program&lt;/li&gt;
+&lt;li&gt;Named as a &amp;ldquo;Strong Performer&amp;rdquo; for SAP Implementation services by Forrester&lt;/li&gt;
+&lt;li&gt;Globalization-2010 Award for Performance, GE GDC Program&lt;/li&gt;
+&lt;li&gt;BusinessWeek Emerging Outsourcing Players&lt;/li&gt;
+&lt;li&gt;ISO 9001:2008 (for Procurement Services from Aguascalientes, Mexico and for Design, development, support and IT application improvements in Argentina)&lt;/li&gt;
+&lt;li&gt;ISO 9001:2008 Certification (for Development, Maintenance &amp;amp; Application Support in Brazil)&lt;/li&gt;
+&lt;li&gt;Gartner Best Solution Delivery Award 2004&lt;/li&gt;
+&lt;li&gt;The Global Services 100 &amp;ndash; Top Company to Watch South of the Border 2007 &amp;amp; 2008 and Top Company to Watch in Latin America 2006 by neoIT and Global Services Magazine&lt;/li&gt;
+&lt;li&gt;Great Place to Work Institute&amp;rsquo;s Best Places to Work For: Argentina, Brazil, and Mexico&lt;/li&gt;
+&lt;li&gt;Only Latin-American company in Gartner&amp;rsquo;s Magic Quadrant for Offshore Application Services 2006 &amp;amp; 2007&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;For additional information, visit our website at www.softtek.com&lt;/p&gt;
+
+&lt;p&gt;For other employment opportunities, go to: &lt;a href=&quot;http://www.softtek.com/en/unitedstates/jobs-usa-canada&quot;&gt;http://www.softtek.com/en/unitedstates/jobs-usa-canada&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/frontend-web-application-developer-html5-css3-javascript-softtek-milton-ga</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/frontend-web-application-developer-html5-css3-javascript-softtek-milton-ga</guid>
+			</item>
+		
+			<item>
+				<title>Web Developer - Intermediate at RiVi Consulting Group in Alpharetta, GA</title>
+				<description>&lt;h2&gt;Skill Set&lt;/h2&gt;
+
+&lt;p&gt;Requires both front-end (GUI) and back-end development experience.&lt;/p&gt;
+
+&lt;h2&gt;Roles and responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Responsible for the development and design of web applications and components.&lt;/li&gt;
+&lt;li&gt;Design, code, test, and implement web sites and applications, for either internal or external uses.&lt;/li&gt;
+&lt;li&gt;Troubleshoot and resolve issues surrounding performance, response times, capacity and system limitations.&lt;/li&gt;
+&lt;li&gt;Responsible for creating and modifying documentation corresponding to websites.&lt;/li&gt;
+&lt;li&gt;May collaborate with internal business partners, internal technology resources (database, system, networking) and with external vendors.&lt;/li&gt;
+&lt;li&gt;Maintain and update websites and ensure data quality, integrity and consistency across organization.&lt;/li&gt;
+&lt;li&gt;Requires both front-end (GUI) and back-end development experience.&lt;/li&gt;
+&lt;li&gt;3+ years of prior web development experience is required.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-intermediate-rivi-consulting-group-alpharetta-ga</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-intermediate-rivi-consulting-group-alpharetta-ga</guid>
+			</item>
 		
 	</channel>
 </rss>

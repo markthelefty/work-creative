@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ut-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ut-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer at AtTask, Inc. in Lehi, UT</title>
+				<description>&lt;p&gt;Would you like to be part of an award winning, profitable, fast-growing, privately held company located in Lehi, UT? Are you passionate about the chance to use your skills and experience to make a difference with an exciting and innovative organization? Do you believe that good user experience is a worthy challenge? Then you might want to join us at AtTask. We need you in our Marketing UX group to work closely with UX, Design, and Content Marketing to help develop and maintain our online presence (including mobile).&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work with user experience designers to developing user-centric interfaces for both web and mobile&lt;/li&gt;
+&lt;li&gt;Develop and maintain testing/QA processes to ensure consistency&lt;/li&gt;
+&lt;li&gt;Create code that validates and complies with current standards&lt;/li&gt;
+&lt;li&gt;Create templates with guidelines and documentation&lt;/li&gt;
+&lt;li&gt;Enforce web standards compliance and ensure that web pages and content are tested across multiple platforms and browsers&lt;/li&gt;
+&lt;li&gt;Introduce and implement innovative techniques and technologies&lt;/li&gt;
+&lt;li&gt;Help manage and complete production tasks to create and update web content&lt;/li&gt;
+&lt;li&gt;Self-manage completion of projects and work with internal customer to ensure satisfaction&lt;/li&gt;
+&lt;li&gt;Get the work done, but have fun at the same time&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Skills &amp;amp; Experience&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2+ years industry experience&lt;/li&gt;
+&lt;li&gt;Expertise in object-oriented PHP5&lt;/li&gt;
+&lt;li&gt;Expertise in HTML/XHTML5 and CSS3&lt;/li&gt;
+&lt;li&gt;Experience developing/extending WordPress to provide solutions for translation/localization, site search, etc.&lt;/li&gt;
+&lt;li&gt;Experience with Eloqua and SalesForce.com integration&lt;/li&gt;
+&lt;li&gt;Familiar with responsive web design techniques&lt;/li&gt;
+&lt;li&gt;Strong understanding of current web standards and best practices&lt;/li&gt;
+&lt;li&gt;Advanced JavaScript knowledge including AJAX and frameworks such as JQuery&lt;/li&gt;
+&lt;li&gt;Ability to work with Adobe Photoshop, Illustrator and Fireworks to cut images from given design files&lt;/li&gt;
+&lt;li&gt;Top notch communication skills—both verbal and written&lt;/li&gt;
+&lt;li&gt;Excellent problem solving and creative thinking skills&lt;/li&gt;
+&lt;li&gt;Strong ability to self-motivate, think analytically, and work with great (bordering on obsessive) attention to detail&lt;/li&gt;
+&lt;li&gt;Motivated to research and learn about new technologies and practices&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Compensation &amp;amp; Benefits&lt;/h2&gt;
+
+&lt;p&gt;Competitive salary commensurate with experience.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-attask-inc-lehi-ut</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-attask-inc-lehi-ut</guid>
+			</item>
+		
+			<item>
+				<title>Ecommerce Web Developer at Black Diamond Equipment Ltd. in Salt Lake City, UT</title>
+				<description>&lt;h2&gt;Job Description&lt;/h2&gt;
+
+&lt;h3&gt;Position Summary:&lt;/h3&gt;
+
+&lt;p&gt;Black Diamond is seeking a Web Developer to work as part of a smart, dedicated team to help design and build ecommerce sites for a rapidly growing multi-brand, multinational company. If you enjoy the challenges and opportunity of working in a fast-paced start up environment with the benefits of a mature company, then Black Diamond may be for you.&lt;/p&gt;
+
+&lt;h3&gt;Skills and General Experience:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience extending and integrating with complex systems via SDKs and APIs&lt;/li&gt;
+&lt;li&gt;Experience with web services&lt;/li&gt;
+&lt;li&gt;Experience with the latest in web standards like HTML5 and CSS3 modules&lt;/li&gt;
+&lt;li&gt;Advanced JavaScript experience&lt;/li&gt;
+&lt;li&gt;Experience with AJAX and JSON&lt;/li&gt;
+&lt;li&gt;Database development experience&lt;/li&gt;
+&lt;li&gt;Experience with Git or other version control systems&lt;/li&gt;
+&lt;li&gt;Appreciation for web standards, best-practices and high quality user experience&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Nice to have&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design capabilities&lt;/li&gt;
+&lt;li&gt;Experience with payment gateways and billing systems&lt;/li&gt;
+&lt;li&gt;Experience with Demandware&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Requirements&lt;/h2&gt;
+
+&lt;h3&gt;Qualifications:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2+ years web development experience (ecommerce experience a plus)&lt;/li&gt;
+&lt;li&gt;Bachelor’s degree&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ecommerce-web-developer-black-diamond-equipment-ltd-salt-lake-city-ut</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ecommerce-web-developer-black-diamond-equipment-ltd-salt-lake-city-ut</guid>
+			</item>
 		
 	</channel>
 </rss>

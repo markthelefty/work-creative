@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/va-exec.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/va-exec.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Art Director at Need Supply Co. in Richmond, VA</title>
+				<description>&lt;p&gt;We are seeking an Art Director to lead our visual design initiatives, incorporating best design and technology practices to provide cohesive support of overall creative and business strategies. Our ideal candidate will have impeccable typography, layout and interactive design skills, as well as leadership experience within a highly creative design team.&lt;/p&gt;
+
+&lt;p&gt;The Art Director will work closely with the Creative Director to develop original concepts and seasonal campaigns as well as oversee project design; scoping design phases of projects accurately and efficiently, through execution. This will include merchandising direction that promotes and communicates key items and categories within the marketing material. The Director will also provide art direction and leadership to designers and other project members as needed.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maintains a deep knowledge of ecommerce design trends, strategies, platforms, tools, and best practices&lt;/li&gt;
+&lt;li&gt;Develops, implements and manages the brand’s ongoing art direction&lt;/li&gt;
+&lt;li&gt;Conceptualizes and implements interactive design strategies and tactics for the brand that meet business objectives and help to extend brand&lt;/li&gt;
+&lt;li&gt;Determines an appropriate design approach for projects and presents recommendations&lt;/li&gt;
+&lt;li&gt;Assesses full scope of any project and manages design and resources within budget&lt;/li&gt;
+&lt;li&gt;Ensures that new design programs are executed effectively and produced at standards that uphold and elevate Need Supply Co. — keeping our brand on point&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Minimum Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong concept development and graphic design ability&lt;/li&gt;
+&lt;li&gt;Understanding of HTML, CSS, and JavaScript and the capabilities of web browsers and UX&lt;/li&gt;
+&lt;li&gt;Proven ability to combine conceptual, creative and strategic thinking with tactical execution&lt;/li&gt;
+&lt;li&gt;Desire and ability to thrive in a fast-paced environment and to effectively lead work on multiple projects in various phases and under tight deadlines&lt;/li&gt;
+&lt;li&gt;Strong project planning and organizational skills&lt;/li&gt;
+&lt;li&gt;Experience leading and inspiring a collaborative creative team&lt;/li&gt;
+&lt;li&gt;Photography and post production proficiency&lt;/li&gt;
+&lt;li&gt;Portfolio demonstrating work (must be submitted with resume in order to be considered for position)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Preferred Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5+ years of interactive experience&lt;/li&gt;
+&lt;li&gt;2+ years experience at top digital agency in an Art Director role or similar&lt;/li&gt;
+&lt;li&gt;Copywriting skills&lt;/li&gt;
+&lt;li&gt;Experience in the fashion and apparel industry&lt;/li&gt;
+&lt;li&gt;Experience working at a major high traffic ecommerce website&lt;/li&gt;
+&lt;li&gt;Ability to assess the good from the bad&lt;/li&gt;
+&lt;li&gt;Photography&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Us:&lt;/h2&gt;
+
+&lt;p&gt;Need Supply Co. is an established and fast growing apparel company based in Richmond, Virginia, a city which consistently ranks among the “Best Places to Live and Work in America.” We opened in 1996 selling a unique collection of vintage pieces. Over the past decade, our selection has evolved to become a well-edited assortment of contemporary designers and independent labels from the U.S. and abroad.  In 2012, GQ Magazine called us “The Best E-Commerce on the Web.”&lt;/p&gt;
+
+&lt;h2&gt;Our Values:&lt;/h2&gt;
+
+&lt;p&gt;Responsibility, Creativity, Simplicity, Effectiveness, Passion, Respect, Fun, Curiosity&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/art-director-need-supply-co-richmond-va</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/art-director-need-supply-co-richmond-va</guid>
+			</item>
 		
 	</channel>
 </rss>

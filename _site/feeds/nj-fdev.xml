@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/nj-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/nj-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-end Application Developer (HTML5, CSS3, JavaScript) at Softtek in Bedminster, NJ</title>
+				<description>&lt;p&gt;We are seeking an experienced Front-end Application Developer (HTML5, CSS3, JavaScript) to support our client near Bedminster Township, New Jersey.  This is a 6 month, salaried position, with a possible 12 month extension.&lt;/p&gt;
+
+&lt;p&gt;Softtek offers a generous benefits package for our consultants, with no waiting period.&lt;/p&gt;
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor&amp;rsquo;s degree in area of Computer Science and at least 5 years of experience&lt;/li&gt;
+&lt;li&gt;Strong Frontend HTML5/CSS3/JavaScript skills&lt;/li&gt;
+&lt;li&gt;Experience creating HTML pages and templates from graphic design files (PSD)&lt;/li&gt;
+&lt;li&gt;Experience with JavaScript Frameworks (jQuery, Yahoo User Interface)&lt;/li&gt;
+&lt;li&gt;Basic Web Application Experience&lt;/li&gt;
+&lt;li&gt;Mobile Web Experience with multiple form factor&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;US Citizenship, Green Card, or EAD is required&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Softtek Company Summary:&lt;/h2&gt;
+
+&lt;p&gt;Founded in 1982, Softtek is a global provider of process-driven IT solutions with 30 offices in North America, Latin America, Europe and Asia. With nine Global Delivery Centers in Mexico, China, Brazil, Argentina and Spain, Softtek helps improve time-to-business-solution, lower costs of existing applications, deliver better engineered and tested applications, and produce predictable outcomes for top-tier corporations in over 20 countries.  Through on-site, on-shore and its trademarked Global Nearshoreâ„¢ service delivery models, Softtek teams with CIOs to constantly increase the business value of IT. Softtek is the creator and a leader of the nearshore industry.&lt;/p&gt;
+
+&lt;h2&gt;Vision&lt;/h2&gt;
+
+&lt;p&gt;We aspire to transcend as a leading global provider of IT and business process solutions, forging longstanding and mutually beneficial relationships built on a foundation of earned trust. We will build our future by being a well-grounded and socially responsible company, with a profitable track record, delivering innovative high quality services, driven by a passionate, human-centric culture.&lt;/p&gt;
+
+&lt;h2&gt;Services:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Application-Related Services&lt;/li&gt;
+&lt;li&gt;Business Process Outsourcing&lt;/li&gt;
+&lt;li&gt;IT Infrastructure Support&lt;/li&gt;
+&lt;li&gt;Software Products and Associated Services&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Customers:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Softtek is a preferred service provider for several Fortune 500 organizations&lt;/li&gt;
+&lt;li&gt;Top-tier corporations in the markets where we operate&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Awards and Distinctions:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SEI CMMi Level 5&lt;/li&gt;
+&lt;li&gt;Six Sigma Corporate Program&lt;/li&gt;
+&lt;li&gt;Named as a &amp;ldquo;Strong Performer&amp;rdquo; for SAP Implementation services by Forrester&lt;/li&gt;
+&lt;li&gt;Globalization-2010 Award for Performance, GE GDC Program&lt;/li&gt;
+&lt;li&gt;BusinessWeek Emerging Outsourcing Players&lt;/li&gt;
+&lt;li&gt;ISO 9001:2008 (for Procurement Services from Aguascalientes, Mexico and for Design, development, support and IT application improvements in Argentina)&lt;/li&gt;
+&lt;li&gt;ISO 9001:2008 Certification (for Development, Maintenance &amp;amp; Application Support in Brazil)&lt;/li&gt;
+&lt;li&gt;Gartner Best Solution Delivery Award 2004&lt;/li&gt;
+&lt;li&gt;The Global Services 100 &amp;ndash; Top Company to Watch South of the Border 2007 &amp;amp; 2008 and Top Company to Watch in Latin America 2006 by neoIT and Global Services Magazine&lt;/li&gt;
+&lt;li&gt;Only Latin-American company in Gartnerâ€™s Magic Quadrant for Offshore Application Services 2006 &amp;amp; 2007&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;For additional information, visit our website at &lt;a href=&quot;http://www.softtek.com&quot;&gt;http://www.softtek.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For other employment opportunities, go to: &lt;a href=&quot;http://www.softtek.com/en/unitedstates/jobs-usa-canada&quot;&gt;http://www.softtek.com/en/unitedstates/jobs-usa-canada&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-application-developer-html5-css3-javascript-softtek-bedminster-nj</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-application-developer-html5-css3-javascript-softtek-bedminster-nj</guid>
+			</item>
 		
 			<item>
 				<title>Web Developer at Todd Snyder in New York, NY</title>
@@ -56,7 +127,7 @@
 
 &lt;p&gt;To apply please submit your resume and links to previous work.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Feb 2013 12:35:28 -0500</pubDate>
+				<pubDate>Wed, 23 Jan 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/web-developer-todd-snyder-new-york-ny</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-todd-snyder-new-york-ny</guid>
 			</item>

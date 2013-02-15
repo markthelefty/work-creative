@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/dc-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/dc-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Applications Programmer/Developer at First Book in Washington, DC</title>
+				<description>&lt;h2&gt;About the position:&lt;/h2&gt;
+
+&lt;p&gt;First Book is applying technology and business approaches to the challenge of providing all children in the US and Canada with access to books. First Book currently serves more than 20,000 Title I schools, afterschool initiatives, clinics, shelters, and a wide variety of other programs serving children in need. Though powerful, First Book is only reaching a small fraction of the approximately 2 million programs and Title I classrooms eligible for our help. We have exciting opportunities to use technology to serve more and more of these programs and are looking for a Web Applications Programmer to join our technology team.&lt;/p&gt;
+
+&lt;h2&gt;Essential Duties and Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Development and maintenance of First Book web applications built using open source technologies, custom applications, or new module specifications&lt;/li&gt;
+&lt;li&gt;Ensure quality of work through development and implementation of QA procedures and standards&lt;/li&gt;
+&lt;li&gt;Research, develop logic, code, test, and deploy several Web projects with minimal assistance&lt;/li&gt;
+&lt;li&gt;Build a PHP web application from the ground up, as well as modify and build on existing code&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;4-5 years of Information Technology experience&lt;/li&gt;
+&lt;li&gt;Must have first-rate knowledge of Object Oriented Programming concepts, HTML, PHP, JavaScript, and MySQL&lt;/li&gt;
+&lt;li&gt;Willingness to work in a structured team environment&lt;/li&gt;
+&lt;li&gt;Experience with building highly interactive, highly trafficked, database driven web applications&lt;/li&gt;
+&lt;li&gt;Must have strong SQL query development experience&lt;/li&gt;
+&lt;li&gt;Exposure to Magento or any ecommerce product is highly desirable&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Technical Skill Set&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Good understanding of object oriented programming and programming principles&lt;/li&gt;
+&lt;li&gt;Comprehensive understanding of the PHP programming language&lt;/li&gt;
+&lt;li&gt;Advanced understanding of HTML, Cascading Style Sheets, and JavaScript.&lt;/li&gt;
+&lt;li&gt;Highly developed knowledge of Web protocols and programming requirements&lt;/li&gt;
+&lt;li&gt;Superior familiarity of UNIX operating system (primarily Linux) and Apache&lt;/li&gt;
+&lt;li&gt;Advanced knowledge of MySQL database (developer fundamentals)&lt;/li&gt;
+&lt;li&gt;Exposure to Magento ecommerce product suite desirable&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;To apply:&lt;/h2&gt;
+
+&lt;p&gt;Candidates are invited to submit a resume and a cover letter to jobs@firstbook.org &amp;ndash; please be sure to put WebPrg in the subject line of your email. No phone calls please.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-applications-programmer-developer-first-book-washington-dc</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-applications-programmer-developer-first-book-washington-dc</guid>
+			</item>
 		
 	</channel>
 </rss>

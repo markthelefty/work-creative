@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ky-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ky-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-End Web Developer at ProSoft in Louisville, KY</title>
+				<description>&lt;p&gt;This job reports to the Director.&lt;/p&gt;
+
+&lt;p&gt;Relocation is not provided and travel is not required.&lt;/p&gt;
+
+&lt;p&gt;This is a &lt;strong&gt;Full-Time position&lt;/strong&gt;, working &lt;strong&gt;1st Shift&lt;/strong&gt;.
+Number of Openings for this position: &lt;strong&gt;1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Prosoft is seeking candidates for a 12 month contract positions with strong possibility of hire located in Louisville, KY. We have placed several people in roles in this group and 90% have moved to permanent employment.&lt;/p&gt;
+
+&lt;h2&gt;Job Skills/Requirements&lt;/h2&gt;
+
+&lt;h3&gt;Job Skills/Requirements&lt;/h3&gt;
+
+&lt;p&gt;As a Front-End Developer you are responsible for developing front-end web solutions using HTML, JavaScript, and CSS in an effort to provide maximum value to the end-user. Additionally, you are responsible for interacting with our IT partners to ensure a clear, efficient approach to delivery, quality in all promoted work, scalable and well thought out approaches, and front-end technologies that are appropriately implemented.&lt;/p&gt;
+
+&lt;h3&gt;Responsibilities&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create semantic, W3C valid, accessible, cross-browser compatible front-end web pages and websites.&lt;/li&gt;
+&lt;li&gt;Act as a consultant to an agency, vendor, IT, or the Digital Frontiers team to ensure projects are semantic, W3C valid, accessible (as required), and cross-browser compatible.&lt;/li&gt;
+&lt;li&gt;Work within current constraints of a website or application to extend functionality or support User-Experience (Design) direction.&lt;/li&gt;
+&lt;li&gt;Execute tasks as assigned from our Request Database.&lt;/li&gt;
+&lt;li&gt;Execute content turns according to turn schedule or as needed.&lt;/li&gt;
+&lt;li&gt;Troubleshoot and resolve issues, problems, and errors encountered across our web properties, internal applications, and systems as reported or experienced.&lt;/li&gt;
+&lt;li&gt;Provide expertise to influence project, initiative, and maintenance technical direction during discovery, planning, and implementation stages.&lt;/li&gt;
+&lt;li&gt;Provide expertise to influence technology selection and implementation decisions with our IT partners and the Digital Frontiers team.&lt;/li&gt;
+&lt;li&gt;Maintain and update our development standards library with best-practice approaches to front-end coding and development techniques and processes.&lt;/li&gt;
+&lt;li&gt;Maintain and update our documentation library with system, site, and process level guidance information.&lt;/li&gt;
+&lt;li&gt;Be a subject matter expert (SME) and share knowledge on our internal systems, processes, and technologies.&lt;/li&gt;
+&lt;li&gt;Be a SME on front-end technologies by keeping up with best-practices. Educate the team based on this knowledge.
+Provide post-launch verification of features and changes.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Additional Requirements&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelors Degree or equivalent experience&lt;/li&gt;
+&lt;li&gt;Excellent verbal and written communication skills&lt;/li&gt;
+&lt;li&gt;Advanced knowledge of HTML, JavaScript, and CSS&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Benefits: Medical Insurance, Life Insurance, Dental Insurance, Vision Insurance, Paid Vacation, 401K/403b Plan&lt;/p&gt;
+
+&lt;p&gt;Screening Requirements: Criminal Background Check&lt;/p&gt;
+</description>
+				<pubDate>Fri, 08 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-prosoft-louisville-ky</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-prosoft-louisville-ky</guid>
+			</item>
 		
 	</channel>
 </rss>

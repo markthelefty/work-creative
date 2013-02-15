@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ut-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ut-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-End Developer / User Experience Designer at Property Solutions in Lehi, UT</title>
+				<description>&lt;p&gt;We are in search of a full-time Front-End Developer / User Experience Designer to add creative thought leadership to our products while battling for the user.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Collaborate with in-house analysts and product managers to define product specifications&lt;/li&gt;
+&lt;li&gt;Contribute out-of-the-box thinking while assisting in product brainstorming and feature molding&lt;/li&gt;
+&lt;li&gt;Engage users to identify their thoughts, visions, strategies, goals and processes&lt;/li&gt;
+&lt;li&gt;Brainstorm and wireframe user workflows&lt;/li&gt;
+&lt;li&gt;Construct working HTML/CSS prototypes&lt;/li&gt;
+&lt;li&gt;Perform user testing to evolve designs and interactions to maximum efficiency&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required Skills and Experience:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Advanced front-end dev skills (HTML &amp;amp; CSS &amp;ndash; jQuery is a plus)&lt;/li&gt;
+&lt;li&gt;Experience in creative problem solving&lt;/li&gt;
+&lt;li&gt;Excellent listener and facilitator who knows how to draw out real information from data&lt;/li&gt;
+&lt;li&gt;Extremely organized with high attention to detail&lt;/li&gt;
+&lt;li&gt;Ability to establish a course of action for self or others to accomplish a specific goal&lt;/li&gt;
+&lt;li&gt;Ability to work independently and manage multiple tasks&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Base Wage/Salary:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Competitive Annual Salary, DOE&lt;/li&gt;
+&lt;li&gt;PTO &amp;amp; Paid Holidays&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Work Schedule and Location:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Monday-Friday during normal business hours (40 hour workweek)&lt;/li&gt;
+&lt;li&gt;Lehi, UT office&lt;/li&gt;
+&lt;li&gt;Travel: This role may require travel from time to time for on-site researching and testing&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Benefits Package&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;401k with matching&lt;/li&gt;
+&lt;li&gt;Health Insurance&lt;/li&gt;
+&lt;li&gt;Dental Insurance&lt;/li&gt;
+&lt;li&gt;Vision Insurance&lt;/li&gt;
+&lt;li&gt;Life Insurance&lt;/li&gt;
+&lt;li&gt;Flexible Spending Account&lt;/li&gt;
+&lt;li&gt;Short-term and long-term disability&lt;/li&gt;
+&lt;li&gt;Free gym membership&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Application Instructions:&lt;/h2&gt;
+
+&lt;p&gt;Please send an email to resumes@propertysolutions.com with a resume attached and Front-End Developer / User Experience Designer in the subject line. Property Solutions participates in E-Verify.&lt;/p&gt;
+
+&lt;h2&gt;About Us:&lt;/h2&gt;
+
+&lt;p&gt;Property Solutions International, Inc. is the largest portal and online payment provider in the U.S., servicing over 3.5 million apartment residents nationwide. Founded in 2003, Property Solutions is a uniquely positioned B2B SAAS company serving the multi-family industry. Our suite of technology solutions enable our customers to manage all aspects of the critical functions necessary to run a multi-family management company, from property-level operations all the way up to corporate management and marketing. Our vision is to enable more efficiency and productivity for our clients through the development, distribution, and support of world-class software.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 08 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-user-experience-designer-property-solutions-lehi-ut</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-user-experience-designer-property-solutions-lehi-ut</guid>
+			</item>
 		
 	</channel>
 </rss>

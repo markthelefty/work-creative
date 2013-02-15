@@ -1,10 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ct-exec.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ct-exec.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Manager / Web Developer at Charter Communications in Stamford, CT</title>
+				<description>&lt;h2&gt;JOB SUMMARY&lt;/h2&gt;
+
+&lt;p&gt;Responsible for creating and maintaining Charter.com web sites and landing pages across desktop, mobile and tablet experiences. This includes designing and partnering with back end development teams to deliver a digital experience that drives online sales.&lt;/p&gt;
+
+&lt;h2&gt;MAJOR DUTIES AND RESPONSIBILITIES&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Actively and consistently support all efforts to simplify and enhance the customer experience&lt;/li&gt;
+&lt;li&gt;Multitask across several high priority projects at once from launching landing pages, graphic creation, microsite development, banner development and other impromptu projects.&lt;/li&gt;
+&lt;li&gt;Provide ownership of web design style guide and templates.&lt;/li&gt;
+&lt;li&gt;Coordinate with various internal teams (Brand, Online Marketing, IT) and outside agencies at various stages in the design process.&lt;/li&gt;
+&lt;li&gt;Establish policies and procedures for publishing Web pages and applications in conjunction with content creators.&lt;/li&gt;
+&lt;li&gt;Create/maintain web site image library.&lt;/li&gt;
+&lt;li&gt;Conduct research into current and emerging Web technologies and issues in support of Web development efforts.&lt;/li&gt;
+&lt;li&gt;Manage a project through all phases of development when necessary, creating concepts based on customer interaction, designing, revising, troubleshooting, and producing a final product&lt;/li&gt;
+&lt;li&gt;Serve as project manager when appropriate, coordinating multiple resources and ensuring consistent communication and delivery.&lt;/li&gt;
+&lt;li&gt;Translate Charter’s brand in the digital space.&lt;/li&gt;
+&lt;li&gt;Identify, recommend, and prioritize new web features in conjunction with key stakeholders.&lt;/li&gt;
+&lt;li&gt;Content creation and management.&lt;/li&gt;
+&lt;li&gt;Update web pages to ensure site accuracy and currency.&lt;/li&gt;
+&lt;li&gt;Perform periodic web site audits.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;REQUIRED QUALIFICATIONS&lt;/h2&gt;
+
+&lt;h3&gt;Skills / Abilities and Knowledge&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to read, write, speak and understand English&lt;/li&gt;
+&lt;li&gt;Excellent written and oral communication skills&lt;/li&gt;
+&lt;li&gt;Strong understanding of Internet programming languages, including HTML, HTML(5), CSS(3), JavaScript, jQuery, AJAX&lt;/li&gt;
+&lt;li&gt;Well versed in usability and accessibility guidelines across mobile, desktop &amp;amp; tablet&lt;/li&gt;
+&lt;li&gt;Thorough understanding of application development methodologies&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Related Work Experience&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2+ years of Corporate graphic design experience&lt;/li&gt;
+&lt;li&gt;(Portfolio should include samples of presentation design, multimedia projects, marketing materials, and other design pieces that reflect capabilities)&lt;/li&gt;
+&lt;li&gt;Extensive experience with computer graphic and multimedia design tools such as Photoshop, Illustrator, Flash, and Fireworks&lt;/li&gt;
+&lt;li&gt;Project management experience&lt;/li&gt;
+&lt;li&gt;Experience working in a team-oriented, collaborative environment&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Education&lt;/h3&gt;
+
+&lt;p&gt;College diploma or university degree in the field of computer science and/or 3-5 years equivalent work experience&lt;/p&gt;
+
+&lt;h2&gt;PREFERRED QUALIFICATIONS&lt;/h2&gt;
+
+&lt;h3&gt;Skills / Abilities and Knowledge&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Keen eye for web site aesthetics leveraging design and UI best practices&lt;/li&gt;
+&lt;li&gt;Good understanding of the organization’s goals and objectives&lt;/li&gt;
+&lt;li&gt;Excellent interpersonal skills&lt;/li&gt;
+&lt;li&gt;Very strong customer service orientation skills&lt;/li&gt;
+&lt;li&gt;Highly self motivated and directed&lt;/li&gt;
+&lt;li&gt;Keen attention to detail&lt;/li&gt;
+&lt;li&gt;Ability to conduct research into emerging Internet technologies and programming languages&lt;/li&gt;
+&lt;li&gt;Ability to present ideas in business-friendly and user-friendly language&lt;/li&gt;
+&lt;li&gt;Proven analytical and problem-solving abilities&lt;/li&gt;
+&lt;li&gt;Ability to effectively prioritize and execute tasks in a high-pressure environment&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Related Work Experience&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with large, ecommerce sites that require weekly updates&lt;/li&gt;
+&lt;li&gt;Comprehensive experience with structuring, developing, and implementing interactive corporate Web sites&lt;/li&gt;
+&lt;li&gt;Experience in gathering and analyzing business requirements&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Education&lt;/h3&gt;
+
+&lt;p&gt;Certifications in related technologies a plus&lt;/p&gt;
+
+&lt;h2&gt;WORKING CONDITIONS&lt;/h2&gt;
+
+&lt;p&gt;Office environment&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/manager-web-developer-charter-communications-stamford-ct</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/manager-web-developer-charter-communications-stamford-ct</guid>
+			</item>
+		
+			<item>
+				<title>Art Director at Octagon in Norwalk, CT</title>
+				<description>&lt;h2&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;We are currently looking for an Art Director to join our Norwalk, CT office.&lt;/p&gt;
+
+&lt;p&gt;Who are you?
+You work comfortably with both “creatives” and “account folks” understanding it takes a team to identify and meet client’s needs. You can articulate your ideas to your team members and have the confidence to present them to the client. You can create compelling work that leverages best practices. You have strong print production experience.&lt;/p&gt;
+
+&lt;h2&gt;Position Summary:&lt;/h2&gt;
+
+&lt;p&gt;The Art Director will be responsible for designing creative materials to support all of Octagon’s client teams. Working with both the Creative Director and internal account executives, this role will be tasked with developing creative product. This person must be able to present ideas both visually and verbally.&lt;/p&gt;
+
+&lt;h3&gt;Responsibilities and Duties:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work in a collaborative setting with the id8 and Account teams&lt;/li&gt;
+&lt;li&gt;Create compelling “stories” by leading the development and enhancement of Octagon’s client presentations, case studies, concept proposals and RFI/RFP responses&lt;/li&gt;
+&lt;li&gt;Advise and provide counsel on effective presentation flow and content for new business pitches and agency marketing materials&lt;/li&gt;
+&lt;li&gt;Support internal ideation efforts including organization/facilitation of brainstorms&lt;/li&gt;
+&lt;li&gt;Proactively investigate, catalogue and share relevant industry trends and insights&lt;/li&gt;
+&lt;li&gt;Work in tandem with the Creative Director and Account teams to identify and meet client’s needs&lt;/li&gt;
+&lt;li&gt;Prepare files for print production and web development&lt;/li&gt;
+&lt;li&gt;Work within the current organizational structures/processes&lt;/li&gt;
+&lt;li&gt;Must be able to manage a project from concepts through execution&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor’s degree in graphic design, marketing or related field&lt;/li&gt;
+&lt;li&gt;Position requires strong computer skills in Adobe CS (Photoshop, Illustrator, InDesign, Acrobat); Quark Xpress&lt;/li&gt;
+&lt;li&gt;Working knowledge of Flash or PowerPoint or Video Editing or Copywriting program a plus&lt;/li&gt;
+&lt;li&gt;Must be able to prepare files for print and interactive development&lt;/li&gt;
+&lt;li&gt;Extremely organized and able to handle multiple projects simultaneously&lt;/li&gt;
+&lt;li&gt;General knowledge of print production a plus&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Must have multi-tasking capabilities and work across platforms – from Print to Web and mobile device&lt;/p&gt;
+
+&lt;p&gt;Octagon is an Equal Opportunity Employer. EEO/AA/M/F/D/V.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 08 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/art-director-octagon-norwalk-ct</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/art-director-octagon-norwalk-ct</guid>
+			</item>
 		
 	</channel>
 </rss>

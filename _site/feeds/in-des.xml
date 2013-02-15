@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/in-des.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/in-des.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Graphic Designer at Kenra Professional in Indianapolis, IN</title>
+				<description>&lt;p&gt;Kenra Professional has an exciting career opportunity for a  Graphic Designer. Kenra is an Indianapolis-based, privately held professional beauty company that is dedicated to providing performance-driven hair care products that stylists trust and that allow our customers to achieve their desired style. Our products are developed and manufactured to exceptionally high standards and can be found in quality salons throughout North America. Everything we do is aimed at ensuring our customers are happy and they achieve inner and outer beauty. Professional beauty is a passion for our employees; and consequently, we have high employee morale and satisfaction. Kenra is a fast-paced Company that embraces change and is guided by a culture that values integrity, passion, and relationships.
+Job Description&lt;/p&gt;
+
+&lt;p&gt;The  &lt;strong&gt;Graphic Designer&lt;/strong&gt;  will be responsible for establishing the visual tone and esthetics for all Kenra brands, product launches, advertising campaigns, primary and secondary packaging, promotional displays, retail merchandising, as well as print and digital collateral which supports overall brand positioning, all of which convey consistent interpretations of the brand fundamentals and business objectives. This position will produce visual solutions, using a mix of creative skills and commercial awareness.  The candidate must have imaginative flair, awareness of current fashion trends, and a working knowledge of the latest computer packages and an understanding of material costs and time limits, all which impacts design execution.&lt;/p&gt;
+
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+
+&lt;h3&gt;Essential Job Responsibilities:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conceptual development of campaigns that support brand positioning&lt;/li&gt;
+&lt;li&gt;Packaging Design (primary and secondary)&lt;/li&gt;
+&lt;li&gt;Merchandising design for specialty retail&lt;/li&gt;
+&lt;li&gt;Evaluate color and fashion trends to build frame work for photo shoots&lt;/li&gt;
+&lt;li&gt;Design promotional displays and marketing collateral&lt;/li&gt;
+&lt;li&gt;Assist with new design ideas for the company brand&lt;/li&gt;
+&lt;li&gt;Illustrate concepts by designing rough layout of art and copy regarding arrangement, size, type size and style, and related aesthetic concepts&lt;/li&gt;
+&lt;li&gt;Obtain approval of concept through routing process&lt;/li&gt;
+&lt;li&gt;Create visual images that engage, attract, and sell Kenra&lt;/li&gt;
+&lt;li&gt;Responsive to customer needs (internal and/or external) and able to create new and original ideas&lt;/li&gt;
+&lt;li&gt;Able to multi-task, juggle multiple priorities and work within tight deadlines&lt;/li&gt;
+&lt;li&gt;Detail-oriented with an emphasis on accuracy, quality and completeness of task&lt;/li&gt;
+&lt;li&gt;Professional, upbeat, energetic, and dependable&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Take pride in work, is detail oriented, thrives in a collaborative team environment, and is passionate about design, aesthetics, and branding&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Online portfolios links or PDF work samples must be supplied with resume&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Additional Information&lt;/h2&gt;
+
+&lt;p&gt;Kenra offers an attractive compensation package, product discounts, and generous health and retirement benefit programs.&lt;/p&gt;
+
+&lt;p&gt;No telephone calls, faxes or agencies please.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Kenra Professional, LLC, is an Equal Opportunity Employer and does not discriminate with respect to recruitment, hiring, or any other status of employment on the basis of race, color, religion, sex, national origin, disability or any other category protected by law.&lt;/em&gt;&lt;/p&gt;
+</description>
+				<pubDate>Wed, 13 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/graphic-designer-kenra-professional-indianapolis-in</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/graphic-designer-kenra-professional-indianapolis-in</guid>
+			</item>
 		
 	</channel>
 </rss>

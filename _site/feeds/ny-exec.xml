@@ -1,10 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ny-exec.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ny-exec.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Technical Director at Innovation in New York, NY</title>
+				<description>&lt;p&gt;360i (&lt;a href=&quot;http://www.360i.com&quot;&gt;http://www.360i.com&lt;/a&gt;) is looking for a Technical Director to help build our growing technology team in New York, NY.&lt;/p&gt;
+
+&lt;p&gt;This person will work closely with our VP, Technology and the rest of the Technology group to scope, plan, and lead the development of digital marketing project that include web sites, social apps, and mobile apps. Additionally, this person will participate in the ideation process along with creative and strategy team members.&lt;/p&gt;
+
+&lt;p&gt;The ideal candidate must be hands-on, a superb communicator, and have experience working in a fast-paced and collaborative environment. A passion for quality, an eye for detail, and the hunger to bring great ideas to life is also required.&lt;/p&gt;
+
+&lt;h2&gt;About 360i &amp;ndash; Over a Decade of Digital Innovation&lt;/h2&gt;
+
+&lt;p&gt;We&amp;rsquo;re a next generation digital agency rooted in innovation and drive. We develop everything from enterprise-level websites to highly complex social apps to innovative rich media campaigns.&lt;/p&gt;
+
+&lt;p&gt;What makes us different is our highly experienced technical and design teams and our passionate and collaborative culture.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re sharp, creative, and forward-thinking &amp;ndash; and if complacency isn&amp;rsquo;t in your vocabulary &amp;ndash; drop us a line. It takes a special kind of person to work here, and we hope that&amp;rsquo;s you.&lt;/p&gt;
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong experience in technical project management, including scoping and cost and timeline estimation&lt;/li&gt;
+&lt;li&gt;Experience with social media platforms and APIs (such as Facebook, Twitter, and YouTube)&lt;/li&gt;
+&lt;li&gt;Strong understanding of the development lifecycle&lt;/li&gt;
+&lt;li&gt;Thorough front-end and back-end development skills (we are not looking for a coder, but rather someone who can read and understand code, conduct code reviews, and drive and enforce coding conventions)&lt;/li&gt;
+&lt;li&gt;Experience with database design, including basic understanding of SQL&lt;/li&gt;
+&lt;li&gt;Ability to architect a complete technical solution given a set of business or creative requirements&lt;/li&gt;
+&lt;li&gt;Ability to perform quality assurance tasks&lt;/li&gt;
+&lt;li&gt;Interest and ability to participate in creative ideation and strategy sessions&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Wed, 13 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/technical-director-innovation-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/technical-director-innovation-new-york-ny</guid>
+			</item>
+		
+			<item>
+				<title>Director of Analytics and Insight at Integrated Media Solutions in New York, NY</title>
+				<description>&lt;p&gt;At IMS, data driven advertising strategy is paramount to our clients’ success. From understanding market conditions and consumer behaviors, to evaluating
+conversion efficiency across digital and offline media channels, The Senior Data Strategist will be responsible for finding the insights that matter most. In
+addition to inspirational analytics that shape media and creative direction, you will be responsible for enabling our clients with clear, highly visual, eagerly
+anticipated scorecards and optimization reports. This position will require a continuous, big picture understanding of “how we’re doing” along with a
+specialized expertise in digital analytics. The SDDS will work closely with SEM, SEO, and emerging media experts in our Digital group to develop our digital
+reporting and measurement offering.&lt;/p&gt;
+
+&lt;h2&gt;Summary of Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Digital Optimization and Reporting: Development of a suite of offerings (products and processes) that optimize our digital efforts and provide performance visibility to our clients.&lt;/li&gt;
+&lt;li&gt;Leverage the Marin platform to customize and automate the optimization and testing cycle as well as client and internal reporting.&lt;/li&gt;
+&lt;li&gt;Advanced Analytics: From identifying the right questions to presenting the insights that impact the bottom line and all steps in-between (data
+identification and gathering, coordinating with internal and client teams, broad analysis, summarized analysis)&lt;/li&gt;
+&lt;li&gt;Data Visualization and Advanced Reporting: Assist with moving away from Excel centric reporting by creating interactive, web-based reporting built with best-in-class data visualization software&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Requirements:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5 &amp;ndash; 10 years experience in marketing analytics and / or research including&lt;/li&gt;
+&lt;li&gt;3+ years experience in a digital marketing role (search, display, mobile), experience with Marin&lt;/li&gt;
+&lt;li&gt;Demonstrable strategic thinking and analysis skills, as well as the ability and confidence to make conclusions and recommendations from a business perspective.&lt;/li&gt;
+&lt;li&gt;Excellent communication and client relationship skills with a proven history of building and maintaining relationships&lt;/li&gt;
+&lt;li&gt;The ability to translate results into clear, concise presentations, written reports, and data visualizations&lt;/li&gt;
+&lt;li&gt;Resourceful and creative — must bring fresh insights and not be stymied when all the data is not readily available&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Technical Skills:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Expert Excel skills&lt;/li&gt;
+&lt;li&gt;SEM tracking platforms, Marin is preferred&lt;/li&gt;
+&lt;li&gt;Relational databases (SQL, Access)&lt;/li&gt;
+&lt;li&gt;Experience with Direct Marketing media warehouse platforms is a plus (Mediabank)&lt;/li&gt;
+&lt;li&gt;Visualization software (Tableau, Domo, Qlikview, Spotfire, Roambi, Microstrategy, Crystal Reports)&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/director-of-analytics-and-insight-integrated-media-solutions-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/director-of-analytics-and-insight-integrated-media-solutions-new-york-ny</guid>
+			</item>
+		
+			<item>
+				<title>Senior Art Director at Rosetta in New York, NY</title>
+				<description>&lt;h2&gt;Associate Project Manager&lt;/h2&gt;
+
+&lt;p&gt;Rosetta is looking for an Associate Project Manager to drive cross-functional project teams, project budgets and project schedules. Individuals in this role have considerable client exposure and must demonstrate the ability to work on both business and technology projects with companies across a broad range of industries. The Associate Project Manager must have considerable experience in a fast-paced, dynamic environment and demonstrate a degree of project ownership and accountability.&lt;/p&gt;
+
+&lt;h2&gt;Who We Are:&lt;/h2&gt;
+
+&lt;p&gt;Rosetta is a consulting-centered interactive agency engineered to transform marketing for the connected world. We are focused on helping progressive marketers drive material business impact by translating deep consumer insights into personally relevant brand experiences across touch points and over time. Our differentiated capabilities and structure have enabled us to become a market leader, operating as an independent brand in the Publicis Groupe of global agencies. Rosetta is ranked by Ad Age among the top U.S. digital agencies and was recently named the #1 Agency to Watch in Ad Ageâ€™s Agency A- List.&lt;/p&gt;
+
+&lt;h2&gt;Primary Responsibilities:&lt;/h2&gt;
+
+&lt;p&gt;This role will be responsible for leading and designing projects, communicating with clients/internal teams, directing creative brainstorming sessions and, most importantly, promoting a culture of fun and excellence.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Development and management of project timelines and project plans&lt;/li&gt;
+&lt;li&gt;Assurance that projects achieve desired business and technical objectives&lt;/li&gt;
+&lt;li&gt;Management of internal project team&lt;/li&gt;
+&lt;li&gt;Identification and mitigation of project risks&lt;/li&gt;
+&lt;li&gt;Validation and presentation of project deliverables&lt;/li&gt;
+&lt;li&gt;Management of project financials, with a focus on optimizing efficiency and project margin&lt;/li&gt;
+&lt;li&gt;Establishment of close working relationships with client project team and internal development managers&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required Skills and Experience:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Minimum of 2-3 years of project management experience in a technology organization or professional services company working on mid-sized projects with 5+ team members&lt;/li&gt;
+&lt;li&gt;Excellent communication, organization, interpersonal and writing skills&lt;/li&gt;
+&lt;li&gt;Proven ability to multi-task and interact with a large number of customers&lt;/li&gt;
+&lt;li&gt;Business process planning and implementation planning experience&lt;/li&gt;
+&lt;li&gt;BA/BS in communications, business or technology-related field (or commensurate experience)&lt;/li&gt;
+&lt;li&gt;Knowledge and experience with the MS Office suite, including MS Project&lt;/li&gt;
+&lt;li&gt;Background in web design and interactive technology preferred&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;em&gt;Rosetta is an equal opportunity employer M/F/V/D&lt;/em&gt;&lt;/p&gt;
+</description>
+				<pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-art-director-rosetta-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-art-director-rosetta-new-york-ny</guid>
+			</item>
 		
 	</channel>
 </rss>

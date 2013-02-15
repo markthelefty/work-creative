@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/tn-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/tn-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-End Developer at Digital Reasoning in Franklin, TN</title>
+				<description>&lt;h2&gt;INTERESTED IN WORK THAT MATTERS?&lt;/h2&gt;
+
+&lt;p&gt;Digital Reasoning delivers Automated Understanding for Big Data with its flagship product Synthesys.  Automated Understanding analyzes unstructured and structured big data to reveal hidden and potentially valuable relationships between people, place and time.&lt;/p&gt;
+
+&lt;p&gt;At Digital Reasoning we push the limits of what’s possible every day, and we are committed to using the most cutting edge, open source tools that are available in order to deliver the next disruptive platform.&lt;/p&gt;
+
+&lt;h2&gt;WHAT WE GIVE YOU.&lt;/h2&gt;
+
+&lt;p&gt;We will provide you with the latest tools, hardware, and services to let you write, test, and deploy code as quickly and creatively as possible.  We will give you the autonomy you need so that you can deliver all of the high quality and groundbreaking code that you want.  We will make you part of a team that focuses on delivering the best product every time without any egos, politics, or red tape.&lt;/p&gt;
+
+&lt;p&gt;We also have unlimited, free soda to fuel your furious coding habits.&lt;/p&gt;
+
+&lt;h2&gt;WHAT WE NEED FROM YOU.&lt;/h2&gt;
+
+&lt;p&gt;First and foremost, we want you to produce top-notch, standards compliant JavaScript and CSS.  This means you know the JavaScript language, and you have working knowledge of jQuery UI, ExtJS, mooTools, or scriptaculous.&lt;/p&gt;
+
+&lt;p&gt;It means that you can hand roll your own style sheet to make a great looking product.&lt;/p&gt;
+
+&lt;p&gt;Beyond the technology, we want someone who is passionate, driven, and looking to join a company that is here to make a difference in the world, and not someone simply looking for their next job.&lt;/p&gt;
+
+&lt;p&gt;You need to hit the ground running and become a contributor quickly.&lt;/p&gt;
+
+&lt;h2&gt;WHAT WOULD SET YOU APART?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can churn out quality Python code.&lt;/li&gt;
+&lt;li&gt;Proficiency in distributed source control tools such as Git or Mercurial.&lt;/li&gt;
+&lt;li&gt;You know LESS, SASS, and the capabilities of CSS3.&lt;/li&gt;
+&lt;li&gt;You’re comfortable using Linux on Amazon’s EC2.&lt;/li&gt;
+&lt;li&gt;You’ve been the lean on one or more web site, or web application projects.&lt;/li&gt;
+&lt;li&gt;You’re doing something really cool that’s not your job.&lt;/li&gt;
+&lt;li&gt;A Bachelors or Masters degree in Computer Science.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;To be considered for this position please submit your resume to bruce.strugatch@digitalreasoning.com.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 06 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-digital-reasoning-franklin-tn</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-digital-reasoning-franklin-tn</guid>
+			</item>
 		
 	</channel>
 </rss>

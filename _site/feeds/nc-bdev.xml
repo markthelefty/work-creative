@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/nc-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/nc-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer at 3-C Institute for Social Development in Cary, NC</title>
+				<description>&lt;p&gt;Do you have experience building and maintaining web applications using cutting-edge technologies like HTML5, jQuery, AJAX and object-oriented PHP? If so, 3-C Institute for Social Development wants to hear from you! We currently have three openings for web developers and are looking for a developer like you to help build a next-generation application for managing behavioral research projects.&lt;/p&gt;
+
+&lt;p&gt;If you’re the right candidate for this mid-level position, you have experience with:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Working on a team of developers tasked with building great applications using proven technologies.&lt;/li&gt;
+&lt;li&gt;Developing clean and readable HTML and CSS that works across all browsers.&lt;/li&gt;
+&lt;li&gt;Working with PSD files produced by our graphic designers to produce exciting user interfaces for the web.&lt;/li&gt;
+&lt;li&gt;Using jQuery to send and receive AJAX requests to and from our web applications.&lt;/li&gt;
+&lt;li&gt;Object-oriented PHP development to map objects to our functional requirements and database structures.&lt;/li&gt;
+&lt;li&gt;Basic MySQL or relational database experience.&lt;/li&gt;
+&lt;li&gt;Learning new technologies and understanding how they can be applied to our diverse suite of application offerings.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Salary &amp;amp; Benefits:&lt;/h2&gt;
+
+&lt;p&gt;Salary is based on education and experience level.  3-C ISD offers all of the traditional benefit packages plus fun extras like yoga classes and lunch parties!  Salaries and benefits are competitive with the central NC area.&lt;/p&gt;
+
+&lt;h2&gt;Company Information:&lt;/h2&gt;
+
+&lt;p&gt;3-C ISD is a small but growing company with a progressive attitude and a positive mission to develop research-based tools to foster the health and well-being of children and families. We have a laidback, fun office environment where we work hard but always remember to have fun along the way! Take advantage of our in-office fitness room! Set your own schedule! Wear what you want (within reason)! Work with some of the coolest, most creative people in the Research Triangle. Plus, we trust you to get your work done. No visits from the boss every half-hour asking ofr &amp;ldquo;TPS Reports&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2&gt;Application Information:&lt;/h2&gt;
+
+&lt;p&gt;So if you&amp;rsquo;re a web developer looking to make a difference in a different atmosphere, shoot us your resume today at careers@3cisd.com!&lt;/p&gt;
+
+&lt;h2&gt;About 3-C Institute for Social Development:&lt;/h2&gt;
+
+&lt;p&gt;3-C ISD offers a collaborative, flexible, and family-friendly work environment with colleagues who value teamwork, self-motivation, and commitment to results. 3-C ISD is a rapidly expanding research institute located in Cary, NC. We specialize in development of research-based tools to foster the health and well-being of children and families. Please see www.3CISD.com for more information&lt;/p&gt;
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-3-c-institute-for-social-development-cary-nc</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-3-c-institute-for-social-development-cary-nc</guid>
+			</item>
 		
 	</channel>
 </rss>

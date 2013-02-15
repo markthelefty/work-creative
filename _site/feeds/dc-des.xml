@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/dc-des.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/dc-des.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Graphic Designer at United States Conference of Catholic Bishops in Washington, DC</title>
+				<description>&lt;h2&gt;About The Position&lt;/h2&gt;
+
+&lt;p&gt;Responsible for design, page layout, and print production. Primary work includes project design, page flow, photo research, review of proofs, as well as print production of assigned projects. Work also includes general project coordination as needed.&lt;/p&gt;
+
+&lt;h2&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Macintosh capabilities including proven work experience utilizing desktop and illustration software packages (e.g. InDesign, Photoshop, Illustrator, QuarkXpress, Dreamweaver).&lt;/li&gt;
+&lt;li&gt;Proofreading skills.&lt;/li&gt;
+&lt;li&gt;Multiple project management following schedules and budget restraints.&lt;/li&gt;
+&lt;li&gt;B.A degree from a four-year accredited college, trade or technical school, or related work experience.&lt;/li&gt;
+&lt;li&gt;3-5 years of experience. Major Field/Specialty: Communication Art, Publication Design, Graphic Design&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;About the Employer&lt;/h2&gt;
+
+&lt;p&gt;The USCCB is an assembly of the Catholic Church hierarchy who work together to unify, coordinate, promote, and carry on Catholic activities in the United States; to organize and conduct religious, charitable, and social welfare work at home and abroad; to aid in education; and to care for immigrants. The bishops themselves constitute the membership of the Conference and are served by a staff of over 350 lay people, priests, deacons, and religious.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;No telephone calls, please.&lt;/em&gt;&lt;/p&gt;
+</description>
+				<pubDate>Fri, 08 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/graphic-designer-united-states-conference-of-catholic-bishops-washington-dc</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/graphic-designer-united-states-conference-of-catholic-bishops-washington-dc</guid>
+			</item>
 		
 	</channel>
 </rss>

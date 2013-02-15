@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ga-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ga-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Senior Web Developer at WebMD in Atlanta, GA</title>
+				<description>&lt;p&gt;WebMD (NASDAQ: WMBD) is the most recognized and trusted brand of health information
+and the leading provider of health information services, serving consumers, physicians, healthcare professionals, employers and health plans through our public and private online portals and WebMD the Magazine. The WebMD Health Network includes WebMD, Medscape, MedicineNet, eMedicine, RxList, theheart.org and Medscape Education.  Our consumer portals and mobile health applications provide engaging, relevant and credible health and wellness information, personalized health assessment tools and access to online communities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WebMD is an Equal Opportunity Employer&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;About this Job&lt;/h2&gt;
+
+&lt;p&gt;As a Senior Web Developer at WebMD, you will lead efforts in developing lightweight, standards-compliant web programs that will be used by millions of people. You will play a key role in building WebMD products like Symptom Checker, WebMD Communities, and WebMD Mobile.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create cross-browser, fully functional web pages using XHTML, CSS, and JavaScript, while strictly adhering to accessibility and W3C web standards&lt;/li&gt;
+&lt;li&gt;Work with business clients, internal and external, to scope, structure and deliver complex web products&lt;/li&gt;
+&lt;li&gt;Collaborate with developers, product managers, designers, web publishers, producers and back-end engineers to support site operations and meet project deadlines&lt;/li&gt;
+&lt;li&gt;Troubleshoot and resolve code issues, and mentor other developers on best practices and group standards&lt;/li&gt;
+&lt;li&gt;Review new code (self and peer) following W3C web standards and strict QA guidelines&lt;/li&gt;
+&lt;li&gt;Support site operations through creating / updating site code and configuring content via in-house CMS&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+
+&lt;h3&gt;Minimum Qualifications&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor&amp;rsquo;s Degree in technical discipline or equivalent experience&lt;/li&gt;
+&lt;li&gt;5 years relevant work experience (must provide XHTML/CSS/JS code examples)&lt;/li&gt;
+&lt;li&gt;Proven experience hand-coding XHTML using semantic markup, the latest W3C web standards, and CSS layout / positioning&lt;/li&gt;
+&lt;li&gt;Expert knowledge of JavaScript and jQuery coding patterns&lt;/li&gt;
+&lt;li&gt;Experience providing Technical Leadership by setting and enforcing coding standards across an ongoing program of development, and mentoring developers on growth of skills&lt;/li&gt;
+&lt;li&gt;Proven ability to lead work efforts across an organization and drive communications with a variety of clients, including functioning as a Scrum Master&lt;/li&gt;
+&lt;li&gt;Demonstrated technical growth and specialization of skills within web technologies&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Preferred Qualifications:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;7+ years relevant work experience&lt;/li&gt;
+&lt;li&gt;Advanced knowledge of HTML5, CSS3 and XSL&lt;/li&gt;
+&lt;li&gt;Experience with an Javascript MVC framework such as Backbone.js, Spine.js, Ember.js, etc.&lt;/li&gt;
+&lt;li&gt;Experience with client side templating like Handlebars.js, Mustache.js&lt;/li&gt;
+&lt;li&gt;Deep experience developing modular, object-oriented JavaScript applications and concepts&lt;/li&gt;
+&lt;li&gt;Expert knowledge and real-world experience working with XSL, XSLT, and XML stylesheets&lt;/li&gt;
+&lt;li&gt;Expert working knowledge of WCAG/508 compliance and accessibility&lt;/li&gt;
+&lt;li&gt;Experience working with large scale Content Management Systems in support of an enterprise, public-facing website&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-web-developer-webmd-atlanta-ga</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-web-developer-webmd-atlanta-ga</guid>
+			</item>
 		
 	</channel>
 </rss>

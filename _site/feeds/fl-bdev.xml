@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/fl-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/fl-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>PHP Web Developer at Miles in Sarasota, FL</title>
+				<description>&lt;p&gt;Miles markets destinations and hospitality businesses by creating innovative, forward-thinking, integrated online, mobile, email and print content marketing solutions that result in increased visitation, industry participation and measurable results for our clients.&lt;/p&gt;
+
+&lt;p&gt;Miles is looking for a full-time LAMP developer skilled in all aspects of web development that enjoys a fun, though hectic and yet very rewarding work environment.&lt;/p&gt;
+
+&lt;h2&gt;Required&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Proficient in PHP 5 and object-oriented patterns&lt;/li&gt;
+&lt;li&gt;Knowledge of HTML, CSS, XML, JSON&lt;/li&gt;
+&lt;li&gt;Basic knowledge of GNU/Linux&lt;/li&gt;
+&lt;li&gt;Experience with relational databases and SQL syntax&lt;/li&gt;
+&lt;li&gt;Familiar with CodeIgniter, Laravel or another similar MVC framework&lt;/li&gt;
+&lt;li&gt;Strong working knowledge of JavaScript and AJAX&lt;/li&gt;
+&lt;li&gt;Experience with version-control systems such as SVN or Git&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Desired&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with third-party APIs such as Facebook, Twitter, Instagram, YouTube and Google Maps&lt;/li&gt;
+&lt;li&gt;Experience with jQuery, jQuery UI or similar JavaScript libraries&lt;/li&gt;
+&lt;li&gt;Experience with LESS/SASS and responsive web design&lt;/li&gt;
+&lt;li&gt;Ability to maintain and develop existing Drupal projects&lt;/li&gt;
+&lt;li&gt;Basic Photoshop skills, including the ability to toggle layers, slice images and preserve transparency&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Strong communication skills are a huge asset: The developer will be expected to communicate daily with a team lead, as well as non-technical staff, including artists, editors, publishers and project managers.&lt;/p&gt;
+
+&lt;p&gt;This position requires a basic understanding of client-based publishing (i.e. two levels of users – consumers and clients). Candidates must be able to thrive in a fast-paced environment, adapting quickly to changing deadlines and always flexible in shifting tasks to meet deliverables.&lt;/p&gt;
+
+&lt;p&gt;Miles offers a competitive salary and comprehensive benefits in a fun, dynamic and creative environment. Apply online only at &lt;a href=&quot;http://www.milespartnership.com/careers&quot;&gt;http://www.milespartnership.com/careers&lt;/a&gt;, follow the prompts to upload your resume, edit and complete your contact profile, edit and complete our employment application with employment and earnings history, and then answer a brief questionnaire.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/php-web-developer-miles-sarasota-fl</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/php-web-developer-miles-sarasota-fl</guid>
+			</item>
 		
 			<item>
 				<title>Web Developer at Plus Services in Orlando, FL</title>
@@ -34,7 +75,7 @@
 &lt;/ul&gt;
 
 </description>
-				<pubDate>Sun, 03 Feb 2013 11:41:47 -0500</pubDate>
+				<pubDate>Mon, 04 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/web-developer-plus-services-orlando-fl</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-plus-services-orlando-fl</guid>
 			</item>
@@ -66,7 +107,7 @@
 &lt;/ul&gt;
 
 </description>
-				<pubDate>Sun, 03 Feb 2013 11:41:47 -0500</pubDate>
+				<pubDate>Sun, 03 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/mobile-developer-picnicventures-pittsburgh-pa</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/mobile-developer-picnicventures-pittsburgh-pa</guid>
 			</item>

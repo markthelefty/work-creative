@@ -1,10 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/wa-mdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/wa-mdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Developer (iOS Mobile) at Quardev in Seattle, WA</title>
+				<description>&lt;h2&gt;Developer (iOS Mobile)&lt;/h2&gt;
+
+&lt;p&gt;Quardev, Inc., a premier testing and technical services provider is looking for exceptional people to join
+our team. We have a fast-growth, community-minded culture that is built on integrity, innovation, and
+fun, with a commitment to Doing-What-It-Takes to get the job done for our clients. Our five-star service
+standard, along with our professionalism and personable, partnering approach to doing business has
+earned us a 100% return rate with our testing clients since opening our doors in 2000.&lt;/p&gt;
+
+&lt;p&gt;We are seeking an iOS mobile developer (for a key client) to define, design and support our iOS
+applications. As a developer you will work closely with other developers and designers to drive the
+evolution and expansion of mobile apps into the next generation Airlines Mobile Assistant.&lt;/p&gt;
+
+&lt;h2&gt;Technical Skills Needed:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong Experience with iOS, Objective C or Cocoa Touch&lt;/li&gt;
+&lt;li&gt;Working knowledge of JavaScript, HTML5 and CSS&lt;/li&gt;
+&lt;li&gt;2+ years experience in mobile application development&lt;/li&gt;
+&lt;li&gt;Fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis&lt;/li&gt;
+&lt;li&gt;Proficiency in, at least, one modern object-oriented language such as Objective C (preferred), C++, or C#&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Other Requirements:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;B.S. degree in technical discipline or strong background in CS&lt;/li&gt;
+&lt;li&gt;Experience building complex iPhone Apps that have been successfully delivered to customers&lt;/li&gt;
+&lt;li&gt;Experience with iOS app testing, packaging and publishing&lt;/li&gt;
+&lt;li&gt;Familiar with Agile programming and Scrum development process&lt;/li&gt;
+&lt;li&gt;Good organizational and problem solving skills&lt;/li&gt;
+&lt;li&gt;Good team player who is self motivated and well organized&lt;/li&gt;
+&lt;li&gt;Strong oral and written communication skills&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Desired but not required:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with Version Control, MySQL, XML, JSON and Web Services&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;US Citizens and Green Card holders are encouraged to apply. We are unable to sponsor visas at this
+time.&lt;/p&gt;
+
+&lt;p&gt;Local Seattle Metro area candidates ONLY&lt;/p&gt;
+
+&lt;p&gt;Agencies Quardev does not accept unsolicited resumes from third party vendors. Any unsolicited
+resumes sent to Quardev from any third party will not be recognized and such agency or party will have
+no recourse from Quardev.&lt;/p&gt;
+
+&lt;p&gt;If you are ready for a challenge with a fast growing, exciting company send your resume and cover letter
+to us at resumes@quardev.com. We look forward to hearing from you.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/developer-ios-mobile-quardev-seattle-wa</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/developer-ios-mobile-quardev-seattle-wa</guid>
+			</item>
+		
+			<item>
+				<title>Senior Web and Mobile Producer at Bungie in Bellevue, WA</title>
+				<description>&lt;p&gt;Bungie is seeking a Senior Producer to be a critical part of launching our new universe into the hands and minds of game players everywhere. The Producer will work under minimal supervision of the Production Director, and use independent judgment to produce success in Web and Mobile devices teams.&lt;/p&gt;
+
+&lt;p&gt;The ideal candidate will have internal technical development experience, work well in a creative environment, be an excellent communicator, analytical, detail oriented, highly organized, and have a passion for the successful orchestration of complex projects from concept through sustained release.&lt;/p&gt;
+
+&lt;p&gt;This position will require the production of internal and external projects, supporting marketing and PR initiatives &amp;ndash; balancing the external development timelines with the resource commitments of the game development team and our publisher.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Centralize the vision coming from the stakeholders for web and mobile initiatives&lt;/li&gt;
+&lt;li&gt;Produce the internal technical team responsible for the execution of web and mobile&lt;/li&gt;
+&lt;li&gt;Act as the primary communication point for external project development. Balancing schedules, team morale, and the overall vision&lt;/li&gt;
+&lt;li&gt;Establish, maintain, and enhance relationship management of external partners. Collaborating with our publisher(s)&lt;/li&gt;
+&lt;li&gt;Drive the assessment of potential partners&lt;/li&gt;
+&lt;li&gt;From concept to release, lead and drive all production tasks.&lt;/li&gt;
+&lt;li&gt;Facilitate communication and collaboration with other disciplines, teams and stakeholders&lt;/li&gt;
+&lt;li&gt;Schedule and coordinate the details for all necessary meetings, and ensure action items are followed up on&lt;/li&gt;
+&lt;li&gt;Track and manage progress against budget&lt;/li&gt;
+&lt;li&gt;Manage risks, and establish risk mitigation&lt;/li&gt;
+&lt;li&gt;Drive the goals of milestones in conjunction with the wider production team and the game development timeline&lt;/li&gt;
+&lt;li&gt;Work with limited supervision and use independent judgment outside of established procedures when necessary&lt;/li&gt;
+&lt;li&gt;May train and mentor junior members of production staff&lt;/li&gt;
+&lt;li&gt;Contribute to the planning and direction of the development and production of all Bungie’s projects&lt;/li&gt;
+&lt;li&gt;Ensure studio compliance with company policies and procedures&lt;/li&gt;
+&lt;li&gt;Strive to improve production practices at Bungie&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required Skills&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to reliably schedule technical teams&lt;/li&gt;
+&lt;li&gt;Ability to self-motivate and motivate others&lt;/li&gt;
+&lt;li&gt;Results oriented, focused and composed under pressure&lt;/li&gt;
+&lt;li&gt;Exemplary communication skills: Listen to, speak with, and resolve conflicts with members of varied disciplines and external partners&lt;/li&gt;
+&lt;li&gt;Outstanding analytical skills: Understand, simplify, and solve or seek the solution to any problem in a fast-paced and ever-changing environment&lt;/li&gt;
+&lt;li&gt;Detail oriented and organized: Prepared to speak to and produce documents for all aspects of specified area at any given time&lt;/li&gt;
+&lt;li&gt;5+ years experience in internal games production and/or enterprise web application production&lt;/li&gt;
+&lt;li&gt;Completed a minimum of one complete large scale game cycle from start to finish or two or more web production cycles&lt;/li&gt;
+&lt;li&gt;Proficient in MS Office Suite, TFS or equivalent&lt;/li&gt;
+&lt;li&gt;Passion, enthusiasm and knowledge of the games industry&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Nice-to-have&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Publisher Production experience&lt;/li&gt;
+&lt;li&gt;External development production experience&lt;/li&gt;
+&lt;li&gt;Bachelor’s degree&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Tue, 05 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-web-and-mobile-producer-bungie-bellevue-wa</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-web-and-mobile-producer-bungie-bellevue-wa</guid>
+			</item>
 		
 	</channel>
 </rss>

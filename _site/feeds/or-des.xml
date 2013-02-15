@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/or-des.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/or-des.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>UI Designer at SuperGenius in Oregon City, OR</title>
+				<description>&lt;h2&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;SuperGenius is looking for an experienced and talented UI Designer to join the team and work alongside some of the most incredible and talented artist and animators in games. The project is a popular MMO Fantasy Game for the PC.&lt;/p&gt;
+
+&lt;p&gt;A great UI Designer knows how to guide the player without pandering, convey complex information quickly and simply, and reflect the soul of the game through clear and precise design. A great UI Designer knows how to work with a team and utilize the talent and knowledge of those around them to help build an amazing game. A great UI Designer is what is needed.&lt;/p&gt;
+
+&lt;p&gt;The position is temporary full time with opportunity for extended employment.&lt;/p&gt;
+
+&lt;h2&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Must be a very good designer.&lt;/li&gt;
+&lt;li&gt;Must be a very good interactive designer.&lt;/li&gt;
+&lt;li&gt;Should know Unreal, or be the type of person who leaps technological hurtles quickly and gracefully enough so that it does not matter.&lt;/li&gt;
+&lt;li&gt;Must work in house.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Desired Skills / Extras&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience and skill in other disciplines, such as Concepts, Animation, Characters, Environments, or VFX is always welcome. But please ONLY apply for the UI Designer position. The rest will simply be a plus.&lt;/li&gt;
+&lt;li&gt;Leadership Potential Admired.&lt;/li&gt;
+&lt;li&gt;We believe in open source culture. Sharing knowledge is more important than competition. Like-minded individuals preferred.&lt;/li&gt;
+&lt;li&gt;Experience in games is admired.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ui-designer-supergenius-oregon-city-or</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ui-designer-supergenius-oregon-city-or</guid>
+			</item>
 		
 	</channel>
 </rss>

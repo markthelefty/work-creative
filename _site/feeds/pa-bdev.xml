@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/pa-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/pa-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer at Parx Casino in Bensalem, PA</title>
+				<description>&lt;p&gt;Duties will include development and maintenance of our corporate websites, email campaigns, mobile web applications and interactive multimedia content. Minimum 3 years of professional experience. Must be a self starter, highly motivated, able to take ideas and develop them into usable content with minimal supervision. Must provide a portfolio of recent work that showcases both creative and technical ability using a range of different authoring tools and techniques.&lt;/p&gt;
+
+&lt;p&gt;Must have, and be able to demonstrate, experience with the following tools programs and systems:
+Web development technologies including PHP, HTML, CSS, XML, JavaScript Frameworks, AJAX and AS2/AS3 is required. Working knowledge of the Adobe Creative Suite including Fireworks, Photoshop and Flash.&lt;/p&gt;
+
+&lt;p&gt;Experience with HTML5 and CSS3 a plus.&lt;/p&gt;
+
+&lt;p&gt;We are proud to be an EEO/AA employer M/F/D/V. We maintain a drug-free workplace and perform pre-employment substance abuse testing.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-parx-casino-bensalem-pa</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-parx-casino-bensalem-pa</guid>
+			</item>
 		
 	</channel>
 </rss>

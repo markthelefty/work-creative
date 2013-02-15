@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/pa-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/pa-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer / Front-end Coder at Guardian Protection Services in Cranberry Township, PA</title>
+				<description>&lt;p&gt;Super-regional Security Systems Company, headquartered in Warrendale, Pa., has a need for a talented, motivated UI Developer with a stellar attitude.  Position reports to the vice president of marketing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;General duties will include web site maintenance and optimization, content updates, front-end design and development, developing user-centered designs for internal/external web sites and web applications.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Primary Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web front-end user interface design and implementation&lt;/li&gt;
+&lt;li&gt;Develop and optimize front-end UI functionality to ensure web application rendered consistently in cross browsers environment&lt;/li&gt;
+&lt;li&gt;Develop functional prototypes from wireframes and mockups, and create proper documentations&lt;/li&gt;
+&lt;li&gt;Create graphic design of UI to verify and validate requirement&lt;/li&gt;
+&lt;li&gt;Plan, coordinate, and execute UI unit testing&lt;/li&gt;
+&lt;li&gt;Ability to hand-code HTML and CSS and to write clean, standards compliant markup&lt;/li&gt;
+&lt;li&gt;Solid knowledge of CSS support for both modern and legacy browsers&lt;/li&gt;
+&lt;li&gt;Experience with CMS programs such as Wordpress and Umbraco is a plus&lt;/li&gt;
+&lt;li&gt;Experience with Adobe Photoshop&lt;/li&gt;
+&lt;li&gt;Knowledge of coding HTML emails for cross-compliance in email clients&lt;/li&gt;
+&lt;li&gt;Experience with JavaScript / JQuery a plus&lt;/li&gt;
+&lt;li&gt;Working knowledge of W3C standards &amp;amp; browser compatibility&lt;/li&gt;
+&lt;li&gt;Experience with web tracking and Google Analytics setup and reporting&lt;/li&gt;
+&lt;li&gt;Coordinate and work closely with other project teams&lt;/li&gt;
+&lt;li&gt;Follow industry trends with regard to frontend technologies and techniques&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Working Relationships&lt;/h2&gt;
+
+&lt;p&gt;Internal: Works with Marketing, the Customer Service Center, and IT.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-front-end-coder-guardian-protection-services-cranberry-township-pa</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-front-end-coder-guardian-protection-services-cranberry-township-pa</guid>
+			</item>
 		
 	</channel>
 </rss>

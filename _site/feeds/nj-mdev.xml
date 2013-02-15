@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/nj-mdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/nj-mdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>iOS Developer at Configuration Management, Inc. in Hackensack, NJ</title>
+				<description>&lt;p&gt;Join a dynamic team responsible for the development of user-facing client software running on multiple platforms and play a pivotal role in its future development. The Senior iOS Developer will work on complex software infrastructure as well as client application user interface for iOS. You will primarily be using C, C++ and Objective-C for development.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities may include:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;New feature design and implementation&lt;/li&gt;
+&lt;li&gt;Integration of newly available technologies and devices&lt;/li&gt;
+&lt;li&gt;Optimizations to existing infrastructure and algorithms&lt;/li&gt;
+&lt;li&gt;Unit tests and issue resolution&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Proven development experience with at least 2 years of commercial UI applications on iOS&lt;/li&gt;
+&lt;li&gt;Experience developing interactive end-user communication applications or services (chat, audio, video)&lt;/li&gt;
+&lt;li&gt;Experience of 3-5 years with C/C++ programming for large and complex systems&lt;/li&gt;
+&lt;li&gt;Experience with interactive voice and/or video communications over IP a plus&lt;/li&gt;
+&lt;li&gt;Experience with Linux, MacOS or Android an advantage&lt;/li&gt;
+&lt;li&gt;CS/EE degree with at least 5 years of industry experience&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Wed, 13 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ios-developer-configuration-management-inc-hackensack-nj</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ios-developer-configuration-management-inc-hackensack-nj</guid>
+			</item>
 		
 	</channel>
 </rss>

@@ -1,10 +1,316 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ny-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ny-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-end Developer at Harvest in New York, NY</title>
+				<description>&lt;p&gt;The role that JavaScript plays at Harvest is growing every day. You&amp;rsquo;ll join our front-end team in solving problems, building new features and making Harvest better and better. If you have experience with a nimble team where things progress rapidly then you&amp;rsquo;ll feel right at home at Harvest.&lt;/p&gt;
+
+&lt;p&gt;Harvest is a distributed team. We have a lovely big office in New York City, but team members live all over the USA, Canada and Europe. Wherever you currently live, that&amp;rsquo;s where we want you to be.&lt;/p&gt;
+
+&lt;p&gt;Did we mention a sense of humor yet? It&amp;rsquo;s important, we like to have fun while we work.&lt;/p&gt;
+
+&lt;h2&gt;Who You Are&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You have unrivaled attention to detail.&lt;/li&gt;
+&lt;li&gt;You believe it&amp;rsquo;s worth doing some extra work to make life easier on the customer.&lt;/li&gt;
+&lt;li&gt;You like writing CoffeeScript, but can write vanilla js without breaking a sweat.&lt;/li&gt;
+&lt;li&gt;You are familiar with Backbone and Ember and have an opion on what makes them good/bad/meh. Maybe you&amp;rsquo;ve even built projects in both.&lt;/li&gt;
+&lt;li&gt;You know that performance is king and have optimized your code for a wide range of browsers and platforms.&lt;/li&gt;
+&lt;li&gt;You write code in a modular, reusable fashion. Perhaps you&amp;rsquo;ve released open source code that demonstrates these qualities.&lt;/li&gt;
+&lt;li&gt;You believe that a task is not complete until a test is written.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;A Sample of Tasks and Projects You Might Work On&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Build new Harvest features and improve existing components.&lt;/li&gt;
+&lt;li&gt;Build a select box plugin for use in Harvest.&lt;/li&gt;
+&lt;li&gt;Build a cross-platform framework to support the mobile web component of Harvest.&lt;/li&gt;
+&lt;li&gt;Build a state manager for CSS media queries&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;To Apply&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please make sure you fit the descriptions above (see the brain!). You must be authorized to work in the United States (unless you intend to work remotely from your home country).&lt;/li&gt;
+&lt;li&gt;Email us at careers@getharvest.com with the subject &amp;ldquo;Harvest Front-end Developer.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Tell us why you want to work with us, and why you&amp;rsquo;d make a good fit here.&lt;/li&gt;
+&lt;li&gt;Give us your thoughts on the eternal JavaScript debate: semicolons &amp;ndash; yes or no?&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-harvest-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-harvest-new-york-ny</guid>
+			</item>
+		
+			<item>
+				<title>Junior Web Developer at Downtown Community Television Center in New York, NY</title>
+				<description>&lt;p&gt;Founded in 1972, DCTV is a 15-time Emmy Award winning, Academy Award nominated media arts center that fosters independent voices by providing professional media training and state-of-the-industry resources, and by creating and exhibiting outstanding documentary film productions, with the belief that diversity of expression strengthens our democracy and enhances civil society.&lt;/p&gt;
+
+&lt;p&gt;DCTV is seeking a part-time junior web developer to work 16 hours/week. This position will report to DCTV&amp;rsquo;s website manager to assist with the development and maintenance of dctvny.org and other online projects.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities &amp;amp; Duties:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Perform weekly HTML updates to our email blast templates&lt;/li&gt;
+&lt;li&gt;Add, update, and remove content from DCTV&amp;rsquo;s website&lt;/li&gt;
+&lt;li&gt;Resolve technical issues through research and debugging&lt;/li&gt;
+&lt;li&gt;Research, recommend, implement new website features and functionality&lt;/li&gt;
+&lt;li&gt;Perform other related duties or special projects as requested&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor&amp;rsquo;s degree and minimum of 2 years of web development experience in a professional work environment&lt;/li&gt;
+&lt;li&gt;Expert knowledge of HTML, CSS, and JavaScript&lt;/li&gt;
+&lt;li&gt;Experience with PHP, MySQL, and Content Management Systems&lt;/li&gt;
+&lt;li&gt;Proficiency with Drupal is a major bonus&lt;/li&gt;
+&lt;li&gt;Have an understanding of web standards and cross-browser compatibility&lt;/li&gt;
+&lt;li&gt;Proficiency in Adobe CS4 Creative Suite (Photoshop and Illustrator)&lt;/li&gt;
+&lt;li&gt;Self-motivated, organized, detail-oriented, creative problem-solver, team-player&lt;/li&gt;
+&lt;li&gt;Interest in and familiarity with web analytics, SEO, and user experience&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Job Details:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Compensation: $18/hour&lt;/li&gt;
+&lt;li&gt;Status: Part-Time Permanent&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;DCTV is a 501 &amp;copy; 3 non-for-profit organization. DCTV is an equal opportunity employer.&lt;/p&gt;
+
+&lt;h2&gt;HOW TO APPLY&lt;/h2&gt;
+
+&lt;p&gt;For consideration please submit a cover letter and resume (HTML, Word, or PDF) to employment@dctvny.org. Please also include contact information for two references. Links to examples of your work online are appreciated. No phone calls please. We thank all applicants for their interest, but only those selected for an interview will be contacted.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/junior-web-developer-downtown-community-television-center-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/junior-web-developer-downtown-community-television-center-new-york-ny</guid>
+			</item>
+		
+			<item>
+				<title>Front End Web Developer at Growth Solutions, Inc. in New York, NY</title>
+				<description>&lt;p&gt;This opportunity is with  a New York-based technology and sales company.  The only company to provide a comprehensive technology platform and strategic advertising services that enable media companies to expand to the digital realm with innovative Web publishing tools, advanced video delivery technology and industry-driving advertising leadership.&lt;/p&gt;
+
+&lt;p&gt;This is an excellent opportunity for a highly motivated, bright, self-starter with a 4-year degree. The ideal candidate will have experience developing web applications for media companies and experience working with the technologies listed below.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design and develop web presentation code&lt;/li&gt;
+&lt;li&gt;Develop quality, front-end code following industry standards and best practices&lt;/li&gt;
+&lt;li&gt;Ensure that features are supported across a variety of web browsers and platforms&lt;/li&gt;
+&lt;li&gt;Update and maintain documentation in an organized manner&lt;/li&gt;
+&lt;li&gt;Participate in application deployment and maintenance releases&lt;/li&gt;
+&lt;li&gt;Communicate status and identify issues affecting ability to complete tasks in a timely manner&lt;/li&gt;
+&lt;li&gt;Maintain technical knowledge of industry standards, best practices and trends&lt;/li&gt;
+&lt;li&gt;Contribute to team effort by accomplishing results as needed&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Skills&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5+ years experience in web application development&lt;/li&gt;
+&lt;li&gt;Strong knowledge of XSLT, JavaScript, DHTML, CSS skills are musts*&lt;/li&gt;
+&lt;li&gt;Experience working with popular frameworks like jQuery, SASS and LESS&lt;/li&gt;
+&lt;li&gt;Development experience using Flash/ActionScript, FLEX a plus&lt;/li&gt;
+&lt;li&gt;Understanding of OO concepts in JavaScript context&lt;/li&gt;
+&lt;li&gt;Understanding of DOM, DOM Event Models&lt;/li&gt;
+&lt;li&gt;Experience working with AJAX, JSON, XML, XSLT&lt;/li&gt;
+&lt;li&gt;Strong understanding of project lifecycle and intimate knowledge with coding, unit testing and code review phases&lt;/li&gt;
+&lt;li&gt;Strong time management and estimation abilities&lt;/li&gt;
+&lt;li&gt;Self-motivated and detail-oriented with excellent analytical abilities&lt;/li&gt;
+&lt;li&gt;Highly developed oral and written communication skills&lt;/li&gt;
+&lt;li&gt;Education Experience: 4 year degree, BS Computer Science or Engineering a plus&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;About Growth Solutions, Inc.:&lt;/h2&gt;
+
+&lt;p&gt;Great company !&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-growth-solutions-inc-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-growth-solutions-inc-new-york-ny</guid>
+			</item>
+		
+			<item>
+				<title>Front-End Web Developer / Designer at New York Post in New York, NY</title>
+				<description>&lt;p&gt;The New York Post, a division of News Corporation, is New York&amp;rsquo;s must-read newspaper leading the city with a powerful brand that is bold, street-smart, and award winning. We have a dynamic, creative, and energetic team from sales to editorial.&lt;/p&gt;
+
+&lt;p&gt;Currently, the New York Post is seeking an enthusiastic Front-End Web Developer/Designer. This person will be responsible for online site (nypost.com) development and design, monitoring and troubleshooting site changes and advertorial placements, owning the advertorial takeover calendar, as well as helping to create and test Flash animations for the site.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work with Editorial and Sales to understand and ultimately own and implement changes to nypost.com.&lt;/li&gt;
+&lt;li&gt;Act as an expert for the online site to help other team members fix and troubleshoot site and advertorial takeover issues.&lt;/li&gt;
+&lt;li&gt;Develop and design advertorial &amp;amp; editorial Flash animations for nypost.com, owning each animation from start to finish; creating and discussing animations with clients, creating mockups, ensuring assets are obtained and that requirements are clarified and understood by all stakeholders, approvals are received, animations are built, and issues are articulated and solved on time.&lt;/li&gt;
+&lt;li&gt;Work with Sales and clients to discuss design and animation ideas and be able to communicate those ideas with clarity and confidence.&lt;/li&gt;
+&lt;li&gt;Modify / reiterate preexisting advertising creative to fit site specifications.&lt;/li&gt;
+&lt;li&gt;Troubleshoot abrupt website issues.&lt;/li&gt;
+&lt;li&gt;Create designs and advertisements for the tablet and smartphone apps.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3 &amp;ndash; 5 years development and design experience in production capacity, preferably in publishing environment.&lt;/li&gt;
+&lt;li&gt;Strong skills in HTML 5, CSS, Adobe creative suite, Flash.&lt;/li&gt;
+&lt;li&gt;Strong Javascript skills, be able to use it to read and process JSON / XML data.&lt;/li&gt;
+&lt;li&gt;Strong project management skills.&lt;/li&gt;
+&lt;li&gt;Ability to create video based animation in AfterEffects and interact with them in the Flash environment.&lt;/li&gt;
+&lt;li&gt;Understanding of web video standards.&lt;/li&gt;
+&lt;li&gt;Understanding of Flash video, video players and encoding for Flash.&lt;/li&gt;
+&lt;li&gt;Be able to provide highly creative ideas and solutions to potential clients.&lt;/li&gt;
+&lt;li&gt;Great, clear communication skills, both written and oral.&lt;/li&gt;
+&lt;li&gt;General understanding of UX concepts and an eye for clean design.&lt;/li&gt;
+&lt;li&gt;Strong understanding of social media concepts and applications&lt;/li&gt;
+&lt;li&gt;Ability to manage time and juggle multiple projects under tight deadlines.&lt;/li&gt;
+&lt;li&gt;Experience designing ad creative (either for an agency or for a publisher supporting client creative).&lt;/li&gt;
+&lt;li&gt;Strong ability to quickly understand advertiser’s brand and be able to reiterate it in various digital spaces / sizes.&lt;/li&gt;
+&lt;li&gt;Strong working knowledge of online advertising best practices for design, including IAB recommendations for banners, mobile and app design principals.&lt;/li&gt;
+&lt;li&gt;Fluid understanding of current digital design and advertising trends.&lt;/li&gt;
+&lt;li&gt;Experience developing games on the Flash platform a plus!&lt;/li&gt;
+&lt;li&gt;Experience creating HTML5 rich media ads for mobile / tablet devices a plus!&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Please send resume and cover letter along with links to your portfolio to nyposthr@nypost.com.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-designer-new-york-post-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-designer-new-york-post-new-york-ny</guid>
+			</item>
+		
+			<item>
+				<title>Front-End Developer at Everyday Health in Manhattan, NY</title>
+				<description>&lt;p&gt;Everyday Health is hiring! Become a part of a close team of highly collaborative developers who work hard and who also play hard! If you&amp;rsquo;re a talented and enthusiastic developer with a passion for clean re-usable code, and is looking to join a rapidly growing team with an emphasis on creating exciting products in the health industry then read on&amp;hellip;&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work with a cross-functional team to iteratively develop high quality products&lt;/li&gt;
+&lt;li&gt;Collaborate with other developers to maintain standards and create a re-usable codebase&lt;/li&gt;
+&lt;li&gt;Anticipate business needs and propose efficient technology solutions to requirements&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+
+&lt;h3&gt;Absolute must haves:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;At least 3 years of experience with hand-coding semantic HTML and CSS including HTML5, CSS3&lt;/li&gt;
+&lt;li&gt;Ability to write clean, efficient cross-browser compatible code without resorting to browser specific workarounds&lt;/li&gt;
+&lt;li&gt;Strong working knowledge of JavaScript, jQuery and AJAX and JSON&lt;/li&gt;
+&lt;li&gt;Knowledge of script languages such as ColdFusion, PHP or Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Experience with agile methodology&lt;/li&gt;
+&lt;li&gt;Familiarity with source control (SVN,Git)&lt;/li&gt;
+&lt;li&gt;Experience with Cloud base solutions&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Other requirements:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Forward thinking, with an eye to code for performance, scalability, and maintainability&lt;/li&gt;
+&lt;li&gt;Full understanding of W3C standards and web best practices&lt;/li&gt;
+&lt;li&gt;Experience with Mobile website development and responsive design approach&lt;/li&gt;
+&lt;li&gt;Experience collaborating with design and development teams on large-scale projects&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Some perks:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Located in the heart of the West Village, surrounded by tons of great restaurants and bars.&lt;/li&gt;
+&lt;li&gt;Work in an open space with gorgeous views of the waterfront, just across from the Hudson River Park.&lt;/li&gt;
+&lt;li&gt;Excellent benefits including a matching 401k, discounted gym memberships and a very generous vacation policy.&lt;/li&gt;
+&lt;li&gt;Work in a fun environment with a group of passionate developers who live and breathe coding.
+&lt;strong&gt;Candidate should be prepared to take a test on Programming / Scripting if applicable at the interview.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Attracting 28 million monthly unique visitors, Everyday Health, Inc. is the leading provider of online health solutions. The company offers consumers, healthcare professionals and marketers with content and advertising-based services. Its broad portfolio of websites and mobile applications span the health spectrum–from in-depth medical content for condition prevention and management to healthy lifestyle offerings. Everyday Health offers the tools, community, and expert advice people need to live healthier lives, every day. Everyday Health was founded in 2002 by CEO, Ben Wolin, and President, Mike Keriakos.&lt;/p&gt;
+
+&lt;p&gt;At Everyday Health, we foster a cooperative and lively environment that encourages new ideas and forward thinking, and we value our employees and support their development. We work hard, but we work together to create a website experience that helps our audience live healthier lives every day and we have fun while we do it!&lt;/p&gt;
+</description>
+				<pubDate>Wed, 06 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-everyday-health-manhattan-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-everyday-health-manhattan-ny</guid>
+			</item>
+		
+			<item>
+				<title>Senior Front-End Web Developer at Bernard Nickels &amp; Associates in New York, NY</title>
+				<description>&lt;h2&gt;Job Description&lt;/h2&gt;
+
+&lt;p&gt;The Contractor will develop rich web user interfaces and other site-based web assets that interface with back-end components using HTML, CSS and JavaScript. The resource will also help guide associate developers in managing the development of AJAX, web service interfaces, campaigns, polls, and other advanced web technologies and tools. This resource will be called on as well for special projects requiring JavaScript, XHTML, CSS, JSP, and XML.&lt;/p&gt;
+
+&lt;h3&gt;Responsibilities include:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Composing JavaScript, CSS, and leveraging AJAX to develop rich website functionality&lt;/li&gt;
+&lt;li&gt;Translate wireframes/PSDs into launch-ready, valid XHTML/CSS&lt;/li&gt;
+&lt;li&gt;Develop interfaces to IPP web services to support product personalization&lt;/li&gt;
+&lt;li&gt;Ensure cross-browser compatibility&lt;/li&gt;
+&lt;li&gt;Work with QA teams to ensure that work products meet desired objectives&lt;/li&gt;
+&lt;li&gt;Implement solutions to support bug fixes and enhancements&lt;/li&gt;
+&lt;li&gt;Help troubleshoot launched promotional activities&lt;/li&gt;
+&lt;li&gt;Expert-level ability to hand-code AJAX, CSS , JavaScript and HTML. Candidates must have examples of complex, table-less layouts implemented using CSS and semantically correct markup&lt;/li&gt;
+&lt;li&gt;Deep experience with object-oriented JavaScript with a strong emphasis in jQuery&lt;/li&gt;
+&lt;li&gt;Experience with server-side integration and development expertise in JSP technology&lt;/li&gt;
+&lt;li&gt;Familiarity with Section 508 and WAI accessibility guidelines; Ability to develop interfaces that can be functional and accessible with or without the use of JavaScript&lt;/li&gt;
+&lt;li&gt;Good knowledge of Photoshop is required for slicing, cutting and optimizing web graphics for speed and performance&lt;/li&gt;
+&lt;li&gt;Ability to troubleshoot technical problems logically and systematically&lt;/li&gt;
+&lt;li&gt;Excellent communication skills and ability to work in a fast-paced, highly-collaborative environment&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Required Experience:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5+ years of industry experience in building great user experience ideally with a top internet brand.&lt;/li&gt;
+&lt;li&gt;7 + years experience in web development and presentation layer design/coding&lt;/li&gt;
+&lt;li&gt;Expertise in cross-browser implementations&lt;/li&gt;
+&lt;li&gt;Proven ability and expertise in Javascript framework implementations (jQuery, Prototype, etc.), JSON, AJAX and working with the DOM.&lt;/li&gt;
+&lt;li&gt;Familiarity and demonstrable experience with HTML5 and CSS3 is required.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Solid understanding of web application design and architecture principles is required.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Experience with video player integrations and video technologies is preferred&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Agency and/or Pharmaceutical Industry is preferred&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Experience working within an Agile development environment is highly desirable.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;BS or equivalent in computer technologies&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Company Overview&lt;/h2&gt;
+
+&lt;p&gt;Bernard, Nickels &amp;amp; Associates was founded in 2002. Our areas of expertise include Information Technology, Office Support, Accounting/Finance, and Legal.&lt;/p&gt;
+
+&lt;p&gt;BNA is committed to maintaining the highest levels of integrity and quality of services for both our clients and applicants. We are dedicated to the personal, professional and financial fulfillment of our employees and the candidates we represent in the marketplace. We do so by gaining an understanding of their background, experience, and goals and seeking to maximize their development. Why We Are Different&lt;/p&gt;
+
+&lt;p&gt;At BNA, we offer our clients a personalized level of service that sets us apart from other firms. Our dedicated team brings a level of integrity and professionalism that is rarely seen in the staffing business, ensuring your job orders don&amp;rsquo;t get lost in the shuffle. Our clients experience an extremely high level of appreciation for our ability to locate the right person for the right challenge. BNA is one of the top vendors for several Fortune 500 clients, proving the success of our innovative approach to staffing.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 05 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-front-end-web-developer-bernard-nickels-%26-associates-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-front-end-web-developer-bernard-nickels-%26-associates-new-york-ny</guid>
+			</item>
 		
 			<item>
 				<title>Lead Front-End Developer at Marqueed in Brooklyn, NY</title>
@@ -44,7 +350,7 @@
 
 &lt;p&gt;Salary (Based on experience) + Equity&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Feb 2013 12:38:32 -0500</pubDate>
+				<pubDate>Sun, 03 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/lead-front-end-developer-marqueed-brooklyn-ny</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/lead-front-end-developer-marqueed-brooklyn-ny</guid>
 			</item>
@@ -87,7 +393,7 @@
 
 &lt;p&gt;If this sounds like the gig for you, send us your resume and in your cover letter tell us what we should change to make our website, zocdoc.com, even better.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Feb 2013 12:38:32 -0500</pubDate>
+				<pubDate>Sun, 03 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/front-end-developer-zocdoc-new-york-ny</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-zocdoc-new-york-ny</guid>
 			</item>
@@ -119,7 +425,7 @@
 &lt;/ul&gt;
 
 </description>
-				<pubDate>Sun, 03 Feb 2013 12:38:32 -0500</pubDate>
+				<pubDate>Sat, 02 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/front-end-developer-project-one-new-york-ny</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-project-one-new-york-ny</guid>
 			</item>

@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/oh-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/oh-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer at American Chemical Society in Columbus, OH</title>
+				<description>&lt;p&gt;CAS is seeking a Web Developer to contribute to the development of a mission critical customer facing web application, working within an Agile team to code and test features according to customer specifications.  They will be responsible for developing UI modules within a Web framework using GUI best practices according to agile methodology and recommending best approach for developing complex user interactions focusing on application performance.&lt;/p&gt;
+
+&lt;h2&gt;Additional duties include:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Develop both unit and acceptance tests (TDD &amp;amp; ATDD)&lt;/li&gt;
+&lt;li&gt;Provide oral and written status&lt;/li&gt;
+&lt;li&gt;Provide guidance to less experienced members of the team.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required Skills&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5 or more years of software development experience (HTML / CSS / JavaScript)  within an enterprise-wide environment, focusing on web development&lt;/li&gt;
+&lt;li&gt;Effective communication, technical leadership and teaming skills&lt;/li&gt;
+&lt;li&gt;Strong Object Oriented Analysis &amp;amp; Design skills&lt;/li&gt;
+&lt;li&gt;Development experience on Windows and UNIX (i.e. Linux) platforms&lt;/li&gt;
+&lt;li&gt;Experience working in a team of application developers and source code repositories&lt;/li&gt;
+&lt;li&gt;Degree in Computer Science or related discipline or equivalent experience&lt;/li&gt;
+&lt;li&gt;Relevant skills include front-end web development with JavaScript, CSS and HTML&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-american-chemical-society-columbus-oh</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-american-chemical-society-columbus-oh</guid>
+			</item>
 		
 	</channel>
 </rss>

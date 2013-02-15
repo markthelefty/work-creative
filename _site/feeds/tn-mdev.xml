@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/tn-mdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/tn-mdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front End/Mobile Developer at Vanderbilt University in Nashville, TN</title>
+				<description>&lt;p&gt;As a member of our awesome web development team, you will design and implement innovative mobile solutions to meet the Medical Center&amp;rsquo;s key objectives, support existing apps and work collaboratively with the technical and design teams for solutions to both web and mobile platforms.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work in a group environment to plan and design new mobile and web products&lt;/li&gt;
+&lt;li&gt;Design, plan, test, and implement product features&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Perform maintenance programming and updates to existing apps&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Participate in quality assurance planning and testing&lt;/li&gt;
+&lt;li&gt;Develop standards for mobile development&lt;/li&gt;
+&lt;li&gt;Document software implementation and operation&lt;/li&gt;
+&lt;li&gt;Assure security and privacy protocols are followed&lt;/li&gt;
+&lt;li&gt;Stay current on mobile technology innovations and trends&lt;/li&gt;
+&lt;li&gt;Work closely with server administrators to ensure infrastructure stability&lt;/li&gt;
+&lt;li&gt;Assume additional responsibilities as assigned&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2+ years industry-level experience&lt;/li&gt;
+&lt;li&gt;1+ years mobile application development experience&lt;/li&gt;
+&lt;li&gt;BS/MS in Computer Science or related field preferred&lt;/li&gt;
+&lt;li&gt;Experience with iOS development and administration&lt;/li&gt;
+&lt;li&gt;Strong understanding of object-oriented development, use of design patterns and system architecture for mobile devices&lt;/li&gt;
+&lt;li&gt;Strong understanding of interactive touch/gesture interfaces, application development paradigms and memory management&lt;/li&gt;
+&lt;li&gt;Experience in database design and optimization&lt;/li&gt;
+&lt;li&gt;Hands-on experience with HTML5, CSS, and Javascript and Javascript frameworks (e.g. jquery, script.aculo.us)&lt;/li&gt;
+&lt;li&gt;Ability to multi-task and handle more than one project at a time&lt;/li&gt;
+&lt;li&gt;Be able to work in a team environment and communicate effectively with internal and external customers&lt;/li&gt;
+&lt;li&gt;Excellent communication skills&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Pluses:&lt;/h2&gt;
+
+&lt;h3&gt;Experience with&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;responsive design&lt;/li&gt;
+&lt;li&gt;Android development&lt;/li&gt;
+&lt;li&gt;PHP/MySQL experience&lt;/li&gt;
+&lt;li&gt;implementing and using unit testing and GIT source control&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Basic Qualifications&lt;/h2&gt;
+
+&lt;p&gt;Job requires Bachelor&amp;rsquo;s and 3 years of experience or the equivalent.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-mobile-developer-vanderbilt-university-nashville-tn</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-mobile-developer-vanderbilt-university-nashville-tn</guid>
+			</item>
 		
 	</channel>
 </rss>

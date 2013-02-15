@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/fl-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/fl-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Designer/Developer at GlobalEdge Media LLC in Safety Harbor, FL</title>
+				<description>&lt;p&gt;Responsible for creating websites for clients, using design creativity skills and the business information provided to create visually appealing, high-conversion websites that are well thought-out and effectively convey the client&amp;rsquo;s marketing message and strategy.&lt;/p&gt;
+
+&lt;p&gt;Basic websites are 8-10 pages and are built in Wordpress templates, where more advanced sites (20-50 pages) are more complex and will require proficiency in HTML, Photoshop, Dreamweaver, CSS and JavaScript.  Other requirements include: good written and verbal communication skills, commitment to quality, deadlines and strong attention to detail, strong design fundamentals.&lt;/p&gt;
+
+&lt;p&gt;We are looking for creative, reliable, hard working candidates who know how to build effective websites.&lt;/p&gt;
+
+&lt;h2&gt;About GlobalEdge Media LLC:&lt;/h2&gt;
+
+&lt;p&gt;Professional digital marketing company&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-designer-developer-globaledge-media-llc-safety-harbor-fl</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-designer-developer-globaledge-media-llc-safety-harbor-fl</guid>
+			</item>
 		
 	</channel>
 </rss>

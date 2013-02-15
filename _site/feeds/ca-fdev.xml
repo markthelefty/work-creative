@@ -1,10 +1,423 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ca-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ca-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front End Developer at Third Eye Consulting Services &amp; Solutions LLC. in Cupertino, CA</title>
+				<description>&lt;p&gt;Third Eye is looking for a creative, talented front end developer with an eye for quality and detail.&lt;/p&gt;
+
+&lt;h2&gt;Must have the following:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong HTML and HTML5 expertise&lt;/li&gt;
+&lt;li&gt;Fluent in CSS and CSS3&lt;/li&gt;
+&lt;li&gt;Cross browser development&lt;/li&gt;
+&lt;li&gt;Deep understanding of advanced JavaScript&lt;/li&gt;
+&lt;li&gt;Experience using JQuery and other JS frameworks&lt;/li&gt;
+&lt;li&gt;Excellent communication skills&lt;/li&gt;
+&lt;li&gt;Web application development experience&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Strong pluses:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experiemce with frameworks like ext.js&lt;/li&gt;
+&lt;li&gt;Web usability&lt;/li&gt;
+&lt;li&gt;JSP development experience&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;This is a FULL time position with Third Eye where the compensation package includes bonuses and full medical benefits. Highly skilled contractors can also be considered on a C2C basis.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-third-eye-consulting-services-%26-solutions-llc-cupertino-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-third-eye-consulting-services-%26-solutions-llc-cupertino-ca</guid>
+			</item>
+		
+			<item>
+				<title>UI Engineer / FrontEndDeveloper at Hearsay Social in San Francisco, CA</title>
+				<description>&lt;p&gt;We are looking for someone who knows what makes a website look and behave well and also has the random set of skills to actually
+make it happen. Someone who is so OCD that she even wants her code to look pretty.&lt;/p&gt;
+
+&lt;p&gt;We’re looking for someone who understands that there are living, breathing people at the other end of the tube. They’re impatient.
+They read very little. Sometimes they use ancient devices that you wouldn’t touch with a 10 foot pole, but hey they’re your guests and you’re open-minded so you accommodate them. If they can’t figure something out, it&amp;rsquo;s not their fault; it&amp;rsquo;s your fault for building a confusing application.&lt;/p&gt;
+
+&lt;p&gt;As a designer you believe less is more. You deconstruct a page to its most crucial elements (after figuring out what the most crucial elements are). You show and don’t tell. You realize that we are building a business application and not (thank God) a consumer daily deal site. As such, our site should be timelessly elegant without being trendy. You are consistently consistent.&lt;/p&gt;
+
+&lt;p&gt;As a developer you want every page to load in a snap. You know that all those &lt;strong&gt;HTTP requests&lt;/strong&gt; cause the browser to chug-a-lug so you use &lt;strong&gt;CSS3 for the bling and kiss the PNGs goodbye&lt;/strong&gt;. You have a visceral reaction to any text that’s part of an image (excepting, of course, logos) because you know it isn&amp;rsquo;t scalable or translatable. Your markup is clean and semantic. You know the difference between &lt;strong&gt;display block, inline and inline-block&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can do &lt;strong&gt;Javascript&lt;/strong&gt;. You know what it’s good for but you also know when not to use it. You prefer the &lt;strong&gt;acronym XHR to the misnomer AJAX because it should really be called AJAJ&lt;/strong&gt;. You like to experiment with new paradigms like Backbone but ultimately know it’s just one of many different implementations; it’s the thing you’re implementing that’s important not the technology that gets you there.&lt;/p&gt;
+
+&lt;p&gt;You secretly know that front end development is harder than back end development.&lt;/p&gt;
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;p&gt;You tell us.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ui-engineer-frontenddeveloper-hearsay-social-san-francisco-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ui-engineer-frontenddeveloper-hearsay-social-san-francisco-ca</guid>
+			</item>
+		
+			<item>
+				<title>UI Developer Job at The Active Network in Broomfield, CO</title>
+				<description>&lt;h2&gt;Description:&lt;/h2&gt;
+
+&lt;p&gt;Active Network is the largest provider in the world of online registration and event management software. We pride ourselves on having the most flexible off-the-shelf online registration product on the market and we are dedicated to creating the best event management tools in the world. We are seeking a highly motivated and skilled Front End Engineer who eats and breaths client side technologies to join our growing Development team in Broomfield, CO.&lt;/p&gt;
+
+&lt;p&gt;In this position, you will work with a fun team of passionate and talented developers to design and implement web-based software solutions and products for conferences, conventions, and trade shows taking place around the world.&lt;/p&gt;
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5+ years as a software developer&lt;/li&gt;
+&lt;li&gt;3+ years data driven web application development&lt;/li&gt;
+&lt;li&gt;Exceptional client side scripting (javascript/unobtrusive javascript, ajax, jquery, ajax) talents&lt;/li&gt;
+&lt;li&gt;Exceptional cross-browser (X)HTML 5, CSS 3, LESS skills &amp;ndash; Experience with Responsive Web&lt;/li&gt;
+&lt;li&gt;Familiar with web standards and separation of content, presentation, and behavior&lt;/li&gt;
+&lt;li&gt;Excellent verbal and written communications&lt;/li&gt;
+&lt;li&gt;Excellent problem solving abilities&lt;/li&gt;
+&lt;li&gt;Complete knowledge of all phases of the Software Development Cycle&lt;/li&gt;
+&lt;li&gt;Understanding of design patterns and software architecture&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Preferred:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience working within an Agile development team&lt;/li&gt;
+&lt;li&gt;Successful execution and delivery of projects in both large and small teams&lt;/li&gt;
+&lt;li&gt;Use of JS frameworks – JQuery, JQuery Mobile, knockout.js, backbone.js&lt;/li&gt;
+&lt;li&gt;Familiar with usability practices &amp;ndash; Familiar with web accessibility standards&lt;/li&gt;
+&lt;li&gt;Experience with Test Driven Development &amp;ndash; Experience in a Software as a Service (SaaS) company&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Characteristics for success at Active:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Collaborator &amp;ndash; communicating effectively, successfully presenting solutions while being open to feedback from others&lt;/li&gt;
+&lt;li&gt;Passion, defined as the desire to be an integral part of a world-class company delivering world-class products&lt;/li&gt;
+&lt;li&gt;Delivery of highly configurable, elegant solutions&lt;/li&gt;
+&lt;li&gt;Delivery of high performance, scalable, and secure code&lt;/li&gt;
+&lt;li&gt;Delivery of products on time in a fast-paced environment&lt;/li&gt;
+&lt;li&gt;Passion for clear, elegant, and extensible design as well as clean, well-documented code&lt;/li&gt;
+&lt;li&gt;Completing projects with the upmost quality &amp;ndash; Continuing to strive for improvement&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Active Characteristics:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Use of cutting edge software technology.&lt;/li&gt;
+&lt;li&gt;Opportunities to grow professionally.&lt;/li&gt;
+&lt;li&gt;Participating in highly visible projects.&lt;/li&gt;
+&lt;li&gt;Challenging, fast-paced work that is critical to the success of the company.&lt;/li&gt;
+&lt;li&gt;Employee input is highly valued and involved in shaping the company’s future.&lt;/li&gt;
+&lt;li&gt;Working with highly motivated, high integrity individuals. We work hard and play hard.&lt;/li&gt;
+&lt;li&gt;A culture of trust and understanding.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;This full-time position offers a competitive salary and full benefits (health, dental, vision, life, 401k). Salary is based on qualifications and experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nearest Major Market:&lt;/strong&gt; Denver&lt;br/&gt;
+&lt;strong&gt;Job Segments:&lt;/strong&gt; User Experience, Developer, Web Design, Product Development, Information Technology, Technology, Creative, Research&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ui-developer-job-the-active-network-broomfield-co</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ui-developer-job-the-active-network-broomfield-co</guid>
+			</item>
+		
+			<item>
+				<title>Senior Web Front-End Developer at Womply in San Francisco, CA</title>
+				<description>&lt;h2&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Computer Science degree or equivalent experience (top quartile)&lt;/li&gt;
+&lt;li&gt;Four years HTML/CSS/Javascript&lt;/li&gt;
+&lt;li&gt;Experience using web MVC frameworks in Ruby, PHP, Python or Java&lt;/li&gt;
+&lt;li&gt;Experience with &amp;ldquo;object oriented&amp;rdquo; programming in Javascript&lt;/li&gt;
+&lt;li&gt;Experience developing ajax-heavy web sites&lt;/li&gt;
+&lt;li&gt;Experience using public APIs including Facebook Connect, Google Maps, etc.&lt;/li&gt;
+&lt;li&gt;Experience dealing with cross browser issues&lt;/li&gt;
+&lt;li&gt;Experience with HTML5&lt;/li&gt;
+&lt;li&gt;Understanding of DTDs and validation&lt;/li&gt;
+&lt;li&gt;Experience with best-of-breed web development tools&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Preference will be given to candidates with experience in&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ruby on Rails&lt;/li&gt;
+&lt;li&gt;IOS and Android app development&lt;/li&gt;
+&lt;li&gt;Photoshop and Illustrator&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; In our interview process you will be asked to write &amp;ldquo;object oriented&amp;rdquo; javascript code.&lt;/p&gt;
+
+&lt;h2&gt;About&lt;/h2&gt;
+
+&lt;p&gt;Womply creates disruptive online/offline products for consumers and merchants. We strive to build a personalized and effortless shopping experience for our customers while always exceeding the needs of our merchant partners. Our product team is based in the Bay Area and our sales team will soon be spread across the country. We’re well funded by an awesome group of angel investors.&lt;/p&gt;
+
+&lt;h2&gt;Team&lt;/h2&gt;
+
+&lt;p&gt;We’re a small, nimble team of product designers, engineers and business guys &amp;amp; gals. We believe in our mission and we’re pursuing it with relentless focus and dedication. Perfection and speed are always our goals. We learn constantly and we’re not afraid to admit when we don’t know an answer.&lt;/p&gt;
+
+&lt;h2&gt;Compensation/Benefits&lt;/h2&gt;
+
+&lt;p&gt;We offer competitive compensation including salary, equity, and benefits. Womply covers 100% of employee health/dental/vision premiums and generous subsidies for dependents.&lt;/p&gt;
+
+&lt;h2&gt;Who we hire&lt;/h2&gt;
+
+&lt;p&gt;We hire highly-motivated individuals who will consistently outperform and grow in their roles. Given our size, everyone we hire should have a passion for learning and getting things done and show strong potential to grow into a leadership role.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-web-frontend-developer-womply-san-francisco-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-web-frontend-developer-womply-san-francisco-ca</guid>
+			</item>
+		
+			<item>
+				<title>Front-End Web Developer at Soap Creative in Los Angeles, CA</title>
+				<description>&lt;p&gt;We are looking for a driven front-end developer to join our team in Los Angeles.&lt;/p&gt;
+
+&lt;p&gt;Our 2012 reel:&lt;br/&gt;
+&lt;a href=&quot;http://vimeo.com/58691012&quot;&gt;http://vimeo.com/58691012&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some recent websites:&lt;br/&gt;
+&lt;a href=&quot;http://www.theamazingspidermangame.com&quot;&gt;http://www.theamazingspidermangame.com&lt;/a&gt;
+&lt;a href=&quot;http://www.transformersgame.com&quot;&gt;http://www.transformersgame.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We also make games:&lt;br/&gt;
+&lt;a href=&quot;http://soapcreative.com/games&quot;&gt;http://soapcreative.com/games&lt;/a&gt;
+&lt;a href=&quot;http://labs.soapcreative.com&quot;&gt;http://labs.soapcreative.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our studio and culture is geared towards producing great work. We are made up of lean, focused teams of talented interdisciplinary &amp;ldquo;Soaperheroes&amp;rdquo; &amp;ndash; artists, designers, game and web developers.&lt;/p&gt;
+
+&lt;p&gt;You will have the opportunity to work on high-profile web and mobile projects for a roster of clients including Activision, Marvel, Lucasfilm, Ubisoft, Fox and Warner Bros. Your work will help shape the direction of projects we take on.&lt;/p&gt;
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fluent knowledge of HTML/CSS and capabilities of modern browsers&lt;/li&gt;
+&lt;li&gt;Experience beyond jQuery with object-oriented, modular Javascript frameworks&lt;/li&gt;
+&lt;li&gt;Experience with GIT and working on code collaboratively&lt;/li&gt;
+&lt;li&gt;Experimented with WebGL, Canvas or another technology on visual-oriented work (bonus points)&lt;/li&gt;
+&lt;li&gt;Flash/Actionscript experience (bonus points)&lt;/li&gt;
+&lt;li&gt;Active on GitHub (bonus points)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;What We are Looking For:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Up-to-date with new tools, frameworks and thirst to embrace new technologies&lt;/li&gt;
+&lt;li&gt;Willingness to share code, teach others and collaborate&lt;/li&gt;
+&lt;li&gt;A keen eye for detail, animation and design&lt;/li&gt;
+&lt;li&gt;Passion for constantly making things better and mastering your craft&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;If you&amp;rsquo;re on top of your game (or would like to be), care about your work, want to work with like minded people at the forefront of the industry, let&amp;rsquo;s talk. Please send through samples of your work &amp;ndash; whether it be a GitHub pull request, a visual experiment, or an epic project you&amp;rsquo;ve worked on.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 08 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-soap-creative-los-angeles-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-soap-creative-los-angeles-ca</guid>
+			</item>
+		
+			<item>
+				<title>Web Designer / Developer at Rafter.com in San Mateo, CA</title>
+				<description>&lt;p&gt;Rafter, Inc., the leading course materials management platform, lowers the cost of education by providing colleges and universities with much needed tools to manage the rapidly changing world of course materials on campus. To learn more visit www.rafter.com and watch our video. Rafter evolved from BookRenter.com, the first online textbook rental site, launched in 2008 with a mission to make education more affordable by allowing students to rent textbooks for up to 80% off the retail price. Rafter is one of the few private ed tech companies that is truly lowering the cost of higher education for students. By working directly with more than 300 schools to turn the painful and archaic process of managing course materials into a low cost, student-centric service, Rafter has saved students more than $240m. By taking an enterprise approach to course materials management, the Rafter Course Materials Network takes a more holistic approach that provides colleges and universities with a path to discover, adopt, distribute and manage physical and digital course materials. 500+ schools run on Rafter!&lt;/p&gt;
+
+&lt;p&gt;http://www.rafter.com/&lt;/p&gt;
+
+&lt;p&gt;http://www.bookrenter.com/&lt;/p&gt;
+
+&lt;h2&gt;Position Summary:&lt;/h2&gt;
+
+&lt;p&gt;We&amp;rsquo;re looking for an ambitious Web Designer/Developer who is eager to brainstorm product ideas, communicate with clear beautiful design, and produce modular HTML &amp;amp; CSS for desktop &amp;amp; mobile web experiences.  We love sketchbooks, wall-to-wall whiteboards, Adobe Creative Suite, and checking out the latest and greatest design tools and resources to help us better communicate with each other and with our users. Ideal candidates should know the difference between UI and UX, maintain a solid understanding of best practices, and possess the ability and experience to translate their knowledge into workable designs across all multi-media touch points (including web, social, and mobile) as part of the Rafter design team.&lt;/p&gt;
+
+&lt;h2&gt;Primary Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Promote a user first design approach by thinking about the customer experience beyond digital touchpoints.&lt;/li&gt;
+&lt;li&gt;Work closely with small teams of software engineers, product designers, and product owners.&lt;/li&gt;
+&lt;li&gt;Solicit and confidently share design feedback within those small teams and with others across the company.&lt;/li&gt;
+&lt;li&gt;Rapidly build prototypes, ship code, and conduct design research.&lt;/li&gt;
+&lt;li&gt;Identify and communicate front-end and design best practices.&lt;/li&gt;
+&lt;li&gt;Set up and design A|B and multi-variant user tests to validate your designs.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Minimum Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to create wireframes &amp;amp; mockups for a variety of online media.&lt;/li&gt;
+&lt;li&gt;An understanding of the limitations in designing on multiple browsers &amp;amp; media types.&lt;/li&gt;
+&lt;li&gt;HTML/CSS, Javascript (we use Backbone and jQuery).&lt;/li&gt;
+&lt;li&gt;A solid understanding of &amp;lsquo;Responsive Web Design&amp;rsquo; and what it means.&lt;/li&gt;
+&lt;li&gt;A love for pixels. Especially the simple, elegant ones.&lt;/li&gt;
+&lt;li&gt;A portfolio of work that demonstrates your online design prowess.&lt;/li&gt;
+&lt;li&gt;Experience with Ruby on Rails and HAML/SASS is a plus.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;We offer competitive salary, benefits, and the chance to improve the lives of millions of students!&lt;/p&gt;
+
+&lt;p&gt;Read more about our success.&lt;/p&gt;
+
+&lt;p&gt;Rafter Experiences 1,400 Percent Annual Revenue Growth in On-Campus Commerce &amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;http://finance.yahoo.com/news/schools-running-rafter-platform-saved-133056097.html&lt;/p&gt;
+
+&lt;p&gt;To learn more about Rafter, visit us on the web at www.rafter.com.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-designer-developer-rafter-com-san-mateo-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-designer-developer-rafter-com-san-mateo-ca</guid>
+			</item>
+		
+			<item>
+				<title>Front-End Web Developer at Marketplace for American Public Media in Los Angeles, CA</title>
+				<description>&lt;p&gt;Join the development team at Marketplace from American Public Media as a temporary, full-time Front-End Web Developer and help us invent new and innovative ways to do digital story telling on the web and mobile devices with interactive applications and data visualizations. Marketplace is a national business news program heard by nearly 10 million people on public radio stations and on the web. And we are rapidly growing our digital news platforms to reach new audiences in new ways.&lt;/p&gt;
+
+&lt;h2&gt;Do work that matters&lt;/h2&gt;
+
+&lt;p&gt;As part of our small product development team you’ll get to partner with our designer, developer, web producers and the newsroom to visualize stories and data in ways that bring clarity to the issues that affect the economy, income distribution, economic sustainability and your pocket book.&lt;/p&gt;
+
+&lt;h2&gt;You are:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An expert at CSS3, javascript, jQuery, and AJAX&lt;/li&gt;
+&lt;li&gt;Experienced with developing web applications using map and charting APIs including Google Maps, HighCharts, AmCharts, and D3&lt;/li&gt;
+&lt;li&gt;Knowledgeable in server-side scripting like PHP, Python, Node.js, or Ruby&lt;/li&gt;
+&lt;li&gt;Experienced with – or interested in – HTML5&lt;/li&gt;
+&lt;li&gt;Excited about learning new things and always up for a challenge&lt;/li&gt;
+&lt;li&gt;A clear thinker and communicator who loves tackling tough problems and working with teams to get things done&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;You have:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A background in building interactive applications and data apps – interpreting information with compelling visual presentations&lt;/li&gt;
+&lt;li&gt;An eye for design and the ability to conceive and prototype new apps and product features&lt;/li&gt;
+&lt;li&gt;A working knowledge of CSS3 media queries, and current best practices around responsive design&lt;/li&gt;
+&lt;li&gt;A commitment to optimizing sites for front-end performance&lt;/li&gt;
+&lt;li&gt;Familiarity with version control&lt;/li&gt;
+&lt;li&gt;Used HTML5 and CSS3 on your recent projects&lt;/li&gt;
+&lt;li&gt;Built web sites or apps that deliver great mobile experiences&lt;/li&gt;
+&lt;li&gt;Good front-end development skills&lt;/li&gt;
+&lt;li&gt;Good ideas, strong opinions, a collaborative attitude and strong work ethic.&lt;/li&gt;
+&lt;li&gt;A Bachelor’s Degree in Computer Science or a related field or equivalent work experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;You’re extra awesome if you:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Have used responsive design approaches on at least one project&lt;/li&gt;
+&lt;li&gt;Have experience with building Drupal modules and websites&lt;/li&gt;
+&lt;li&gt;Are passionate about the news business and digital journalism&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Why you’ll love it here:&lt;/h2&gt;
+
+&lt;p&gt;You’ll come in to our downtown LA office and work on meaningful challenges and interesting projects with a crew of smart, friendly, creative people. You’ll get to work on a small, fast-moving team that is focused on making a small number of products the absolute best they can be. We offer a competitive hourly rate for this temporary, full-time position, and support a diverse and inclusive work environment.&lt;/p&gt;
+
+&lt;h2&gt;How to Apply:&lt;/h2&gt;
+
+&lt;p&gt;For more information about the opportunity or to submit your application, please send an email with a short cover letter, your resume, and links to samples of your work to Matt Berger, Marketplace Digital Director at mberger@marketplace.org.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 06 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-marketplace-for-american-public-media-los-angeles-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-marketplace-for-american-public-media-los-angeles-ca</guid>
+			</item>
+		
+			<item>
+				<title>Front-End Developer at Momentum Design Lab in San Francisco, CA</title>
+				<description>&lt;p&gt;Momentum Design Lab is looking for a Front-End Developer to join our team. As Front-End Developer, you will build the interface of Momentum’s software design and development projects according to finalized user experience designs — all while ensuring the highest degree of customer satisfaction.  In addition to gaining exposure to different industries and businesses, the Front-End Developer will play a key role in enabling the success of customer engagements.&lt;/p&gt;
+
+&lt;h2&gt;Duties and Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bring designs to life in code and make sure the design view is as masterfully created as the models and controllers&lt;/li&gt;
+&lt;li&gt;Identify and mitigate any technological and design risks that will affect the front-end code&lt;/li&gt;
+&lt;li&gt;Possess the ability to multitask and manage time effectively&lt;/li&gt;
+&lt;li&gt;Manage and deliver customer projects on time and within project budget and scope&lt;/li&gt;
+&lt;li&gt;Prepare project documentation, including plans and status reports&lt;/li&gt;
+&lt;li&gt;Assist in the development of statements of work and project requirements.&lt;/li&gt;
+&lt;li&gt;Manage project resources to execute on each project plan and timely achieve all project milestones.&lt;/li&gt;
+&lt;li&gt;Communicate effectively between stakeholders, including team members, managers and customers.&lt;/li&gt;
+&lt;li&gt;Identify and effectively manage project risks and problems; facilitate resolution of any issues or problems.&lt;/li&gt;
+&lt;li&gt;Support account management.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications/Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2 &amp;ndash; 3+ years experience with HTML, CSS, and JavaScript development in a client-services environment&lt;/li&gt;
+&lt;li&gt;Strong knowledge of browser dependencies, differences and capabilities.&lt;/li&gt;
+&lt;li&gt;CSS, CSS3, HTML, XHTML, HTML5, SASS and behavioral JavaScript knowledge preferred&lt;/li&gt;
+&lt;li&gt;Excellent verbal and written communication skills.&lt;/li&gt;
+&lt;li&gt;Strong analytical and problem solving skills.&lt;/li&gt;
+&lt;li&gt;Proven organizational skills and strong attention to detail.&lt;/li&gt;
+&lt;li&gt;Strong knowledge of the web, software design/development process and technologies.&lt;/li&gt;
+&lt;li&gt;Ability to work independently and as part of a team.&lt;/li&gt;
+&lt;li&gt;A sense of humor and tenacity.&lt;/li&gt;
+&lt;li&gt;Recent project delivery experience relevant to software UX design and development preferred.&lt;/li&gt;
+&lt;li&gt;Mobile and Tablet HTML5 experience preferred.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Perks:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flexible work hours&lt;/li&gt;
+&lt;li&gt;Opportunity to work on a variety of projects with various clients, industries, and technologies&lt;/li&gt;
+&lt;li&gt;Occasional travel&lt;/li&gt;
+&lt;li&gt;Casual and fun work environment&lt;/li&gt;
+&lt;li&gt;Health benefits and vacation&lt;/li&gt;
+&lt;li&gt;Downtown San Mateo and San Francisco office locations (easy and accessible public transportation!)&lt;/li&gt;
+&lt;li&gt;Competitive salary; Compensation DOE&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;To apply, please email us at uijobs AT momentumdesignlab.com
+No recruiters or placement agencies&lt;/p&gt;
+</description>
+				<pubDate>Wed, 06 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-momentum-design-lab-san-francisco-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-momentum-design-lab-san-francisco-ca</guid>
+			</item>
+		
+			<item>
+				<title>Senior Front-End Developer at H&amp;L in San Francisco, CA</title>
+				<description>&lt;h2&gt;Must-read company overview if you landed directly on this page.&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Develop our website and mobile applications using leading-edge UX techniques. Our prototype is in jQuery 1.6, Rails 3.1, HAML, and Sass.&lt;/li&gt;
+&lt;li&gt;Raise your mastery by researching UX capabilities in HTML5, Compass, Sass, Node, Backbone, microformats, Schema.org, SproutCore, and more&lt;/li&gt;
+&lt;li&gt;Use lean UX to code up new concepts and get them in front of real users. We do continuous integrations and deployments, so you can get your work live on our website immediately.&lt;/li&gt;
+&lt;li&gt;Experiment with broad ideas as well as fine tuning: our application&amp;rsquo;s users have a wide range of high-level workflows and skills, and also can be highly responsive to specific details in the UX.&lt;/li&gt;
+&lt;li&gt;Drive our team&amp;rsquo;s success by building UX metrics, instrumentation, and analytics. Areas we want include UX coding for A/B splits, funnels, heatmaps, mouseflows, and sub-second timing.&lt;/li&gt;
+&lt;li&gt;Keep on top of the latest UX progress with blogs like Smashing Magazine, Addy Osmani, and A List Apart, and the Google User Experience team blog.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Tue, 05 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-front-end-developer-h%26l-san-francisco-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-front-end-developer-h%26l-san-francisco-ca</guid>
+			</item>
 		
 			<item>
 				<title>Front-End Developer at UniversityNow, Inc. in San Francisco, CA</title>
@@ -92,92 +505,9 @@
 
 &lt;p&gt;We pay our staff competitively with cash and equity.  Our benefit package includes Medical, Dental, Vision, 529 College Savings Plan, Flexible Spending Accounts, Life Insurance, Adoption Assistance, Paid Holidays, Unlimited Vacation and Snacks.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Feb 2013 11:35:37 -0500</pubDate>
+				<pubDate>Sun, 03 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/front-end-developer-universitynow-inc-san-francisco-ca</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-universitynow-inc-san-francisco-ca</guid>
-			</item>
-		
-			<item>
-				<title>Front-End Developer at Odopod in San Francisco, CA</title>
-				<description>&lt;p&gt;We are looking for a rock star front-end web developer to join the team through the beginning of February 2013. We are working on a large-scale responsive design project that is pushing the envelope for one of the most respected consumer brands in the world.&lt;/p&gt;
-
-&lt;h2&gt;Job Responsibilities&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Solve complex engineering problems quickly and smartly&lt;/li&gt;
-&lt;li&gt;Write code and assist with asset production&lt;/li&gt;
-&lt;li&gt;Clearly articulate ideas and recommendations on development solutions&lt;/li&gt;
-&lt;li&gt;Have a strong voice in application architecture, investigating solutions and finding ways to innovate&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;You&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Live and breath HTML, CSS, and JavaScript&lt;/li&gt;
-&lt;li&gt;Deep expertise with supporting web standards technologies, including jQuery, Bootstrap and libraries, LESS, SASS, DocPad, Grunt, Mustache&lt;/li&gt;
-&lt;li&gt;Prefer experience with responsive design, grid systems, deferred loading schemes, jank-free animation rendering&lt;/li&gt;
-&lt;li&gt;Have experience working on large teams&lt;/li&gt;
-&lt;li&gt;Approach technical challenges with an open mind and desire to innovate&lt;/li&gt;
-&lt;li&gt;Appreciate great design and thrive in a creative environment&lt;/li&gt;
-&lt;li&gt;Communicative and clear under tight deadlines&lt;/li&gt;
-&lt;li&gt;Have strong personal organization and attention to detail&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Us&lt;/h2&gt;
-
-&lt;p&gt;WE&amp;rsquo;RE ODOPOD, a new kind of agency – one that thinks like a start-up, understands brands like an agency, and creates products and services like an innovation firm. We’re located in Hayes Valley, San Francisco. We work with bold, forward-looking brands like Sony, Google, Coca-Cola, Tesla Motors, PlayStation, the International Watch Company (IWC), and Sling Media.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learn more about us at &lt;a href=&quot;http://www.odopod.com&quot;&gt;http://www.odopod.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Please, no phone calls&lt;/li&gt;
-&lt;li&gt;Include a link to your online portfolio and PDF of your resume&lt;/li&gt;
-&lt;li&gt;You must live in the San Francisco area or be willing to move here&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-				<pubDate>Sun, 03 Feb 2013 11:35:37 -0500</pubDate>
-				<link>http://workcreative.net/jobs/front-end-developer-odopod-san-francisco-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-odopod-san-francisco-ca</guid>
-			</item>
-		
-			<item>
-				<title>Creative Front-End Developer at Venables Bell & Partners in San Francisco, CA</title>
-				<description>&lt;p&gt;We are seeking a front-end web developer to translate creative concepts into online advertising, interactive web experiences and animations. Candidate must be adaptive, self-motivated, detail oriented, organized, an excellent communicator and have a minimum of one year of experience in front-end web development.&lt;/p&gt;
-
-&lt;h2&gt;Candidate must be&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Quick to adapt to changing technologies&lt;/li&gt;
-&lt;li&gt;Innovative, easygoing and hardworking&lt;/li&gt;
-&lt;li&gt;Detail oriented&lt;/li&gt;
-&lt;li&gt;Able to manage multiple projects in a fast-paced environment&lt;/li&gt;
-&lt;li&gt;Able to collaborate effectively with other staff members&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Required skills&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1+ year(s) experience as a front-end web developer&lt;/li&gt;
-&lt;li&gt;HTML, CSS, JavaScript, structured data formats like XML, JSON&lt;/li&gt;
-&lt;li&gt;Proficiency in Adobe Creative Suite to create assets for interactive and web projects&lt;/li&gt;
-&lt;li&gt;Familiarity with version control/source control systems like Git&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Nice to haves&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Flash/ActionScript&lt;/li&gt;
-&lt;li&gt;Familiarity with backend programming concepts using PHP &amp;amp; MySQL or similar&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-				<pubDate>Sun, 03 Feb 2013 11:35:37 -0500</pubDate>
-				<link>http://workcreative.net/jobs/creative-front-end-developer-venables-bell-%26-partners-san-francisco-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/creative-front-end-developer-venables-bell-%26-partners-san-francisco-ca</guid>
 			</item>
 		
 	</channel>

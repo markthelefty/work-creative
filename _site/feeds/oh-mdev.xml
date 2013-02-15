@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/oh-mdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/oh-mdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Android and iOS Mobile Developers at CSC in Cincinnati, OH</title>
+				<description>&lt;p&gt;CSC (www.csc.com), one of the world&amp;rsquo;s most innovative and successful IT services firms, is looking for candidates to help grow our talented consulting team.&lt;/p&gt;
+
+&lt;p&gt;We are looking for individuals who:
+* Strive for excellence in everything they do
+* Bring a partnering approach to their job
+* Focus on the innovative use of technology to overcome business challenges
+* Seek to work in a environment that respects individual ideas and diversity&lt;/p&gt;
+
+&lt;p&gt;Specifically, we are seeking to hire Mobility developers with deep skills in Android to work with clients to design and deliver solutions that meet their specific business objectives. You will leverage and grow your knowledge and skills in a fast-paced, rewarding environment &amp;mdash; working side-by-side with our team of world class consultants.  In addition to a rewarding work environment, CSC offers an outstanding set of benefits.&lt;/p&gt;
+
+&lt;p&gt;We are seeking a Sr. Android developer with 3 to 5 years of commercial experience in developing software solutions with a focus on user interface design.   Ideal candidate will have developed 10+ apps on a professional basis, either for individual sale or for enterprise customers. Experience in iOS and HTML5 development a big plus.  You will be working with a team of User Experience professionals and Solution Architects to deliver mobile application (BS in Computer Science, Electrical Engineering, or related field).&lt;/p&gt;
+
+&lt;p&gt;The Company:  CSC (www.csc.com) is one of the world&amp;rsquo;s leading providers of information technology services, helping organizations achieve business results through the effective use of technology. Since its formation in 1959, CSC has earned a customer-centric reputation for developing and managing solutions specifically tailored to each client&amp;rsquo;s needs. No other company offers the same range of professional services and global reach as CSC does in areas such as business and technology strategies, management consulting, information systems consulting and integration, application software, and IT and business process outsourcing.&lt;/p&gt;
+
+&lt;p&gt;CSC is a leading provider of management and information technology services to commercial and government markets in over 90 countries.  Our consulting portfolio spans the full life cycle &amp;ndash; from strategy and business process design to technology services, systems integration, application outsourcing and hosting.  Our clients benefit from the breadth and depth of our global expertise, but more importantly, CSC goes to market using a team of local experts, creating a relaxed, professional-casual atmosphere, while maintaining a family and people-oriented culture.&lt;/p&gt;
+
+&lt;p&gt;Are we right for you?  CSC offers a variety of challenging opportunities that will draw on your talents while enabling you to grow your intellectual capital in a supportive environment.  Learning experiences are offered as a blend of relevant work assignments, training, tools, mentoring and other growth opportunities.  We offer many avenues to mastering your chosen profession, while giving you everyday exposure to brilliance in business, technology and people.  As one employee puts it &amp;ldquo;you have the freedom to explore different technologies, the mobility to move from one role to another (or one country to another), and the possibilities of learning from 92,000 colleagues worldwide &amp;ndash; without changing employer or losing benefits.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Career Advancement:  Your career belongs to you. At CSC, we recognize that you are in control of identifying and achieving your career goals.  CSC enables you to take the lead through our formal development planning process.  We will help you create a plan for enhancing your skills and experience by providing information, tools, and people that will support your career planning efforts.  We have identified over 60 standard roles that exist across CSC Consulting, as well as the corresponding skills needed to succeed in those roles.  You can use this information to identify your next assignment or an entire career path anywhere in the U.S. or potentially the world.  A career at CSC can be as targeted or eclectic as you are.&lt;/p&gt;
+
+&lt;p&gt;Expectation for Travel:  For the Global Business Solutions division of CSC, all roles require a commitment to 100% travel.  This doesn&amp;rsquo;t mean that a person will always be traveling for assignments, but new Consultants joining the CSC team need to understand that they could be assigned to a travel role.  The staffing process focuses on assigning people to local roles as a first priority, however, if a Consultant is available and has the right skills for an assignment for another CSC office across the United States, the Consultant may be staffed into that travel assignment.  When this happens, they travel to the project location at the start of the week, return at the end of the work week and are home during the weekends.&lt;/p&gt;
+
+&lt;h2&gt;Below is the generic description for this position:&lt;/h2&gt;
+
+&lt;h3&gt;Essential Job Functions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gathers technical requirements and translates requirements into hardware and software capabilities (Technical).&lt;/li&gt;
+&lt;li&gt;Communicates technical architecture direction and coordinates technical proof of concept analyses (Technical).&lt;/li&gt;
+&lt;li&gt;Assists in solving technical and performance problems within the technical infrastructure (Technical).&lt;/li&gt;
+&lt;li&gt;Develops required work products for technology, application, and data domains of change (Methodology).&lt;/li&gt;
+&lt;li&gt;Leads a team of 3-5 resources (company, client and third-party resources), in area of expertise, to conclusion of a project phase (Management).&lt;/li&gt;
+&lt;li&gt;Participates in providing gap analyses, from a technical perspective, highlighting current state, future state, client needs, best practices and competition (Business).&lt;/li&gt;
+&lt;li&gt;Establishes credibility at all levels with clients and builds problem-solving partnerships with clients and colleagues (Relationship Management).&lt;/li&gt;
+&lt;li&gt;Assists sales staff in qualifying leads and generating proposals (Leverage).&lt;/li&gt;
+&lt;li&gt;Provides leadership and work guidance to less experienced personnel (Leadership).&lt;/li&gt;
+&lt;li&gt;Communicates in formal presentation settings including proposal orals, client workshops and regional internal events; develops proposal sections, methodology work products and formal written deliverables covering area(s) of expertise (Communication).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+
+&lt;h3&gt;Basic Qualifications&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor&amp;rsquo;s degree or equivalent combination of education and experience&lt;/li&gt;
+&lt;li&gt;Bachelor&amp;rsquo;s degree in a related field preferred&lt;/li&gt;
+&lt;li&gt;Six or more years of consulting experience with technical architecture analysis and design&lt;/li&gt;
+&lt;li&gt;Experience working with CSC Catalyst and/or equivalent client or vendor-mandated methodology&lt;/li&gt;
+&lt;li&gt;Experience working with the client&amp;rsquo;s enterprise products, services, and strategies&lt;/li&gt;
+&lt;li&gt;Experience working with at least two technical platforms and associated integration techniques&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Other Qualifications&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Two to five years of additional relevant experience in one or more technical specialty areas&lt;/li&gt;
+&lt;li&gt;Good technical infrastructure performance modeling and benchmarking skills&lt;/li&gt;
+&lt;li&gt;Strong communication skills&lt;/li&gt;
+&lt;li&gt;Ability to deal with and resolve ambiguity&lt;/li&gt;
+&lt;li&gt;Ability to anticipate problems and take decisive action, giving regard to the impact on both the client and the company&lt;/li&gt;
+&lt;li&gt;Ability to adjust personal style to different situations&lt;/li&gt;
+&lt;li&gt;Willingness to travel&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;CSC is an Equal Opportunity Employer M/F/D/V&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/android-and-ios-mobile-developers-csc-cincinnati-oh</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/android-and-ios-mobile-developers-csc-cincinnati-oh</guid>
+			</item>
 		
 	</channel>
 </rss>

@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ny-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ny-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer at Theatre Communications Group (TCG) in New York, NY</title>
+				<description>&lt;h2&gt;About The Position&lt;/h2&gt;
+
+&lt;p&gt;Theatre Communications Group (TCG), the national organization for the American theatre is seeking a full-time ColdFusion Web Developer to assist with the implementation of new applications, maintenance of existing platforms, and project specification reviews.&lt;/p&gt;
+
+&lt;h2&gt;About You&lt;/h2&gt;
+
+&lt;p&gt;As part of the development team, you will support an environment with systems that cross a wide array features and functionality such as ecommerce, subscription-based models, reporting, survey building, and content management. The ideal candidate for this position is an experienced developer who works well within a team and has the ability to work on projects with minimal supervision in a deadline oriented situations.&lt;/p&gt;
+
+&lt;h2&gt;Required Technologies&lt;/h2&gt;
+
+&lt;p&gt;ColdFusion(8,9,10),HTML5, XHTML, DHTML, JavaScript, JQuery, AJAX, XML/XSLT, IIS6 &amp;amp; 7, CSS, ActiveX, ODBC, JDBC, SQL Server 05/08/10/12, Transact-SQL, MS Access. Visio, UML, T.O.A.D, Crystal Reports 9, Dreamweaver MX, HomeSite 5+. Windows 2008 server, XP, UML&lt;/p&gt;
+
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5+ years of professional experience designing, coding, and deploying CF applications.&lt;/li&gt;
+&lt;li&gt;5+ years of professional experience database development including DDL (tables, views, stored procedures) and DML (analyzing and optimizing existing SQL code, writing new queries)&lt;/li&gt;
+&lt;li&gt;5+ years of professional experience working with JavaScript, jQuery (Ajax development).&lt;/li&gt;
+&lt;li&gt;5+ years of professional experience working with frameworks such as Model Glue, ColdBox or FuseBox.&lt;/li&gt;
+&lt;li&gt;Strong analytical skills.&lt;/li&gt;
+&lt;li&gt;Strong customer service skills.&lt;/li&gt;
+&lt;li&gt;Can demonstrate proficiency in application development life cycle.&lt;/li&gt;
+&lt;li&gt;Proficient oral and written communication skills.&lt;/li&gt;
+&lt;li&gt;Ability to plan, prioritizes, and complete projects and tasks in deadline oriented environment.&lt;/li&gt;
+&lt;li&gt;Ability to work in a team environment.&lt;/li&gt;
+&lt;li&gt;Responsibilities include code and unit testing of project rollouts and application enhancements.&lt;/li&gt;
+&lt;li&gt;Other responsibilities include trouble shooting, solution modeling and testing.&lt;/li&gt;
+&lt;li&gt;Other duties as assigned.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;In addition to strong hands-on technical skills, the candidate must show proficiency in communicating technical concepts in understandable terms and convert complex business objectives into tangible products. Must work closely with executive level individuals and shown an ability to communicate effectively across multiple groups.   Candidate must show a propensity for leadership, knowledge sharing, and technical growth essential to producing high-level enterprise applications in deadline-oriented situations.&lt;/p&gt;
+
+&lt;h2&gt;To Apply&lt;/h2&gt;
+
+&lt;p&gt;Email your cover letter including salary requirements, code and database samples and resume to: itjobs@tcg.org. No calls please. We will respond only to those resumes in which we have interest.&lt;/p&gt;
+
+&lt;h2&gt;About TCG&lt;/h2&gt;
+
+&lt;p&gt;For over 50 years, Theatre Communications Group (TCG), the national organization for the American theatre, has existed to strengthen, nurture and promote the professional not-for-profit American theatre. TCG’s constituency has grown from a handful of groundbreaking theatres to nearly 700 member theatres and affiliate organizations and more than 12,000 individuals nationwide. TCG offers its members networking and knowledge-building opportunities through conferences, events, research and communications; awards grants, approximately $2 million per year, to theatre companies and individual artists; advocates on the federal level; and serves as the US Center of the International Theatre Institute, connecting its constituents to the global theatre community. TCG is North America’s largest independent publisher of dramatic literature, with 11 Pulitzer Prizes for Best Play on the TCG booklist. It also publishes the award-winning AMERICAN THEATRE magazine and ARTSEARCH®, the essential source for a career in the arts. In all of its endeavors, TCG seeks to increase the organizational efficiency of its member theatres, cultivate and celebrate the artistic talent and achievements of the field and promote a larger public understanding of, and appreciation for, the theatre. For more information, visit &lt;a href=&quot;http://www.tcg.org&quot;&gt;www.tcg.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-theatre-communications-group-%28tcg%29-new-york-ny</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-theatre-communications-group-%28tcg%29-new-york-ny</guid>
+			</item>
 		
 	</channel>
 </rss>

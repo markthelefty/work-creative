@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/wa-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/wa-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-end Web Developer at MobileDevHQ in Seattle, WA</title>
+				<description>&lt;p&gt;We&amp;rsquo;re hiring our first front-end web developer to translate designers' beautiful
+ideas into an amazing web application.&lt;/p&gt;
+
+&lt;p&gt;App marketers are spending too much time and money on paid app marketing
+channels, leading to unprofitable downloads. We believe there&amp;rsquo;s a better way:
+organic app marketing. MobileDevHQ helps mobile app marketers get more
+downloads by understanding and improving organic marketing channels such as
+app store search. We are a TechStars Seattle company with seed funding from a
+slew of fantastic investors.&lt;/p&gt;
+
+&lt;p&gt;You are a world-class front-end web developer with a strong understanding of
+user experience who can turn designs into reality through code. You have strong
+opinions about building beautiful web applications and strive for excellence in
+everything you do.&lt;/p&gt;
+
+&lt;h2&gt;What you&amp;rsquo;ll be doing at MobileDevHQ:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work directly with our product team to understand users' pains and use cases for our product.&lt;/li&gt;
+&lt;li&gt;Work with a designer to help build UIs to solve these pains and use cases.&lt;/li&gt;
+&lt;li&gt;Implement these interfaces into our product with your
+HTML/CSS/JavaScript skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;What you need to be hired at MobileDevHQ:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience taking Photoshop work and turning it into a living, breathing web page with HTML, CSS, and JavaScript. Bonus points for Ruby on Rails (or HAML and SASS) experience.&lt;/li&gt;
+&lt;li&gt;Love for mobile and marketing. Apps are taking over the world, and we help large enterprises succeed in the app ecosystem through smart marketing.&lt;/li&gt;
+&lt;li&gt;Experience building beautiful dashboards for businesses to complete complicated workflows and feel good while doing so is a huge bonus.&lt;/li&gt;
+&lt;li&gt;Experience with responsive design is also a bonus, given that our users are frequently working on desktops, tablets, and phones.&lt;/li&gt;
+&lt;li&gt;A willingness to learn that trumps everything else. We aren&amp;rsquo;t building an average company, and we don&amp;rsquo;t want average employees. We hire
+employees who love learning and aren&amp;rsquo;t afraid to dive head-first into the unknown.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Why you want to join MobileDevHQ:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;We&amp;rsquo;re crushing it&lt;/em&gt;. Users are finding our tools to be an indispensible part
+of their app marketing. We&amp;rsquo;ve signed up hundreds of active paying
+customers in just a few short months and are well on our way to
+becoming the single dashboard for all organic app marketing.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Well compensated&lt;/em&gt;. We&amp;rsquo;re a startup, but we offer a full compensation
+package. You&amp;rsquo;ll receive salary, equity (in the form of stock options), and benefits (medical, dental, vision, and basic life insurance).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Awesome team&lt;/em&gt;. Our team is the best, and we treat each other like family. We&amp;rsquo;re a group of talented, diverse, and fun people. We include
+sports fans, musicians, foodies, rock climbers, and more. We have competitive ping pong games daily &amp;mdash; you&amp;rsquo;ll receive a fancy ping pong paddle upon joining the team.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-mobiledevhq-seattle-wa</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-mobiledevhq-seattle-wa</guid>
+			</item>
 		
 	</channel>
 </rss>

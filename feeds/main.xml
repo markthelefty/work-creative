@@ -1,0 +1,21 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Work Creative</title>
+		<description>Main Job Notification Feed</description>
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/main.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.categories.main limit:10000 %}
+			<item>
+				<title>{{ post.title | xml_escape }} at {{post.company | xml_escape}} in {{post.location | xml_escape}}</title>
+				<description>{{ post.content | xml_escape }}</description>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<link>http://workcreative.net/{{ post.url }}</link>
+				<guid isPermaLink="true">http://workcreative.net/{{ post.url }}</guid>
+			</item>
+		{% endfor %}
+	</channel>
+</rss>

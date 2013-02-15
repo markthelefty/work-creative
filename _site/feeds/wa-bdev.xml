@@ -1,10 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/wa-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/wa-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer at University of Washington Medical Center in Seattle, WA</title>
+				<description>&lt;h2&gt;Who We Are&lt;/h2&gt;
+
+&lt;p&gt;The University of Washington (UW) is proud to be one of the nation’s premier educational and research institutions. Our people are the most important asset in our pursuit of achieving excellence in education, research, and community service. Our staff not only enjoy outstanding benefits and professional growth opportunities, but also an environment noted for diversity, community involvement, intellectual excitement, artistic pursuits, and natural beauty.&lt;/p&gt;
+
+&lt;p&gt;The UW Information School (iSchool) is a community of diverse disciplines, professional fields, and areas of expertise engaged with the study of information and its use by people and organizations.  We conduct rigorous research and create challenging learning environments that make a difference throughout the region, the state of Washington, the nation, and the world.&lt;/p&gt;
+
+&lt;p&gt;We are an open, ethical, highly engaged and collaborative community based on trust, transparency and mutual respect.  We believe in the importance of quality of life, embracing diversity, making a difference and having fun.&lt;/p&gt;
+
+&lt;p&gt;A sustained engagement with global communities of practice allows our work to remain relevant and cutting-edge.  We are dedicated to attracting and nurturing a diverse group of students, faculty and staff and we are committed to helping all members of our community to achieve their fullest potential.&lt;/p&gt;
+
+&lt;h2&gt;About The Postion&lt;/h2&gt;
+
+&lt;p&gt;The iSchool is looking to hire an outstanding individual to serve as a Web Developer/System Administrator**. Under the general direction of the Lead Web Developer and System Administrator, the Web Developer/System Administrator primarily designs, implements, tests, and maintains custom-built web applications and packaged system solutions in support of School needs. This individual will also assist in the management, operation, design, configuration, deployment, backup, performance monitoring, security, and maintenance of systems and servers that meet the academic, administrative, and research needs of the iSchool.&lt;/p&gt;
+
+&lt;p&gt;The Web Developer/System Administrator is a key participant in the continued enhancement of the Information School’s web presence.  This individual is responsible for making platform and technology recommendations to the Lead Web Developer and Systems Administrator and for building applications on top of that platform to support organizational goals.  The Web Developer/System Administrator will analyze business processes, work with Lead Web Developer and Systems Administrator to design solutions, then architect and deploy solutions to address security, operational, performance, integration, and maintainability considerations.&lt;/p&gt;
+
+&lt;p&gt;The Information School is at the forefront of using technology to solve organizational problems.  Most solutions today are delivered via the web and other units are looking to the iSchool as a leader in the innovative and effective use of web based systems.  The individual in this role will make significant contributions to the direction of the iSchool’s web presence.&lt;/p&gt;
+
+&lt;h2&gt;Primary responsibilities for this position are:&lt;/h2&gt;
+
+&lt;h3&gt;WEB DEVELOPMENT&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implement requirements by writing code.&lt;/li&gt;
+&lt;li&gt;Create and support operation of test scenarios. Develop test scripts.  Engage in usability testing as required.&lt;/li&gt;
+&lt;li&gt;Support and enhance existing sites in compliance with specifications and security standards.&lt;/li&gt;
+&lt;li&gt;Review and re-write previously-written code to improve and/or adapt code to changes.&lt;/li&gt;
+&lt;li&gt;Incorporate UW policies regarding security, data encryption and user access management into the site and web applications.&lt;/li&gt;
+&lt;li&gt;Analyze site problems and correct them promptly.&lt;/li&gt;
+&lt;li&gt;Review system logs and messages to identify events and errors.&lt;/li&gt;
+&lt;li&gt;Provide routine technical assistance for problem diagnosis, resolution and ongoing maintenance activities for web application and server users.&lt;/li&gt;
+&lt;li&gt;Incorporate UW policies regarding security, data encryption and user access management into the site and web applications.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;SYSTEM ADMINISTRATION&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assist in the deployment, operation, backup, security, and maintenance of servers, related network equipment, and software (e.g., operating systems, web services, application software, communication/collaboration tools).&lt;/li&gt;
+&lt;li&gt;Research and analyze system capacity, utilization, backup, cloud opportunities, and disaster recovery.  Plan and implement necessary improvements.&lt;/li&gt;
+&lt;li&gt;Provide support to resolve system problems.&lt;/li&gt;
+&lt;li&gt;Monitor and optimize performance of server equipment and software.&lt;/li&gt;
+&lt;li&gt;Respond to system alerts and take corrective action.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;PROJECT MANAGEMENT&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In collaboration with Lead Web Developer and System Administrator gather user needs, schedule and attend fact-gathering sessions.&lt;/li&gt;
+&lt;li&gt;Manage complex projects.&lt;/li&gt;
+&lt;li&gt;Draft specifications.&lt;/li&gt;
+&lt;li&gt;Develop data flow diagrams, process models, and system documentation.&lt;/li&gt;
+&lt;li&gt;Develop and conduct software application and system operational training for staff such as explaining features and functionality; training users on use of applications; developing effective help screens.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;MISCELLANEOUS&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Represent the Information School on campus-wide committees related to web and custom applications development.&lt;/li&gt;
+&lt;li&gt;Attend School meetings and University meetings relating to web and server infrastructure technologies.&lt;/li&gt;
+&lt;li&gt;Perform other duties as assigned.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;This position requires a high level of technical expertise, specifically knowledge of web development, 508 compliant front-end code, and Windows and Linux server administration. The School’s web and server infrastructure supports many critical business, educational, and research operations, and has numerous stakeholders.  Ongoing communication with stakeholders regarding project status and site or server functionality changes will be required.&lt;/p&gt;
+
+&lt;p&gt;Some evening and weekend work will be required.&lt;/p&gt;
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor’s degree or equivalent experience in informatics, computer science, management information systems or related technical field&lt;/li&gt;
+&lt;li&gt;Minimum two years web development experience&lt;/li&gt;
+&lt;li&gt;Deep understanding of HTML, CSS, and web standards&lt;/li&gt;
+&lt;li&gt;Strong PHP 5 and MySQL 5 development experience&lt;/li&gt;
+&lt;li&gt;Strong knowledge of Windows Server and Linux Server, including installation, support &amp;amp; troubleshooting, security, methods of automation such as scripting, and performance monitoring.&lt;/li&gt;
+&lt;li&gt;Familiarity with RESTful Web Services, JavaScript, JQuery, AJAX, cross-platform/browser compatibility issues&lt;/li&gt;
+&lt;li&gt;Ability to deliver projects on time and within specifications&lt;/li&gt;
+&lt;li&gt;Must be detail oriented, possess strong organizational skills and have a good sense of design&lt;/li&gt;
+&lt;li&gt;Strong verbal and written communication skills with exceptional inter-personal communication skills&lt;/li&gt;
+&lt;li&gt;Demonstrated ability to work both independently, and as part of a collaborative team&lt;/li&gt;
+&lt;li&gt;Demonstrated success working with diverse populations&lt;/li&gt;
+&lt;li&gt;Familiarity with sound usability practices, user interface design, accessibility (508)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Equivalent education/experience will substitute for all minimum qualifications except when there are legal requirements, such as a license/certification/registration.&lt;/p&gt;
+
+&lt;h2&gt;Desired:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One year of experience with the Drupal Content Management System including custom theming, custom module development, and Views&lt;/li&gt;
+&lt;li&gt;One year of Apache, and Linux server administration&lt;/li&gt;
+&lt;li&gt;Knowledge of Windows Active Directory, including design, administration, troubleshooting, and best practices.&lt;/li&gt;
+&lt;li&gt;Understanding of Windows Group Policy&lt;/li&gt;
+&lt;li&gt;Experience deploying and managing various other types of servers&lt;/li&gt;
+&lt;li&gt;Experience working with cloud vendors and cloud services&lt;/li&gt;
+&lt;li&gt;Knowledge of emerging technologies such as HTML 5 and CSS 3&lt;/li&gt;
+&lt;li&gt;Experience with Google Analytics and Search Engine Optimization&lt;/li&gt;
+&lt;li&gt;QA testing experience&lt;/li&gt;
+&lt;li&gt;Experience with a Content Versioning System such as GIT or SVN&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Condition of Employment:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Some evening/weekend work is required.&lt;br/&gt;
+&lt;em&gt;A satisfactory outcome from a criminal background verification will be required prior to hire.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;As a UW employee, you will enjoy generous benefits and work/life programs. For a complete description of our benefits for this position, please visit our website, &lt;a href=&quot;http://www.washington.edu/admin/hr/benefits/forms/ben-summaries/prostaff.pdf&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Application Process:&lt;/h2&gt;
+
+&lt;p&gt;Part of the application process for this position includes completing an online cover letter assessment as well as the Employment Eligibility Assessment to obtain additional information that will be used in the evaluation process.  The assessment(s) will appear on your screen for you to complete as soon as you select &amp;ldquo;Apply to this Position&amp;rdquo; on this job announcement. Once you begin the assessment, it must be completed at that time. If you select to take it later, it will appear on your &amp;ldquo;My Jobs&amp;rdquo; page to take when you are ready. Please note that your application will not be reviewed, and you will not be considered for this position until the assessment is complete.&lt;/p&gt;
+</description>
+				<pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-university-of-washington-medical-center-seattle-wa</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-university-of-washington-medical-center-seattle-wa</guid>
+			</item>
 		
 	</channel>
 </rss>

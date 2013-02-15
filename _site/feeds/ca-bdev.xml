@@ -1,10 +1,420 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ca-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ca-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer at Virtual Tourist in El Segundo, CA</title>
+				<description>&lt;p&gt;Virtualtourist.com is a high volume, large online community of travelers who share their travel experiences through tips, photos, and videos. The selected candidate will join our development team as a Web Developer/Designer who is responsible for front end web and mobile application development.&lt;/p&gt;
+
+&lt;p&gt;He/she will be responsible for taking wireframes and creating detailed Photoshop mockups that create a great user experience and leverage the existing VT brand identity. In addition, he/she will be taking Photoshop prototypes and converting them to working HTML/CSS/JavaScript.&lt;/p&gt;
+
+&lt;h2&gt;Job Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work with the team to develop the next generation of Virtualtourist.com&lt;/li&gt;
+&lt;li&gt;Take mock-up’s and produce clean, bug free, cross-browser HTML+CSS+JS&lt;/li&gt;
+&lt;li&gt;Improve tools and infrastructure to accelerate project delivery timelines&lt;/li&gt;
+&lt;li&gt;Create and maintain technical documentation&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong experience in designing usable web-based interfaces for consumer facing web site and applications&lt;/li&gt;
+&lt;li&gt;Good understanding of user-centered design process&lt;/li&gt;
+&lt;li&gt;Solid understanding of design principles, typography, color and page layout&lt;/li&gt;
+&lt;li&gt;Associates degree in graphics design/web design/computer science/engineering or equivalent experience (2-3 years of Photoshop/HTML/CSS/JavaScript experience)&lt;/li&gt;
+&lt;li&gt;Expertise/Hands on experience hand coding with HTML, CSS&lt;/li&gt;
+&lt;li&gt;Basic level Javascript knowledge and some exposure to JQuery a plus&lt;/li&gt;
+&lt;li&gt;Hands on experience with Mac OS&lt;/li&gt;
+&lt;li&gt;Strong organizational skills and ability to meet dead lines&lt;/li&gt;
+&lt;li&gt;Effective oral, written, and interpersonal communication skills&lt;/li&gt;
+&lt;li&gt;Thinks “out of the box” with ability to come up with creative solutions&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Preferred Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HTML5, CSS, AJAX, JQuery, and SVN/GIT (or similar version control system)&lt;/li&gt;
+&lt;li&gt;Mobile web or mobile application design experience a plus&lt;/li&gt;
+&lt;li&gt;Responsive design experience a plus&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;VirtualTourist is a worldwide travel community where real travelers and locals share real travel advice and experiences.&lt;/p&gt;
+
+&lt;p&gt;As one of the largest sources of unbiased, user-generated travel content in the world, VirtualTourist is the premier resource for travelers seeking an insider&amp;rsquo;s perspective. Real travel tips, reviews and photos from real people who have actually been there and done that; and this is what makes the travel content on VirtualTourist so useful.&lt;/p&gt;
+
+&lt;p&gt;Read more: &lt;a href=&quot;http://www.virtualtourist.com/press-center/about-us#ixzz1reUkVifa&quot;&gt;http://www.virtualtourist.com/press-center/about-us#ixzz1reUkVifa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;This employer participates in E-Verify. The employer may provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee&amp;rsquo;s I-9 to confirm work authorization. &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;NO RECRUITERS PLEASE&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-virtual-tourist-el-segundo-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-virtual-tourist-el-segundo-ca</guid>
+			</item>
+		
+			<item>
+				<title>Technical Web Developers at Rearden Commerce, Inc. in Foster City, CA</title>
+				<description>&lt;p&gt;Rearden Commerce, creator of the Deem™ commerce platform, is transforming commerce on behalf of buyers and sellers. Through a suite of interoperable smart applications, the Deem platform is designed to leverage big data, analytics and semantics technology to optimize the exchange of goods, services, and information with personalization and repeat value to drive customer loyalty. Deem is distributed globally by more than 40 strategic partners including American Express and JPMorgan Chase — connecting millions of consumers and over 35,000 business customers across every market segment to more than 1.2 million merchants. Rearden Commerce is headquartered in Foster City, California.&lt;/p&gt;
+
+&lt;p&gt;The Deem commerce platform is designed to connect buyers and sellers via Absolute Relevance™ technology. Deem leverages big data, social collaboration, game-mechanics, semantics and advanced machine learning to optimize the exchange of goods, services and information between buyers and sellers, resulting in the web&amp;rsquo;s most personalized one-to-one marketplace.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;p&gt;Work at our Foster City, CA headquarters, with Corporate Web Properties and Coordinate Web Development Team to accomplish world-class websites.  Provide leadership and guidance on Web Best Practices, including: Web Standards and Optimization, Scalability, Accessibility, Semantics and Online Marketing initiatives.  Estimate, scope, design and manage web projects.  Build, update and maintain Web projects using client-side and server side technologies such as (X)HTML, CSS, JavaScript, PHP, etc.  Work with IT to meet server-side requirements, adequate performance and proper Backups.  Support a wide range of web marketing projects, including organic optimization, social media, blogging, link-building and online PR.  Combine semantics and SEO techniques to improve search engine rankings and traffic.  Provide recommendations based on Analytics to increase conversion rates.  Collaborate within a multi-disciplinary Marketing team and different business units to achieve company-wide goals.&lt;/p&gt;
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+
+&lt;p&gt;Requires a Bachelor’s degree in Computer Science, Business Administration, Business Marketing or a related field and 1 year of work experience in web development.  Experience must include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1 year developing websites using web development tools such as HTML, XHTML, CSS, JavaScript and DOM;&lt;/li&gt;
+&lt;li&gt;Experience driving technological support for a company’s demand generation initiative using Marketo and Pardot; and&lt;/li&gt;
+&lt;li&gt;1 year creating email templating in HTML4 table-based layouts that are correctly displayed across different e-mail platforms.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Qualified applicants should send resumes to Angela Schenone at Rearden Commerce, Inc. – 1051 E. Hillsdale Blvd., 6th Floor, Foster City, CA 94404. Send Resumes w/Job#2331 to 1051 E. Hillsdale Blvd., 6th Floor, Foster City, CA 94404.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/technical-web-developers-rearden-commerce-inc-foster-city-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/technical-web-developers-rearden-commerce-inc-foster-city-ca</guid>
+			</item>
+		
+			<item>
+				<title>Senior Software Developer at Moboom in San Francisco, CA</title>
+				<description>&lt;h2&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Our Software Engineers are detail-oriented and extraordinarily
+passionate. We thrive on designing simple and scalable solutions to complex problems and delivering leading edge software products for our customers. We are looking for exceptionally ambitious and communicative hands-on individuals who are comfortable working as part of an interdisciplinary team, have experience working in fast-paced environments and who have passion and skills to take our product offering to the next level.&lt;/p&gt;
+
+&lt;p&gt;As a Senior Developer you will work in a collaborative team environment that encourages you to perform at your best, and challenges you to engineer elegant solutions for complex business problems. You will
+architect, design and develop robust and scalable server-side software for high-volume transaction web-based applications. You will be an accomplished well-rounded developer, with a mastery of object-oriented
+design with appropriate use of best practices, design patterns, and frameworks and a thorough understanding of the implication of software designs and implementation choices on application performance and
+maintainability.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design, develop and maintain web-based and server-side components to enhance the features and reliability current applications, as well as
+participate in the development of new industry-leading products, leveraging technologies such as PHP (Yii Framework), MySQL, ElasticSearch, Amazon AWS, etc.&lt;/li&gt;
+&lt;li&gt;Design, develop and maintain services (SOAP, XML RPC, REST, JSON) used by clients and internal developers to create end products and solutions&lt;/li&gt;
+&lt;li&gt;Design, develop and maintain components which communicate with the database as well as outside world&lt;/li&gt;
+&lt;li&gt;Participate in code reviews to ensure that old and incorrect code is removed from system and help with cleanup&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BA/BS degree in Computer Science or related field required, or equivalent experience.&lt;/li&gt;
+&lt;li&gt;At least 6 years of enterprise-class server-side web application development experience.&lt;/li&gt;
+&lt;li&gt;Proven track record designing and implementing web applications with highly optimized and scalable architectures.&lt;/li&gt;
+&lt;li&gt;Proven ability to work independently; designing, developing and deploying solutions, and to deliver projects on time with minimal direction.&lt;/li&gt;
+&lt;li&gt;Mobile experience a plus (XHTML, iPhone development, iPad development, SMS, MMS, WAP, SMPP)&lt;/li&gt;
+&lt;li&gt;Experience working with Yii framework desired&lt;/li&gt;
+&lt;li&gt;Experience working with MySQL&lt;/li&gt;
+&lt;li&gt;Strong ability to read and communicate requirements and solutions to
+and from internal team members and clients&lt;/li&gt;
+&lt;li&gt;Javascript and XHTML used heavily for front end components, so
+definitely a plus&lt;/li&gt;
+&lt;li&gt;Experience with templating engines (Velocity, JSTL, Groovy)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Compensation is highly competitive, with excellent benefits.&lt;/p&gt;
+
+&lt;h2&gt;Salary&lt;/h2&gt;
+
+&lt;p&gt;Commensurate with experience &amp;amp; market value&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-software-developer-moboom-san-francisco-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-software-developer-moboom-san-francisco-ca</guid>
+			</item>
+		
+			<item>
+				<title>Web Developer, Internal Tools and Web Applications at Google in Mountain View, CA</title>
+				<description>&lt;p&gt;Google is known for its speed and clean design, and our websites must also be fast and clean. Our Webmaster team creates and maintain Google&amp;rsquo;s web sites. As a Webmaster, you collaborate with Marketing and Engineering teams to create compelling, efficient and accessible web pages. You work independently on many projects, but also take directions from team members across the organization. The impact of your work is huge as millions of users traffic our websites every day.&lt;/p&gt;
+
+&lt;p&gt;You will use your experience to drive medium to large-sized tasks and projects (e.g. high profile product launch, multi-page dynamic forms, high-impact multi-language marketing campaigns) while exercising considerable independent judgment and discretion.&lt;/p&gt;
+
+&lt;p&gt;As a web developer, you will work on a small team to develop the web applications and tools that create, manage, and serve Google&amp;rsquo;s websites. You will build tools, applications, infrastructure, and automate tasks that make the lives of thousands of Googlers easier. You must have strong interest about the web and be excited about enabling Google to have the absolute best websites possible!&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design and develop applications and tools written in Python, JavaScript, and HTML/CSS.&lt;/li&gt;
+&lt;li&gt;Collaborate with internal users and developers to solve problems and automate tasks.&lt;/li&gt;
+&lt;li&gt;Implement new features, optimize existing ones, and proactively fix bugs.&lt;/li&gt;
+&lt;li&gt;Write and review design docs.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Minimum Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BS degree in Computer Science or related field. In lieu of degree, 4 years relevant work experience.&lt;/li&gt;
+&lt;li&gt;Experience and knowledge of Python, HTTP, and web technology (headers, cookies, request optimization, etc.).&lt;/li&gt;
+&lt;li&gt;Experience developing web applications and web services (RESTful).&lt;/li&gt;
+&lt;li&gt;Experience with HTML 5/CSS3/JavaScript.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Preferred Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with App Engine, Django, and NoSQL databases.&lt;/li&gt;
+&lt;li&gt;Excellent attention to detail and knowledge of coding/application design best.&lt;/li&gt;
+&lt;li&gt;Familiarity with content management systems and/or web site production tools and related processes.&lt;/li&gt;
+&lt;li&gt;A sense for good visual design.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Area&lt;/h2&gt;
+
+&lt;p&gt;Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google&amp;rsquo;s product portfolio possible. We&amp;rsquo;re proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We&amp;rsquo;re always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.&lt;/p&gt;
+
+&lt;h2&gt;To all recruitment agencies:&lt;/h2&gt;
+
+&lt;p&gt;Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees or any other company location. Google is not responsible for any fees related to unsolicited resumes.&lt;/p&gt;
+
+&lt;p&gt;At Google, we don’t just accept difference &amp;ndash; we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-internal-tools-and-web-applications-google-mountain-view-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-internal-tools-and-web-applications-google-mountain-view-ca</guid>
+			</item>
+		
+			<item>
+				<title>Web Developer at StudentsFirst in Sacramento, CA</title>
+				<description>&lt;p&gt;We are a national grassroots movement of more than 2 million parents, teachers, students, administrators and concerned citizens mobilizing for one purpose: to put the laws and leaders in place to make students the focus of and ensure America has the best schools in the world.&lt;/p&gt;
+
+&lt;p&gt;We believe that we&amp;rsquo;ve been doing things the old way for too long.  Pitting the interests of the grown-ups in the system against one another, for example, rather than focusing on real solutions.  No one won. And students lost.  In too many American schools, current laws, policies, and practices are putting adult interests ahead of students. The result is an increasingly broken education system that, if not corrected, will keep America from leading in the increasingly competitive global marketplace. It&amp;rsquo;s time for a new approach that puts students' interests at the center of education policy.&lt;/p&gt;
+
+&lt;p&gt;We are channeling the energy of our members to produce meaningful results on both the local and national level. We are working with bipartisan state legislators to create laws and policies that put the needs of students above any other interest in the system. Our members are pushing for reforms that will elevate the teaching profession and improve teacher and principal quality, empower parents and improve the governance and financial strength of school districts. Together, we’ve already helped pass more than 50 new policies in half a dozen states. We have helped improve education systems affecting millions of students. We’re transforming public education to ensure great teachers and great schools for all of our kids. StudentsFirst was founded in 2010 by former Washington D.C. Public Schools Chancellor Michelle Rhee.&lt;/p&gt;
+
+&lt;h2&gt;Position&lt;/h2&gt;
+
+&lt;p&gt;Reporting to the Web Production Manager, the Web Developer is responsible for producing and maintaining website code and content on multiple websites and peripheral web properties.&lt;/p&gt;
+
+&lt;h2&gt;Key Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Update content on various web sites at the direction of Web Production Manager or other applicable staff.&lt;/li&gt;
+&lt;li&gt;Produce, edit, and test code based upon project tasks and within development guidelines.&lt;/li&gt;
+&lt;li&gt;Suggest changes to web properties, with an eye towards increasing engaging aspect of web properties.&lt;/li&gt;
+&lt;li&gt;Troubleshoot problems with websites, suggest potential fixes and/or implement as necessary.&lt;/li&gt;
+&lt;li&gt;Providing support for database administration for CRM system.&lt;/li&gt;
+&lt;li&gt;Other duties as required.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Key Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Comfortable in a LAMP development environment.&lt;/li&gt;
+&lt;li&gt;Strong working knowledge of SQL. Able to competently create and optimize different database objects.&lt;/li&gt;
+&lt;li&gt;Solid understanding of web security concepts such as SQL injection, XSS, etcetera and the general means of accounting for security needs.&lt;/li&gt;
+&lt;li&gt;Practical work experience with object-oriented development – primarily PHP.&lt;/li&gt;
+&lt;li&gt;Solid understanding of various LAMP-based frameworks, their strengths and their weaknesses.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Candidate Profile&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;StudentsFirst attracts employees with distinctive backgrounds and accomplishments and is committed to building and maintaining a team whose voices reflect the many communities with a stake in public education.  Integrity, creativity, and intensity are key attributes of competitive candidates.&lt;/li&gt;
+&lt;li&gt;For this position, the following factors will strengthen an applicant’s candidacy:&lt;/li&gt;
+&lt;li&gt;Strong philosophical commitment to the principals of the organization&lt;/li&gt;
+&lt;li&gt;Excellent communication skills (written and verbal)&lt;/li&gt;
+&lt;li&gt;Excellent time management skills&lt;/li&gt;
+&lt;li&gt;Ability to quickly change project focus based on changing operational needs&lt;/li&gt;
+&lt;li&gt;Detail-oriented and able to produce quality work under periodic times of pressure.&lt;/li&gt;
+&lt;li&gt;Strong commitment to teamwork&lt;/li&gt;
+&lt;li&gt;Ability to work independently&lt;/li&gt;
+&lt;li&gt;Must be able to work on multiple projects while maintaining a high level of quality and attention to details&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Equal Opportunity&lt;/h2&gt;
+
+&lt;p&gt;StudentsFirst is an equal opportunity employer.  Background and reference checks are conducted on all prospective new hires.&lt;/p&gt;
+
+&lt;h2&gt;Working Conditions&lt;/h2&gt;
+
+&lt;p&gt;Work is mainly performed in an office environment in a small workstation without an expectation of privacy. Noise levels are usually moderate. Periodically, must be able to work long hours based upon operational demands.&lt;/p&gt;
+
+&lt;h2&gt;Location&lt;/h2&gt;
+
+&lt;p&gt;Sacramento, CA&lt;/p&gt;
+
+&lt;h2&gt;Compensation&lt;/h2&gt;
+
+&lt;p&gt;Salary is commensurate with experience.&lt;/p&gt;
+
+&lt;h2&gt;Application Process&lt;/h2&gt;
+
+&lt;p&gt;The application process will include a resume review, phone interview, and in-person interviews.  To be considered for the position, please submit your resume and cover letter at www.StudentsFirst.org/Jobs with cover letter addressed to Hiring Manager.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-studentsfirst-sacramento-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-studentsfirst-sacramento-ca</guid>
+			</item>
+		
+			<item>
+				<title>Web Application Developer at Ebates Shopping.com, Inc. in San Francisco, CA</title>
+				<description>&lt;h2&gt;COMPANY DESCRIPTION&lt;/h2&gt;
+
+&lt;p&gt;Performance Marketing Brands, Inc. (PMB) owns and operates the world&amp;rsquo;s most rewarding shopping programs &amp;ndash; Ebates.com and Ebates.ca (the leaders in online cash back shopping), FatWallet.com (the preferred online resource for savvy consumers) and AnyCoupons.com (the one-stop shop for any coupon available online). The company also operates a growing number of co-branded and private-label shopper reward programs for leading media companies. In 2011, shoppers spent over $1.1 billion through PMB’s websites and shopping programs.&lt;/p&gt;
+
+&lt;p&gt;Ebates is the pioneer and leader of online cash back shopping. Ebates pays members cash back every time they shop online as well as provide them with the best coupons and deals online. Since the company&amp;rsquo;s 1998 inception, more than 12 million Ebates members have spent over $2.5 billion via Ebates.com and earned over $80 million in cash back (and growing).&lt;/p&gt;
+
+&lt;p&gt;Ebates offers a casual but fast paced environment where creativity and effective teamwork and collaboration are rewarded. We are passionate about changing the way people shop online and providing the best possible customer experience &amp;ndash; not to mention cash back on every purchase, with no strings attached.&lt;/p&gt;
+
+&lt;h2&gt;JOB DESCRIPTION&lt;/h2&gt;
+
+&lt;p&gt;Even after 12 years in business, the company is driving rapid growth and searching for the right developer to help our systems meet demand and satisfy our increasing number of customers.  The right candidate will have a passion for creating, coding and implementing scalable web designs.&lt;/p&gt;
+
+&lt;p&gt;The Web Application Developer will be responsible for supporting and creating new pages, applications and widgets for the existing web site and infrastructure, as well as developing new technologies.&lt;/p&gt;
+
+&lt;p&gt;The ideal candidate must display excellent written and oral communication skills with demonstrated interpersonal and organization abilities. A candidate for this position must be able to work in a varied, fast paced environment. Flexibility and tolerance is a necessity.&lt;/p&gt;
+
+&lt;h2&gt;QUALIFICATIONS&lt;/h2&gt;
+
+&lt;h3&gt;Requirements:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;At least 3 years of experience coding web pages for very high traffic, scalable and available consumer applications.&lt;/li&gt;
+&lt;li&gt;Must be an HTML, HTML5 and CSS wizard&lt;/li&gt;
+&lt;li&gt;Extremely experienced with Javascript – JQuery in particular.&lt;/li&gt;
+&lt;li&gt;Fluent with XML&lt;/li&gt;
+&lt;li&gt;Should be able to work with existing codebase and find out practical solutions.&lt;/li&gt;
+&lt;li&gt;Ability to constructively influence a distributed team with new design paradigms.&lt;/li&gt;
+&lt;li&gt;Bachelor’s degree in computer science, MIS, or related experience.&lt;/li&gt;
+&lt;li&gt;Be able to create an HTML/CSS page that is a near exact replica of a JPEG or PSD design and that works across a larger set of browsers.&lt;/li&gt;
+&lt;li&gt;Have a solid focus on page speed and a good understanding of basic principles (e.g., deferring javascript, sprites/css, compression).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Desired Skills:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Knowledge of JSP, Velocity (and Velocity Template Engine) knowledge.&lt;/li&gt;
+&lt;li&gt;Knowledge of scripting languages (PHP, Ruby, etc.).&lt;/li&gt;
+&lt;li&gt;AJAX (dojo, scriptaculous, prototype).&lt;/li&gt;
+&lt;li&gt;Mobile (JQuery for Mobile, Sencha).&lt;/li&gt;
+&lt;li&gt;SQL, MySQL.&lt;/li&gt;
+&lt;li&gt;QA, UI design.&lt;/li&gt;
+&lt;li&gt;Fluent in Photoshop.&lt;/li&gt;
+&lt;li&gt;Experience with developing for Facebook Pages and iFrames.&lt;/li&gt;
+&lt;li&gt;Mobile coding experience.&lt;/li&gt;
+&lt;li&gt;App coding experience.&lt;/li&gt;
+&lt;li&gt;Strong attention to detail.&lt;/li&gt;
+&lt;li&gt;Previous experience with ecommerce or affiliates or online advertising a plus.&lt;/li&gt;
+&lt;li&gt;Experience in structured environment with increasing levels of responsibility and complexity.&lt;/li&gt;
+&lt;li&gt;Ability to work additional hours as needed, especially around holidays.&lt;/li&gt;
+&lt;li&gt;Extremely hands on.&lt;/li&gt;
+&lt;li&gt;Experience in a high growth start-up environment.&lt;/li&gt;
+&lt;li&gt;Flash, animation, video.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Other Information About This Position:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No travel required.&lt;/li&gt;
+&lt;li&gt;Work at SOMA office.&lt;/li&gt;
+&lt;li&gt;Medical, Vision, Dental provided. Equity provided.  401k too.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;ADDITIONAL INFORMATION&lt;/h2&gt;
+
+&lt;p&gt;Please send resumes to jobs@ebates.com. Place &amp;ldquo;Web Application Developer&amp;rdquo; in subject line.&lt;/p&gt;
+
+&lt;p&gt;Direct candidates only. No third parties.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-application-developer-ebates-shopping%2Ccom-inc-san-francisco-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-application-developer-ebates-shopping%2Ccom-inc-san-francisco-ca</guid>
+			</item>
+		
+			<item>
+				<title>Python Developer at 10XAgency in Los Angeles, CA</title>
+				<description>&lt;p&gt;Fast growing company located near the beach is looking for a software engineer with 5+ years of experience in web development across the entire stack.&lt;/p&gt;
+
+&lt;h2&gt;Desired Skills &amp;amp; Experience&lt;/h2&gt;
+
+&lt;h3&gt;What you bring&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with Python+Django a plus.&lt;/li&gt;
+&lt;li&gt;Strong analytical and reasoning skills &amp;ndash;&lt;/li&gt;
+&lt;li&gt;Comfortable with front end development using core Javascript (and jQuery), HTML5 and  CSS3.&lt;/li&gt;
+&lt;li&gt;Practical experience using OOP and design patterns.&lt;/li&gt;
+&lt;li&gt;Solid experience working with REST architectures.&lt;/li&gt;
+&lt;li&gt;Ability to write complex SQL queries with a working knowledge of MySQL, experience with NoSQL (Memcached/Redis) is a plus.&lt;/li&gt;
+&lt;li&gt;Experience with programmatic unit testing and test frameworks.&lt;/li&gt;
+&lt;li&gt;Experience with documenting your solutions with UML and class diagrams.&lt;/li&gt;
+&lt;li&gt;Experience with developing software in a *NIX environment.&lt;/li&gt;
+&lt;li&gt;Experience in AWS preferred.&lt;/li&gt;
+&lt;li&gt;BS or MS in computer science or equivalent experience&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;About 10XAgency:&lt;/h2&gt;
+
+&lt;p&gt;Join an agile team of talented individuals blocks from the Beach.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 05 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/python-developer-10xagency-los-angeles-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/python-developer-10xagency-los-angeles-ca</guid>
+			</item>
+		
+			<item>
+				<title>PHP Web Developer at California Medical Association in Sacramento, CA</title>
+				<description>&lt;p&gt;The California Medical Association (CMA) is a not-for-profit membership organization open to physicians licensed to practice medicine in California. The organization promotes a progressive health care agenda for California physicians and their patients in various health care arenas including state agencies, the legislature and with community and other interest groups.&lt;/p&gt;
+
+&lt;p&gt;Currently, CMA is seeking a PHP Web Developer with at least 4 years of professional development experience in a PHP environment. Interested candidates should have a solid understanding of object oriented development working with PHP, HTML, CSS, Javascript and MySQL. Experience with mobile development is a plus. Experience with REST API is a plus. Experience integrating with Euclid&amp;rsquo;s ClearVantage association management system is a huge plus. This is a full-time regular in house position.&lt;/p&gt;
+
+&lt;p&gt;We invite you to learn more about the California Medical Association by visiting our website at cmanet.org&lt;/p&gt;
+
+&lt;p&gt;We offer a competitive salary and full benefit package.&lt;/p&gt;
+
+&lt;p&gt;For a full job description or to apply for this position, please copy and paste this link directly into your web browser: cmanet.org/about/careers-with-cma&lt;/p&gt;
+
+&lt;p&gt;For consideration, you need to submit cover letter, resume and completed employment application per the instructions provided on our website&lt;/p&gt;
+
+&lt;p&gt;The California Medical Association is an equal opportunity employer&lt;/p&gt;
+
+&lt;h2&gt;Skills &amp;amp; Requirements&lt;/h2&gt;
+
+&lt;p&gt;At least 4 years of professional development experience in a PHP environment. Interested candidates should have a solid understanding of object oriented development working with PHP, HTML, CSS, Javascript and MySQL. Experience with mobile development is a plus. Experience with REST API is a plus. Experience integrating with Euclid&amp;rsquo;s ClearVantage association management system is a huge plus&lt;/p&gt;
+
+&lt;h2&gt;About California Medical Association&lt;/h2&gt;
+
+&lt;p&gt;The California Medical Association (CMA) is a not-for-profit membership organization open to physicians licensed to practice medicine in California. The organization promotes a progressive health care agenda for California physicians and their patients in various health care arenas including state agencies, the legislature and with community and other interest groups.&lt;/p&gt;
+
+&lt;h2&gt;How to apply&lt;/h2&gt;
+
+&lt;p&gt;For a full job description or to apply for this position, please copy and paste this link directly into your web browser: cmanet.org/about/careers-with-cma&lt;/p&gt;
+
+&lt;p&gt;For consideration, you need to submit cover letter, resume and completed employment application per the instructions provided on our website&lt;/p&gt;
+</description>
+				<pubDate>Tue, 05 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/php-web-developer-california-medical-association-sacramento-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/php-web-developer-california-medical-association-sacramento-ca</guid>
+			</item>
 		
 			<item>
 				<title>PHP Developer at SurveyMonkey in Palo Alto, CA</title>
@@ -49,7 +459,7 @@
 
 &lt;p&gt;SurveyMonkey is an equal opportunity employer.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Feb 2013 11:35:00 -0500</pubDate>
+				<pubDate>Mon, 04 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/php-developer-surveymonkey-palo-alto-ca</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/php-developer-surveymonkey-palo-alto-ca</guid>
 			</item>

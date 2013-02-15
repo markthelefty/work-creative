@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ma-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ma-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Frontend Developer at Model N in Boston, MA</title>
+				<description>&lt;p&gt;With more than 45,000 users in 50+ countries, Model N is the leading provider of Revenue Management solutions optimized for Life Sciences and High Tech manufacturers.  Our SaaS and on-premise solutions enable customers to capture lost revenue, improve gross margin, and reduce financial and regulatory risk.  Through a suite of integrated applications specifically designed to meet the unique business requirements of our client companies, we enable multi-departmental visibility and control over the entire Revenue Management life cycle.&lt;/p&gt;
+
+&lt;p&gt;Model N is looking for a talented software engineer for the RMI (Revenue Management Intelligence) business unit. Ideal candidate would have a good sense of UI and strong interests on data visualization, infographics, mobile web &amp;amp; analytics, and learning new UI technologies. You will have the opportunity to work on exciting BI (Business Intelligence) and cloud products.&lt;/p&gt;
+
+&lt;h1&gt;3Responsibilities:&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work in an agile team environment&lt;/li&gt;
+&lt;li&gt;Help and support product managers on UI prototyping&lt;/li&gt;
+&lt;li&gt;Improve the usability of existing applications and help define UI paradigms and user interactions&lt;/li&gt;
+&lt;li&gt;Implement the defined UI&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Minimum Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;B.S. Degree or higher in Computer Science, Software Engineering or MIS&lt;/li&gt;
+&lt;li&gt;3-5 years of experience with HTML/JavaScript/CSS&lt;/li&gt;
+&lt;li&gt;Experience with at least one of the following:  jQuery, DoJo, ExtJS or JavaScript framework.&lt;/li&gt;
+&lt;li&gt;Understand Object Oriented Design and Development&lt;/li&gt;
+&lt;li&gt;Must be able to learn and quickly pick up new technology&lt;/li&gt;
+&lt;li&gt;Usability, UX knowledge or experience is a plus&lt;/li&gt;
+&lt;li&gt;force.com development experience is a plus&lt;/li&gt;
+&lt;li&gt;SQL and Relational database experience is a plus&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;only local area candidates will be considered&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.modeln.com&quot;&gt;http://www.modeln.com&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/frontend-developer-model-n-boston-ma</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/frontend-developer-model-n-boston-ma</guid>
+			</item>
 		
 			<item>
 				<title>Web Developer at Tufts University in Medford, MA</title>
@@ -65,7 +104,7 @@
 
 &lt;p&gt;Tufts University is an AA/EO employer and actively seeks candidates from diverse backgrounds.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Feb 2013 11:55:10 -0500</pubDate>
+				<pubDate>Mon, 04 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/web-developer-tufts-university-medford-ma</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-tufts-university-medford-ma</guid>
 			</item>

@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/md-exec.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/md-exec.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Client Services Project Mgmt at Paypal in Timonium, MD</title>
+				<description>&lt;h2&gt;About The Position&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This is a remote opportunity &amp;ndash; candidate may work from home or at any PayPal office&lt;/li&gt;
+&lt;li&gt;Engage in business planning and analysis to support web implementation, mobile implementation, and call center solutions. Including introductions to additional PayPal product offerings, including: web servicing, shopping portal, key word programs, online advertising, and affiliate programs&lt;/li&gt;
+&lt;li&gt;Harness large volumes of project data via Salesforce for the development of reports and data analysis with interpretation of results in business context, including detailed findings and implications presented to key stakeholders at all levels.&lt;/li&gt;
+&lt;li&gt;Participate in client management and relationship opportunities.&lt;/li&gt;
+&lt;li&gt;Collaborate with client team and internal teams (marketing analytics, account management, interactive strategy) to socialize findings to improve integration performance and client experience.&lt;/li&gt;
+&lt;li&gt;Present findings to both internal and client teams with confidence and insightful analysis.&lt;/li&gt;
+&lt;li&gt;Work with web, mobile, and call center teams to define key performance indicators and measurement requirements.&lt;/li&gt;
+&lt;li&gt;Certify, design, and execute online testing to determine optimal strategies for customer treatment and revenue enhancement following payment method launch.&lt;/li&gt;
+&lt;li&gt;Apply various quantitative methods to analyze and interpret information from multiple data sources as needed.&lt;/li&gt;
+&lt;li&gt;Determine and document processes and systems, as necessary.&lt;/li&gt;
+&lt;li&gt;Gather and define test-and -learn objectives and agendas, as required.&lt;/li&gt;
+&lt;li&gt;Maintain a functional expertise in project management, including: analytical tools, techniques, and other similar requirements.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Job Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3-4 years experience in interactive marketing, business consulting using website data and information to help drive specific targeting and marketing recommendations&lt;/li&gt;
+&lt;li&gt;Experience with any of these tools – SalesForce, Microsoft Office Products&lt;/li&gt;
+&lt;li&gt;Experience in online project management, consulting and business analysis.&lt;/li&gt;
+&lt;li&gt;Familiarity with Credit Services and eCommerce.&lt;/li&gt;
+&lt;li&gt;Understanding of leading web platforms and payment software tools/methodologies.&lt;/li&gt;
+&lt;li&gt;Bachelor’s degree in quantitative, marketing or business area&lt;/li&gt;
+&lt;li&gt;Superior written, verbal and presentation skills&lt;/li&gt;
+&lt;li&gt;Background in SQL, or other analytic software preferred&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Fri, 08 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/client-services-project-mgmt-paypal-timonium-md</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/client-services-project-mgmt-paypal-timonium-md</guid>
+			</item>
 		
 	</channel>
 </rss>

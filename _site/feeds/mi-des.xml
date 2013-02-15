@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/mi-des.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/mi-des.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Designer / Developer at EnovateIT in Canton, MI</title>
+				<description>&lt;h2&gt;Roles and responsibilities&lt;/h2&gt;
+
+&lt;p&gt;We are looking for a Web Designer/Developer for our growing clinical workstation manufacturing company, located in Canton, MI. As a web developer, you are the expert in using the dynamic programming tools and languages that fuel the web. You will work independently and be part of a Marketing team that builds and integrates interactive web sites, applications, and services for both internal and public sites. Your role is to develop web applications and test them on various browsers, enhancing SEO and modifying them as necessary to ensure the best experience for the user. You may also architect websites, create mobile software, design data-driven applications, and find efficient client-server solutions. You must have an in-depth understanding of the software development lifecycle and be able to communicate project status, issues, and resolutions.&lt;/p&gt;
+
+&lt;h3&gt;Primary Responsibilities:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Develop new web and email applications through packaged and customized applications&lt;/li&gt;
+&lt;li&gt;Create, maintain and enhance existing SEO, web applications and all internal systems&lt;/li&gt;
+&lt;li&gt;Define, measure and report SEO programs&lt;/li&gt;
+&lt;li&gt;Analyze, review and modify web systems by designing, maintaining, documenting, testing, developing and monitoring&lt;/li&gt;
+&lt;li&gt;Perform complete testing of web applications unit and system, engaging users as necessary&lt;/li&gt;
+&lt;li&gt;Conduct all user acceptances testing, and report results.&lt;/li&gt;
+&lt;li&gt;Design and implement user-driven templates, databases and interfaces for ease of use.&lt;/li&gt;
+&lt;li&gt;Develop user interfaces for rapid, real-time information sharing through software, firmware and internet based applications&lt;/li&gt;
+&lt;li&gt;Develop external web portals allowing users to input and retrieve information&lt;/li&gt;
+&lt;li&gt;Liaison with customers, media, and advertising&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;At least a 2 year degree or 3-5 years of work experience in a web/programming/computer-related field (computer science/programming).&lt;/li&gt;
+&lt;li&gt;Proficient in WordPress, Drupal and other content management systems&lt;/li&gt;
+&lt;li&gt;Strong knowledge in SEO creation, reporting and maintenance&lt;/li&gt;
+&lt;li&gt;Proficent in ASP, JavaScript, JSP, CSS, HTML5 and XHTML and programming languages including PHP, JavaScript, jQuery and combinations of languages for instance AJAX&lt;/li&gt;
+&lt;li&gt;Interact with servers using SSH, HTTPS, FTP and Telnet protocols&lt;/li&gt;
+&lt;li&gt;Strong database knowledge including SQL and MySQL Server – knowledge of scripts/troubleshooting&lt;/li&gt;
+&lt;li&gt;Proficient with Apache configurations/scripts/troubleshooting&lt;/li&gt;
+&lt;li&gt;SalesForce and Formstack website integrations&lt;/li&gt;
+&lt;li&gt;Proficient in Adobe CS 6, Dreamweaver, Photoshop, Illustrator, Fireworks, Flash, etc…&lt;/li&gt;
+&lt;li&gt;Strong understanding of social media: Facebook, Twitter, LinkedIn, Tumblr, etc…&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;NOTE: YOU MUST ATTACH PORTFOLIO OR PROVIDE LINK IN ORDER TO BE CONSIDERED FOR THIS POSITION&lt;/p&gt;
+
+&lt;h2&gt;Aptitude&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists.&lt;/li&gt;
+&lt;li&gt;Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form&lt;/li&gt;
+&lt;li&gt;Candidate must be a team player and willing to teach and to learn&lt;/li&gt;
+&lt;li&gt;Ability to work independently and efficiently to meet deadlines&lt;/li&gt;
+&lt;li&gt;Self motivated and detail-oriented, with ability to coordinate projects within a team&lt;/li&gt;
+&lt;li&gt;Provide positive contributions to the organization beyond the scope of normal job responsibilities&lt;/li&gt;
+&lt;li&gt;Ability to multitask, strong time management and organizational skills&lt;/li&gt;
+&lt;li&gt;Flexible – easily adjust to constant change&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Education&lt;/h2&gt;
+
+&lt;p&gt;Bachelors&lt;/p&gt;
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-designer-developer-enovateit-canton-mi</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-designer-developer-enovateit-canton-mi</guid>
+			</item>
+		
+			<item>
+				<title>Senior Interactive Designer at Zeon Solutions in Ann Arbor, MI</title>
+				<description>&lt;p&gt;This position is located in Ann Arbor, Michigan, working for our sister company, Grand River, Inc. (www.thegrandriver.com).&lt;/p&gt;
+
+&lt;p&gt;Looking for a dynamic and open work environment, where technology is the driving force?  Then Grand River, Inc. (GRI) is the place for you! While technical aptitude is a must, creativity and the ability to communicate with your co-workers are just as important at GRI.  For each of the past three years, GRI has nearly doubled its profits. We develop world-class eCommerce sites and software products for some of the top online retailer sites.  We are looking for seeking qualified applicants to help lead and mold the development of our rapidly growing company.&lt;/p&gt;
+
+&lt;h2&gt;Position Overview:&lt;/h2&gt;
+
+&lt;p&gt;Based on the project scope and client business goals the Senior Interactive Designer is responsible for developing and creating concepts, executing designs, and maintaining design concepts through all phases of a project. They create design comps, present them to clients, and provide direction and mentoring to designers and the development team. They should also work closely with Information Architects in conceptualizing the overall site design and goals.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Communicates closely with clients in order to assess needs, conceptualize, guide and explain creative goals and their relationship to site design.&lt;/li&gt;
+&lt;li&gt;Works collaboratively with IA, Project Management, Copy-writing, Marketing, Production and Engineering&lt;/li&gt;
+&lt;li&gt;Acts in a role of creative leadership, coordinating efforts of the design team.&lt;/li&gt;
+&lt;li&gt;Helps Project Management and the Creative/UX department manager in scoping projects, creating timelines and estimating project hours.&lt;/li&gt;
+&lt;li&gt;Develops visual design to support and accommodate user interface, information design, interactive design, current technology and client requirements.&lt;/li&gt;
+&lt;li&gt;Be conscientious of budget, timeline, and workflow responsibilities.&lt;/li&gt;
+&lt;li&gt;Mentor junior creative staff on issues of client relations, design, user interface &amp;amp; information design, interactive design, current technology, and production coordination.&lt;/li&gt;
+&lt;li&gt;Be aware of department strengths and weaknesses and help to guide the department in matters of creativity and design, process, client relations, work environment, and technology&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor of Arts in Graphic Design, Fine Arts or equivalent from an accredited art/design school.&lt;/li&gt;
+&lt;li&gt;At least 5 years experience in the interactive industry or an equivalent combination of education and interactive experience.&lt;/li&gt;
+&lt;li&gt;5+ years in website design or internet consulting.&lt;/li&gt;
+&lt;li&gt;Advanced knowledge of Photoshop, Illustrator and InDesign. Working knowledge of HTML a plus.&lt;/li&gt;
+&lt;li&gt;Strong typography and design skills.&lt;/li&gt;
+&lt;li&gt;Refined understanding of the programming and technical aspects of web based projects.&lt;/li&gt;
+&lt;li&gt;Keen attention to detail.&lt;/li&gt;
+&lt;li&gt;Ability to resolve creative issues with internal team members.&lt;/li&gt;
+&lt;li&gt;Effectiveness in managing multiple projects simultaneously with minimal supervision.&lt;/li&gt;
+&lt;li&gt;Strong interpersonal, oral and written communication skills and the ability to present creative internally and externally.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Tue, 05 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-interactive-designer-zeon-solutions-ann-arbor-mi</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-interactive-designer-zeon-solutions-ann-arbor-mi</guid>
+			</item>
 		
 	</channel>
 </rss>

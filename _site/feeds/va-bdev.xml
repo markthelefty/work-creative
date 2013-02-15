@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/va-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/va-bdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Software Developer II - US Job at Rackspace in Blacksburg, VA</title>
+				<description>&lt;p&gt;Rackspace is seeking a talented Software Developer to help build a world class interface for customers to manage their IT infrastructure. Fanatical Support starts with a
+Control Panel that enables our customers to get things done faster and simpler than ever before. You&amp;rsquo;ll work with a strong, passionate engineering team to turn our public
+REST APIs into a responsive and beautiful web interface that leads our customers to rave about their experience with our products.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Write thick client front-end code in Javascript, HTML, and CSS&lt;/li&gt;
+&lt;li&gt;Ship new features and fix bugs in a continuous delivery environment (5-10 production deploys per day)&lt;/li&gt;
+&lt;li&gt;Write clean and maintainable code using engineering best practices (unit testing, continuous integration, automation, design patterns, etc.)&lt;/li&gt;
+&lt;li&gt;Work with other software engineers, product managers, user experience designers, and operations engineers on a daily basis&lt;/li&gt;
+&lt;li&gt;Provide Fanatical support of all production software on which you currently work&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Job Requirements&lt;/h2&gt;
+
+&lt;h3&gt;The ideal candidate will have the following:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BS in Computer Science or related field with 2-5 years practical engineering experience in building large-scale web-based applications&lt;/li&gt;
+&lt;li&gt;Experience with a server-side framework like Django or Rails&lt;/li&gt;
+&lt;li&gt;Knowledge of DOM manipulation (jQuery, Dojo, etc)&lt;/li&gt;
+&lt;li&gt;Disciplined approach to testing and quality engineering (Jasmine, QUnit, YUITest, etc)&lt;/li&gt;
+&lt;li&gt;Experience developing in a Linux environment&lt;/li&gt;
+&lt;li&gt;Excellent verbal and written communications
+Top candidates may also have some of the following:&lt;/li&gt;
+&lt;li&gt;Experience building applications with an object oriented Javascript framework (Google Closure, Backbone, Spine, etc)&lt;/li&gt;
+&lt;li&gt;Good sense of what is required for a great user interface and experience&lt;/li&gt;
+&lt;li&gt;Ability to turn mocks from designers into the right HTML and CSS/LESS/SASS&lt;/li&gt;
+&lt;li&gt;Familiarity or experience with Agile engineering practices (test driven development, continuous integration and pair programming, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Rackspace, a world leader in hosting delivers enterprise-level managed hosting, cloud hosting, and e-mail hosting services to businesses of all types and sizes globally. Today we serve thousands of customers from data centers around the world. Rackspace integrates the industry&amp;rsquo;s best technologies and practices for each customer&amp;rsquo;s specific needs delivering it as a service via the company&amp;rsquo;s commitment to Fanatical Support®. We serve as an extension of our customers' IT departments enabling them to focus on their core business. Rackspace was founded in 1998 and since then has had significant growth year after year. There are now over 4,000 Rackers employed worldwide dedicated to providing customers our premier hosting services.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rackspace Hosting is an Equal Opportunity Employer&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The above information has been designed to indicate the general nature and level of work performed by employees in this classification. It is not designed to contain or to be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of the employee assigned to this job.&lt;/p&gt;
+
+&lt;h2&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;Type of Job(-US Only) 0&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nearest Major Market&lt;/strong&gt;: Blacksburg
+&lt;strong&gt;Nearest Secondary Market&lt;/strong&gt;: Virginia
+&lt;strong&gt;Job Segments&lt;/strong&gt;: Developer, Engineer, Computer Science, Linux, Web Design, Technology, Engineering, Creative&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/software-developer-ii-us-job-rackspace-blacksburg-va</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/software-developer-ii-us-job-rackspace-blacksburg-va</guid>
+			</item>
 		
 	</channel>
 </rss>

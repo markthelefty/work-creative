@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/co-bdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/co-bdev.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Senior Ruby on Rails Developer at White Cheetah, Inc. in Fort Collins, CO</title>
@@ -46,7 +46,7 @@
 
 &lt;p&gt;Commensurate with experience.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Feb 2013 11:36:27 -0500</pubDate>
+				<pubDate>Mon, 04 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/senior-ruby-on-rails-developer-white-cheetah-inc-fort-collins-co</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/senior-ruby-on-rails-developer-white-cheetah-inc-fort-collins-co</guid>
 			</item>
@@ -97,7 +97,7 @@
 
 &lt;p&gt;Mobile Accord, Inc. is an Equal Opportunity Employer and welcomes diversity.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Feb 2013 11:36:27 -0500</pubDate>
+				<pubDate>Sat, 02 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/database-developer-dba-mobile-accord-denver-co</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/database-developer-dba-mobile-accord-denver-co</guid>
 			</item>

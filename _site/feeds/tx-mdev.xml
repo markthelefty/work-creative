@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/tx-mdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/tx-mdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Technical Lead Ios at HCL Technologies in Houston, TX</title>
+				<description>&lt;h2&gt;Job Description&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;At least 4 years iOS native application development experience using Objective C with Xcode as IDE.&lt;/li&gt;
+&lt;li&gt;At least 2 year experience in managing the team and providing technical inputs to the team&lt;/li&gt;
+&lt;li&gt;Experience in providing solution.&lt;/li&gt;
+&lt;li&gt;Experience in estimating Complex Mobile application..&lt;/li&gt;
+&lt;li&gt;Ability to perform Unit testing and Performance testing of UI using different standard tools.&lt;/li&gt;
+&lt;li&gt;Design and Implement enhancements&lt;/li&gt;
+&lt;li&gt;Experience integrating iOS apps with APIs and other enterprise web services and third party API.&lt;/li&gt;
+&lt;li&gt;Minimum of  4 applications developed and published in App Store&lt;/li&gt;
+&lt;li&gt;Ability to understand the Web service (Restful and SOAP) and needs to be hands on.&lt;/li&gt;
+&lt;li&gt;Knowledge in HTML and CSS.&lt;/li&gt;
+&lt;li&gt;Knowledge in Open GL and third party API for charts etc..&lt;/li&gt;
+&lt;li&gt;Good process background in Agile methodology&lt;/li&gt;
+&lt;li&gt;Interact with customer/onsite co coordinator and provide technical solutions.&lt;/li&gt;
+&lt;li&gt;Ability to provide solutions and present as an acceptable format to customer&lt;/li&gt;
+&lt;li&gt;Familiarity with iPhone mobile application development technologies is a plus&lt;/li&gt;
+&lt;li&gt;Familiarity with Cross platform mobile application development tools/technologies is a plus&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; We have various opportunities across US – NewYork, Houston, New Jersey.
+Candidates with prior work experience in the US and  Valid US Work Authorization need apply only.&lt;/p&gt;
+
+&lt;p&gt;All applicants will have equal employment opportunities with HCL America. Employment will be based solely on HCL America&amp;rsquo;s need and the individual&amp;rsquo;s qualifications.&lt;/p&gt;
+
+&lt;p&gt;HCL America, as part of it&amp;rsquo;s employment process will conduct background checks for all it&amp;rsquo;s applicants. All applicants are required to complete these checks prior to an offer extension from HCL America.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/technical-lead-ios-hcl-technologies-houston-tx</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/technical-lead-ios-hcl-technologies-houston-tx</guid>
+			</item>
 		
 			<item>
 				<title>Android Developer at Sogeti in Houston, TX</title>
@@ -48,7 +84,7 @@
 
 &lt;p&gt;Part of the employee experience at Sogeti USA is working for a company that truly values the individual. We are committed to establishing and maintaining a relationship with each each member of our team and our mission to exceed our employees' expectations in the same way that we exceed our clients'. At Sogeti USA, that begins with what we believe is a highly competitive benefits package.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 03 Feb 2013 12:47:20 -0500</pubDate>
+				<pubDate>Sat, 02 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/android-developer-sogeti-houston-tx</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/android-developer-sogeti-houston-tx</guid>
 			</item>

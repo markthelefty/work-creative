@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/nc-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/nc-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer - Internship at Caktus Consulting Group, LLC in Carrboro, NC</title>
+				<description>&lt;p&gt;Come be a part of a small team of developers and designers passionate about creating fun and interactive web applications. Caktus is looking for someone who is excited about emerging technologies, creating compelling user experiences and enjoys writing Python. As a member of the Caktus team, you’ll be involved in every aspect of development, from brainstorming to prototyping, Django development, and front-end HTML/CSS and JavaScript work. You’ll learn and collaborate directly with a great group of talented developers and designers.&lt;/p&gt;
+
+&lt;h2&gt;This summer experience includes:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Position: A 12 week summer internship in Carrboro, NC&lt;/li&gt;
+&lt;li&gt;Exposure: Great experience and education in current web development techniques and technologies&lt;/li&gt;
+&lt;li&gt;Mentorship: At Caktus, you’ll get to work with some of the best and brightest minds in the Django community&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;You will do some or all of the following during the summer:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work with Caktus developers on Django-powered web applications&lt;/li&gt;
+&lt;li&gt;Perform front-end development in HTML, CSS, and JavaScript (jQuery)&lt;/li&gt;
+&lt;li&gt;Work on internal Caktus projects&lt;/li&gt;
+&lt;li&gt;Participate in design and code reviews&lt;/li&gt;
+&lt;li&gt;Create mockups and wireframes of proposed design ideas and user stories&lt;/li&gt;
+&lt;li&gt;Assist with usability and user experience (UX) design (Don’t Make Me Think!)&lt;/li&gt;
+&lt;li&gt;Become familiar with Linux (Debian-flavor) desktop and server environments&lt;/li&gt;
+&lt;li&gt;Learn about test driven development and other agile methodologies&lt;/li&gt;
+&lt;li&gt;Use relational databases, such as PostgreSQL or MySQL&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;We’d love to meet someone who (not all required):&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Has experience developing rich applications with HTML/CSS/JS&lt;/li&gt;
+&lt;li&gt;Is familiar with Django/Python or a similar framework&lt;/li&gt;
+&lt;li&gt;Is excited to work with HTML5 and CSS3&lt;/li&gt;
+&lt;li&gt;Actively uses Github or BitBucket to collaborate and share code&lt;/li&gt;
+&lt;li&gt;Has an design eye for simplicity and user experience&lt;/li&gt;
+&lt;li&gt;Is comfortable using Photoshop and/or InDesign&lt;/li&gt;
+&lt;li&gt;Is actively engaged in open source communities and learning about new technologies&lt;/li&gt;
+&lt;li&gt;Has experience with rapid prototyping&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Compensation&lt;/h2&gt;
+
+&lt;p&gt;For the full-time 12-week position, we will pay a fixed amount, commensurate with experience, that is pro-rated and paid monthly.&lt;/p&gt;
+
+&lt;h2&gt;How to Apply&lt;/h2&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in this position, email jobs+website@caktusgroup.com with your resume. Kindly include a brief letter stating why you think you&amp;rsquo;d be a great fit for this opportunity.&lt;/p&gt;
+
+&lt;p&gt;Caktus is proud to be an Equal Opportunity Employer.&lt;/p&gt;
+
+&lt;p&gt;Salary commensurate with experience.&lt;/p&gt;
+
+&lt;p&gt;Confidentiality is ensured.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-internship-caktus-consulting-group-llc-carrboro-nc</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-internship-caktus-consulting-group-llc-carrboro-nc</guid>
+			</item>
 		
 	</channel>
 </rss>

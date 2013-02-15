@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/in-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/in-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Web Developer at Worm's Way Inc. in Bloomington, IN</title>
+				<description>&lt;h2&gt;Description:&lt;/h2&gt;
+
+&lt;p&gt;Design elegant responsive web interfaces that allow the company to do business efficiently.&lt;/p&gt;
+
+&lt;h2&gt;Duties:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designing, developing and supporting web-based applications and publications&lt;/li&gt;
+&lt;li&gt;Developing/maintaining suitable standards compliant UI, graphics, and code environment for web applications.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A keen eye for design.&lt;/li&gt;
+&lt;li&gt;Demonstrated skill with HTML/CSS and Jquery or other Javascript framework.&lt;/li&gt;
+&lt;li&gt;Willingness to learn and grow into the full range development.&lt;/li&gt;
+&lt;li&gt;Related degree (associates or higher), coursework of equivalent rigor, or experience of 1-2 years.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-worms-way-inc.-bloomington-in</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-worms-way-inc.-bloomington-in</guid>
+			</item>
 		
 			<item>
 				<title>Front-End Web Developer at University of Notre Dame in Notre Dame, IN</title>
@@ -93,7 +122,7 @@
 &lt;/ul&gt;
 
 </description>
-				<pubDate>Sun, 03 Feb 2013 11:49:06 -0500</pubDate>
+				<pubDate>Sun, 03 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/front-end-web-developer-university-of-notre-dame-notre-dame-in</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-university-of-notre-dame-notre-dame-in</guid>
 			</item>

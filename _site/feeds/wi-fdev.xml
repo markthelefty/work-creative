@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/wi-fdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/wi-fdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Front-End Web Developer at Lands' End in Madison, WI</title>
+				<description>&lt;p&gt;Lands’ End, a premier source of apparel and gear for women, men, kids and the home – sold by catalog, online, and nearly 300 Lands’ End Shops at Sears, is currently looking for a Front End Web Developer. Since 1963, we’ve earned a reputation for quality, value and exceptional customer service embodied by one simple promise: everything we sell is Guaranteed. Period.®&lt;/p&gt;
+
+&lt;p&gt;Lands’ End is a proud member of the Sears Holdings Corporation (NASDAQ: SHLD) family of companies. The Front End Web Developer is responsible for the functional and structural construction of the visual presentation of landsend.com and landsendcanvas.com. FEWD will Concept, Design, Develop, Test, Train, Deploy and own all front end code including user interactions that are within the interactive space.&lt;/p&gt;
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
+
+&lt;h3&gt;Responsibilities&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Concept, Design, Develop, Test, Train and Deploy user interactions that fully utilize the digital channel to drive profitable sales growth and position landsend.com to be a leader in not only the retail and fashion industry but also web experience and design.&lt;/li&gt;
+&lt;li&gt;Inspire creative and business team with best in class web experiences that are created with tried, trusted and tested web development techniques and practices.&lt;/li&gt;
+&lt;li&gt;Concept, Design, Develop, Test, Train and Deploy best practices in HTML, CSS and interaction design.&lt;/li&gt;
+&lt;li&gt;Concept, Design, Develop, Test, Train and Deploy and Maintain reusable content that is easy to understand and implement by non-web savy team members.&lt;/li&gt;
+&lt;li&gt;Partner with the Marketing, Merchandising, UX, Creative, IS and many other business teams to execute strategies and encourage change of existing interactive practices to grow and align brand awareness on all interactive platforms.&lt;/li&gt;
+&lt;li&gt;Development responsibility for UX prototypes.&lt;/li&gt;
+&lt;li&gt;Design, Develop, Test, Train and Deploy the functional side of the customer engagement strategy.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Skills&lt;/h2&gt;
+
+&lt;h3&gt;The Front End Web Developer will possess the following qualities:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience in and passion for web development and design.&lt;/li&gt;
+&lt;li&gt;A extensively detailed level of understanding of landsend.com programing languages which include HTML, CSS, JavaScript (focus on jQuery), JSP and Apache and Tomcat Server Environments.&lt;/li&gt;
+&lt;li&gt;Strategic and Analytical thinker&lt;/li&gt;
+&lt;li&gt;Self motivated and driven to learn outside of work environment&lt;/li&gt;
+&lt;li&gt;Proven ability to deliver measurable financial results&lt;/li&gt;
+&lt;li&gt;Understands the brand and can articulate the brand message via current and future the web technologies&lt;/li&gt;
+&lt;li&gt;Multi-channel and multimedia experience (includes Adobe Flash and Video Editing) a huge plus&lt;/li&gt;
+&lt;li&gt;Ability to dictate simple to complex web experiences eloquently and with out fault for the understanding of individuals or groups that have little or no sense of web technologies&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-lands%27-end-madison-wi</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-lands%27-end-madison-wi</guid>
+			</item>
 		
 	</channel>
 </rss>

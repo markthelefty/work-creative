@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/sc-des.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/sc-des.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>UX Designer at BFG Communications in Bluffton, SC</title>
+				<description>&lt;h2&gt;Position Summary:&lt;/h2&gt;
+
+&lt;p&gt;The UX Designer translates strategic business requirements and UX best practices into frameworks for intuitive, efficient and engaging digital user experiences. The UX Designer defines the overall site structure, task flows and page-level content priority. The UX Designer acts as a bridge between strategy and the design phases of a project and must possess an adequate level of business acumen, and be conversant in brand communication, visual design concepts and interactive technologies. This position also communicates with clients in both creative presentations and feedback meetings.&lt;/p&gt;
+
+&lt;h2&gt;Essential Job Duties and Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Analyze client business objectives and user needs.&lt;/li&gt;
+&lt;li&gt;Define and articulate the hierarchy of information on sites, pages and zones.&lt;/li&gt;
+&lt;li&gt;Specify the task-flows of applications and functional digital experiences.&lt;/li&gt;
+&lt;li&gt;Research, gather and document site, page, and other digital requirements.&lt;/li&gt;
+&lt;li&gt;Create detailed, annotated wireframes, sitemaps, user flows, process flows, and site requirements.&lt;/li&gt;
+&lt;li&gt;Document user interface rules, defaults and conventions.&lt;/li&gt;
+&lt;li&gt;Facilitate collaborative meetings and deliverable reviews.&lt;/li&gt;
+&lt;li&gt;Adept at working in a fast-paced, rapidly evolving agency environment.&lt;/li&gt;
+&lt;li&gt;Adopt agency processes, systems, and deliverable standards.&lt;/li&gt;
+&lt;li&gt;Manage project tasks within time, budget and scope.&lt;/li&gt;
+&lt;li&gt;Assist with scoping work according to standards and client needs.&lt;/li&gt;
+&lt;li&gt;Assist with UX capabilities development and best practice documentation.&lt;/li&gt;
+&lt;li&gt;Stay up-to-date with current and new UX tools and software relating to interactive media.&lt;/li&gt;
+&lt;li&gt;Participate in client‐facing presentations of UX concepts and deliverables progress throughout the course of project work and UX assignments.&lt;/li&gt;
+&lt;li&gt;Solicit and incorporate UX feedback, establishing priorities and directing/implementing UX related revisions.&lt;/li&gt;
+&lt;li&gt;Active collaboration with the Strategy, Creative and Development teams to ensure effective visual communications, functionality, and overall project development/status.&lt;/li&gt;
+&lt;li&gt;Work on 2-3 client engagements simultaneously.&lt;/li&gt;
+&lt;li&gt;Participate in new business opportunity brainstorming and spec work UX.&lt;/li&gt;
+&lt;li&gt;Organize, prioritize, multi‐task and work independently, with little or no supervision related to the management of general business operations.&lt;/li&gt;
+&lt;li&gt;Champion the User Experience and elevate our client’s brands.&lt;/li&gt;
+&lt;li&gt;Collaborate with other disciplines to structure the optimal user experience.&lt;/li&gt;
+&lt;li&gt;Regular and reliable attendance and strict punctuality are required.&lt;/li&gt;
+&lt;li&gt;Enter time on a daily basis.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Other Job Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor’s degree in User Experience, Technical Writing, Information Architecture or other related field required.&lt;/li&gt;
+&lt;li&gt;Advanced degree in Human Computer Interaction, Digital Media Design, Industrial Design, Fine Arts or related field desired.&lt;/li&gt;
+&lt;li&gt;1-3 years of experience in User Experience, UI Design, or Information Architecture.&lt;/li&gt;
+&lt;li&gt;Ad agency or design firm experience required.&lt;/li&gt;
+&lt;li&gt;Proficient use of Axure and/or other UX related software.&lt;/li&gt;
+&lt;li&gt;Basic knowledge and understanding of design and business related software including, but not limited to Adobe Creative Suite and MS Office.&lt;/li&gt;
+&lt;li&gt;Demonstrated analytical and problem-solving skills.&lt;/li&gt;
+&lt;li&gt;Attention to detail and high standard of quality.&lt;/li&gt;
+&lt;li&gt;Strong written, interpersonal and business communication skills.&lt;/li&gt;
+&lt;li&gt;Demonstrated ability to facilitate cross-discipline work sessions.&lt;/li&gt;
+&lt;li&gt;Follow all standard agency policies and procedures.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;About BFG Communications:&lt;/h2&gt;
+
+&lt;p&gt;We are an independent, creative communications agency that delivers seamless storytelling and consumer insights to companies large and small. Founded in 1995, we help clients build brands. Headquartered in Hilton Head, SC, we innovate from offices in New York, Atlanta, and locations throughout North America. We employ more than 250 inspiring individuals.&lt;/p&gt;
+
+&lt;h3&gt;Specialties&lt;/h3&gt;
+
+&lt;p&gt;Branding &amp;amp; Creative, Field Marketing, Relationship Marketing, Interactive Marketing, Content Development, Dynamic Websites, Social Media Development/Monitoring, E-mail Marketing, Influencer Programs&lt;/p&gt;
+
+&lt;p&gt;Visit us at http://www.bfgcom.com&lt;/p&gt;
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ux-designer-bfg-communications-bluffton-sc</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ux-designer-bfg-communications-bluffton-sc</guid>
+			</item>
 		
 	</channel>
 </rss>

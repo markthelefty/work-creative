@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/oh-exec.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/oh-exec.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Art Director at Resource in Columbus, OH</title>
+				<description>&lt;p&gt;Reporting to an Associate Creative Director, the Art Director is responsible for creative leadership and ownership of multiple projects. Art Directors mentor, inspire and direct a team of Senior Designers, Designers, Interaction Designers and Production Designers from concept to implementation. Art Directors work closely with Strategy, Client Service and Technology partners to ensure creative concepts and execution meet the established business objectives. Art Directors are also required to effectively communicate with clients in both creative presentations and feedback meetings.&lt;/p&gt;
+
+&lt;h2&gt;Essential Job Functions&lt;/h2&gt;
+
+&lt;h3&gt;Practice Development&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Concept creation and development, design direction, management and execution
+of overall visual language&lt;/li&gt;
+&lt;li&gt;Direct Designers, Interaction Designers and Production Designers regarding interface design and visual hierarchy systems, establishing the design language, execution of design direction, visual asset creation, HTML production and presentation preparation&lt;/li&gt;
+&lt;li&gt;Photo and video art direction and participation in both pre- and post-production process&lt;/li&gt;
+&lt;li&gt;Maintaining and extending current knowledge base as well as learning about new design tools and software relating to interactive media&lt;/li&gt;
+&lt;li&gt;Ownership of design and functional continuity throughout the development phase of project work, consistently consulting Associate Creative Director for guidance and validation&lt;/li&gt;
+&lt;li&gt;Client-facing presentations of creative concepts and design progress throughout the course of project work and creative assignments&lt;/li&gt;
+&lt;li&gt;Soliciting and assimilating design feedback, establishing priorities and directing/implementing design related revisions&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Client Delivery&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Management of the Resource creative process against established timelines and budgets&lt;/li&gt;
+&lt;li&gt;Staffing of project teams with a close eye on utilization targets for team&lt;/li&gt;
+&lt;li&gt;Active collaboration with Strategy and Creative Domains to ensure effective visual communications and overall functionality&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Business Development&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Able to assist in Scoping &amp;amp; estimating projects accurately as well as review and comment on SOW’s&lt;/li&gt;
+&lt;li&gt;Participate in new business opportunity brainstorming and spec work creative&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A Bachelor’s Degree in Graphic Design or related field&lt;/li&gt;
+&lt;li&gt;6 to 10 years experience in Graphic Design&lt;/li&gt;
+&lt;li&gt;A minimum of 5 years experience in Interactive Marketing and Interface Design&lt;/li&gt;
+&lt;li&gt;Extensive training in graphic design, typography, interaction design and/or visual communications&lt;/li&gt;
+&lt;li&gt;Demonstration of successful leadership experience with a team of at least 5 direct reports.&lt;/li&gt;
+&lt;li&gt;Outstanding conceptual abilities and collaborative skills&lt;/li&gt;
+&lt;li&gt;Strong team building and management&lt;/li&gt;
+&lt;li&gt;Strong communication skills with the ability to present information in verbal, written or visual form to a variety of audiences, from the internal team to client executives&lt;/li&gt;
+&lt;li&gt;Excellent time management skills and the ability to effectively allocate resources&lt;/li&gt;
+&lt;li&gt;In-depth understanding of interactive usability principles, HTML, dHTML and capabilities
+of web browsers across platforms is essential&lt;/li&gt;
+&lt;li&gt;Proficiency in the latest versions of design software including: Photoshop, Illustrator, Flash and InDesign. After Effects and sound editing is a big plus&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Wed, 13 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/art-director-resource-columbus-oh</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/art-director-resource-columbus-oh</guid>
+			</item>
 		
 	</channel>
 </rss>

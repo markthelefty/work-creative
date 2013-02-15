@@ -1,10 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/ga-mdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/ga-mdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Senior UI/UX Web and Mobile Developer (Mobile) at U.S. Bank in Atlanta, GA</title>
+				<description>&lt;h2&gt;About Elavon&lt;/h2&gt;
+
+&lt;p&gt;Elavon provides end-to-end payment processing services to merchants and financial institutions in the United States, Brazil, Canada, Mexico, Puerto Rico, and throughout Europe. Our payment products are supported by the most reliable network in the industry and include credit and debit card processing, electronic check services, gift cards, dynamic currency conversion, multi-currency support, and cross-border acquiring. We handle every aspect of the acquiring relationship—transaction processing, risk and underwriting, settlement, equipment deployment, chargeback management, reporting, and customer service. Our customers can also count on us to keep their payment processing compliant with changing payment security requirements.&lt;/p&gt;
+
+&lt;p&gt;Elavon employs about 3,600 people located worldwide. Together, we support more than one million clients spread among the retail, restaurant, hospitality, government, healthcare, education, and e-commerce sectors. Elavon utilizes a white-label branding model, and we work with strong partners to market our services through a variety of sales channels, including large financial institutions, community banks, trade associations, government agencies, and ISOs/MSPs. We are the:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1 airline processor&lt;/li&gt;
+&lt;li&gt;2 hospitality processor&lt;/li&gt;
+&lt;li&gt;4 U.S. acquirer, based on bank card volume&lt;/li&gt;
+&lt;li&gt;6 European acquirer&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Elavon’s Global Acquiring Solutions organization is part of U.S. Bank’s Payment Services division. U.S. Bancorp is the fifth-largest commercial bank in the United States.&lt;/p&gt;
+
+&lt;p&gt;Elavon launched a global cross-functional team focused on launching revenue generating mobile commerce products. The focus of this team will include mobile payments, mobile payment acceptance, integrated value-add services and other adjacent technologies in conjunction with the Mobile Commerce Strategy of the Elavon business.  The specific product focus will be on products and solutions related to the evolution at the point-of-sale (POS) and the interactive payment experience on smartphones and tablet devices.&lt;/p&gt;
+
+&lt;h2&gt;UI/UX Web and Mobile Developer&lt;/h2&gt;
+
+&lt;h3&gt;Scope:&lt;/h3&gt;
+
+&lt;p&gt;Owner of and accountable for UI/UX design, wire frames and team marketing presence on web and mobile products developed within the Mobile Commerce Solutions cross-functional team.&lt;/p&gt;
+
+&lt;h2&gt;Job Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work within a cross-functional team in an Agile/SCRUM development cycle to deliver industry-leading innovation around payments;&lt;/li&gt;
+&lt;li&gt;Assist in turning user stories into wireframes to create a holistic visual understanding of the desired solution prior and during Agile sprints around Web and Mobile development&lt;/li&gt;
+&lt;li&gt;Cultivate your own understanding of user problems and opportunities for improvement and share your insights;&lt;/li&gt;
+&lt;li&gt;Translate business needs and product requirements into best-in-class, user-focused, and intuitive user experiences;&lt;/li&gt;
+&lt;li&gt;Brainstorm and mock up interaction and interface design ideas within the cross-functional team;&lt;/li&gt;
+&lt;li&gt;Present ideas and adjust designs based on feedback;&lt;/li&gt;
+&lt;li&gt;Envision, design, and iterate by building prototypes, rapidly-producing, multiple possible approaches for internal review and usability testing;&lt;/li&gt;
+&lt;li&gt;Work with Product Managers to create visuals for incorporating into product specifications;&lt;/li&gt;
+&lt;li&gt;Design current interfaces while planning for the direction of future iterations;&lt;/li&gt;
+&lt;li&gt;Work collaboratively and closely with the visual design team as UX/UI is integrated into finished web pages and mobile applications;&lt;/li&gt;
+&lt;li&gt;Work closely with the engineering team during the development process to ensure that designs are properly implemented and to maximize usability and performance;&lt;/li&gt;
+&lt;li&gt;Develop Information Architecture documentation including site maps, user flows, schematics, and navigation models;&lt;/li&gt;
+&lt;li&gt;Assist with the design of product marketing, sales documentation, conference-related material, and other go-to-market articles; and&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Successful applicants will exemplify US Bank&amp;rsquo;s ethical principles of uncompromising integrity, respect for others, accountability for decisions and actions, and good citizenship.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Your Career is Here.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+
+&lt;h3&gt;Basic Requirements&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A bachelor’s degree in computer science, engineering, finance, accounting, or other business- or technology-related field, including:&lt;/li&gt;
+&lt;li&gt;Minimum of five years of UI/UX experience&lt;/li&gt;
+&lt;li&gt;Expert level with Adobe Photoshop or equivalent&lt;/li&gt;
+&lt;li&gt;Web, Mobile, and Tablet (iOS and Android) design experience&lt;/li&gt;
+&lt;li&gt;Deep understanding of CSS2/CSS3 and HTML (HTML5 and JavaScript a plus)&lt;/li&gt;
+&lt;li&gt;Highly proficient at creating wireframes, mockups, and prototypes&lt;/li&gt;
+&lt;li&gt;Agile (e.g. SCRUM), iterative and Waterfall software development certifications and/or equivalent experience&lt;/li&gt;
+&lt;li&gt;Excellent interpersonal, verbal, and written communication&lt;/li&gt;
+&lt;li&gt;Leadership, influencing, decision, problem-solving, and strategic management skills to facilitate working in a global, cross-functional team&lt;/li&gt;
+&lt;li&gt;Ability to work well with a variety of personalities&lt;/li&gt;
+&lt;li&gt;PC proficiency using a variety of software packages&lt;/li&gt;
+&lt;li&gt;Limited to moderate travel – 0-25%&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Preferred Qualification&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MBA attainment&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-ui-ux-web-and-mobile-developer-%28mobile%29-u.s.-bank-atlanta-ga</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-ui-ux-web-and-mobile-developer-%28mobile%29-u.s.-bank-atlanta-ga</guid>
+			</item>
+		
+			<item>
+				<title>iOS Developer at Cognizant in Atlanta, GA</title>
+				<description>&lt;p&gt;We are looking for a strong iOS developer for one of our retail clients in Atlanta, GA*&lt;/p&gt;
+
+&lt;h2&gt;Must Have Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong hands-on iOS development experience.&lt;/li&gt;
+&lt;li&gt;Experience in leading and executing end-to-end Mobile projects including web-service integration, etc.&lt;/li&gt;
+&lt;li&gt;Familiarity to advanced iOS concepts.&lt;/li&gt;
+&lt;li&gt;Outstanding communication skills and ability to articulate best practices in design and development of iOS.&lt;/li&gt;
+&lt;li&gt;Very good exposure to trends in Mobility.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Job Roles / Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Work with customers on their mobility initiatives and contribute towards development on mobile website and mobile application.&lt;/li&gt;
+&lt;li&gt;Demonstrate capabilities in best programming practices in iOS, coding standards and guidelines for iOS projects, optimized ways of design and code development for Mobility engagements.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Organization Marketing Statement&lt;/h2&gt;
+
+&lt;p&gt;Cognizant (NASDAQ: CTSH) is a global IT services and business process outsourcing solutions provider headquartered in Teaneck, N.J. Founded in 1994 as an IT development and maintenance services arm of The Dun &amp;amp; Bradstreet Corporation, the company spun-off as an independent organization two years later.&lt;/p&gt;
+
+&lt;p&gt;Since 1996, Cognizant has worked closely with large organizations to help them build stronger, more efficient, and agile businesses. By leveraging highly flexible business processes, a seamless global delivery network as well as deep domain expertise, Cognizant delivers a better ‘return on outsourcing’.&lt;/p&gt;
+
+&lt;p&gt;Cognizant is an Equal Opportunity Employer M/F/D/V&lt;/p&gt;
+
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor’s degree with 4-7 years of experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ios-developer-cognizant-atlanta-ga</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ios-developer-cognizant-atlanta-ga</guid>
+			</item>
 		
 	</channel>
 </rss>

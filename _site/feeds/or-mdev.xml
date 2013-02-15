@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/or-mdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/or-mdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>UX Designer Mobile and Web at Atlatl Software in Portland, OR</title>
+				<description>&lt;p&gt;Atlatl Software has opened an office in Portland, OR., where we are currently building our user experience (aka UX) design team. This team will define how our applications will represent the next generation of what can be done on mobile devices and the web.&lt;/p&gt;
+
+&lt;p&gt;We are looking to hire an extremely talented UX Designer with a proven track record of untangling complex user experience interactions, turning UX and logic problems into clear, concise, and actionable wire frame and pixel perfect mockup solutions.&lt;/p&gt;
+
+&lt;h2&gt;Specific Responsibilities include but are not limited to:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Will work as a cross-product design resource to assist with both core and customer driven custom design requests as needed.&lt;/li&gt;
+&lt;li&gt;The UX Designer will be responsible for both the mobile device and web app design needs.&lt;/li&gt;
+&lt;li&gt;Will work directly with the development staff to vet design options, communicate project design progress, create needed specification documentation for the development team, create final graphics for production, and document UX design patterns in our UX pattern guide.&lt;/li&gt;
+&lt;li&gt;Will act as a design advisor to other departments within Atlatl.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Essential Qualities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Excellent communication and collaborative skills&lt;/li&gt;
+&lt;li&gt;Passion for product quality and attention to detail&lt;/li&gt;
+&lt;li&gt;Comfortable with rapid development cycles, and tight schedules&lt;/li&gt;
+&lt;li&gt;Proven problem solving skills, and communication skills for both technical and non-technical audiences&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Other Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BA/BS required&lt;/li&gt;
+&lt;li&gt;4+ years Information Architect or User Experience Design experience&lt;/li&gt;
+&lt;li&gt;Experience designing for traditional media, mobile devices, and the web&lt;/li&gt;
+&lt;li&gt;Must be proficient in Adobe CS6 (Photoshop and Illustrator esp.), Omnigraffle, Axure&lt;/li&gt;
+&lt;li&gt;HTML &amp;amp; CSS skills, 3D modeling, and/or animating skills are also a plus&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ux-designer-mobile-and-web-atlatl-software-portland-or</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ux-designer-mobile-and-web-atlatl-software-portland-or</guid>
+			</item>
 		
 	</channel>
 </rss>

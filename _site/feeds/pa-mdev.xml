@@ -1,10 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/pa-mdev.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/pa-mdev.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Senior IOS Developer at Comcast in Philadelphia, PA</title>
+				<description>&lt;h2&gt;Job Overview&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Responsible for planning and designing new software and web applications.&lt;/li&gt;
+&lt;li&gt;Analyzes, tests, and assists with the integration of new applications.&lt;/li&gt;
+&lt;li&gt;Oversees the documentation of all development activity.&lt;/li&gt;
+&lt;li&gt;Trains non-technical personnel.&lt;/li&gt;
+&lt;li&gt;Assists with tracking performance metrics.&lt;/li&gt;
+&lt;li&gt;Integrates knowledge of business and functional priorities.&lt;/li&gt;
+&lt;li&gt;Acts as a key contributor in a complex and crucial environment.&lt;/li&gt;
+&lt;li&gt;May lead teams or projects and shares expertise.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Core Responsibilities&lt;/h2&gt;
+
+&lt;p&gt;We are a group of people inside of Comcast working to change the world of entertainment. We do that by creating beautiful applications that improve our customers' lives and help them experience our content in fantastic new ways.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re looking for people who are passionate about mobile development. We need teammates with &amp;ldquo;can do&amp;rdquo; attitudes, who don&amp;rsquo;t shy away from problems they don&amp;rsquo;t know how to solve just yet. Our world moves quickly, and we expect the same out of whoever we bring on.&lt;/p&gt;
+
+&lt;p&gt;You will be in a highly collaborative, fast paced environment that will require you to think on your feet and to make decisions that affect millions of users. If you do not think that is something you could handle, please stop reading right now, as this is at the very core of how we develop.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s not necessary for you to be an Objective-C wizard with years of mobile experience to join our teama strong engineering background and C or C++ experience, as well as deep knowledge of http, would be just as usefulbut experience shipping and maintaining customerfacing software is a huge plus.&lt;/p&gt;
+
+&lt;p&gt;Our team may have originally been formed to build a proof of concept web application, but over the past two years we have built an industry leading suite of native applications that have garnered critical acclaim, and we continue to improve our existing apps and expand our offerings. There have been lots of arguments, many changes, and even more laughs along the way, and there will continue to be as we grow.&lt;/p&gt;
+
+&lt;p&gt;Come join us for the adventure, and hopefully add to the laughs!&lt;/p&gt;
+
+&lt;h2&gt;Tasks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Collaborates with project stakeholders to identify product and technical requirements. Conducts analysis to determine integration needs.&lt;/li&gt;
+&lt;li&gt;Designs new software and web applications, supports applications under development, and customizes current applications. Develops software update process for existing applications. Assists in the roll-out of software releases.&lt;/li&gt;
+&lt;li&gt;Trains junior Software Development Engineers on internally developed software applications.&lt;/li&gt;
+&lt;li&gt;Oversees the researching, writing, and editing of documentation and technical requirements, including evaluation plans, test results, technical manuals, and formal recommendations and reports.&lt;/li&gt;
+&lt;li&gt;Keeps current with technological developments within the industry. Monitors and evaluates competitive applications and products. Reviews literature, patents, and current practices relevant to the solution of assigned projects.&lt;/li&gt;
+&lt;li&gt;Provides technical leadership throughout the design process and guidance with regards to practices, procedures, and techniques. Serves as a guide and mentor for junior level Software Development Engineers.&lt;/li&gt;
+&lt;li&gt;Assists in tracking and evaluating performance metrics. Ensures team delivers software on time, to specification, and within budget.&lt;/li&gt;
+&lt;li&gt;Works with Quality Assurance team to determine if applications fit specification and technical requirements.&lt;/li&gt;
+&lt;li&gt;Displays expertise in knowledge of engineering methodologies, concepts, and skills and their application in the area of specified engineering specialty.&lt;/li&gt;
+&lt;li&gt;Displays expertise in process design and redesign skills. Presents and defends architectural, design, and technical choices to internal audiences.&lt;/li&gt;
+&lt;li&gt;Consistent exercise of independent judgment and discretion in matters of significance.&lt;/li&gt;
+&lt;li&gt;Regular, consistent and punctual attendance. Must be able to work nights and weekends, variable schedule(s) as necessary.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Other duties and responsibilities as assigned.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Bachelors Degree or Equivalent&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Engineering, Computer Science&lt;/li&gt;
+&lt;li&gt;Generally requires 7-11 years related experience&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Comcast is an Equal Employment Opportunity/Affirmative Action/Drug-Free workplace employer.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-ios-developer-comcast-philadelphia-pa</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-ios-developer-comcast-philadelphia-pa</guid>
+			</item>
+		
+			<item>
+				<title>Android Application Developer at LoyalTree in Pittsburgh, PA</title>
+				<description>&lt;p&gt;Hey there! We’re LoyalTree and we’re looking to add to our growing team of incredibly passionate, and especially talented individuals. LoyalTree is funded startup building a mobile customer engagement &amp;amp; loyalty platform. We’re changing the way businesses attract, engage, and retain customers in the mobile age. Think of it as Twitter mixed with a reward card and much more. We’re growing&amp;hellip;and we&amp;rsquo;re searching for a passionate individual to join our Mobile Development Team as an Android Application Developer. We think our product is truly awesome and we’re only scratching the surface of what’s next. We work in a open, creative, and fun environment. That’s where you (possibly&amp;hellip;hopefully) come in.&lt;/p&gt;
+
+&lt;p&gt;We’re looking for individuals who want to make a difference, help grow the Mobile Development Team at LoyalTree, and solve difficult problems on a daily basis. As part of the Mobile Development Team at LoyalTree, you can expect to work directly with our Product teams and see your everyday work result in real-world applicability. If you are interested in joining a company that is fun, creative, and in a fast-paced environment, we&amp;rsquo;d love to talk. Check out the details below.&lt;/p&gt;
+
+&lt;h2&gt;You Are A Perfect Fit If You:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Are looking for a career opportunity in a growing, funded startup company.&lt;/li&gt;
+&lt;li&gt;Want first-hand experience working directly with our product development, and sales teams.&lt;/li&gt;
+&lt;li&gt;Want to actually enjoy coming to work each day.&lt;/li&gt;
+&lt;li&gt;Want to be part of something bigger than yourself&amp;hellip;and reap the potential rewards&lt;/li&gt;
+&lt;li&gt;Love challenging the status-quo&amp;hellip;and have a passion to get the most out of life.&lt;/li&gt;
+&lt;li&gt;Want to work in a fun, creative, and innovative company.&lt;/li&gt;
+&lt;li&gt;Literally obsess over every detail&amp;hellip;because we do.&lt;/li&gt;
+&lt;li&gt;Find beauty in simplicity.&lt;/li&gt;
+&lt;li&gt;Produce world-class work and test everything.&lt;/li&gt;
+&lt;li&gt;Don’t need lots of oversight &amp;ndash; just figure your stuff out and ask questions when needed.&lt;/li&gt;
+&lt;li&gt;Think big and execute quickly.&lt;/li&gt;
+&lt;li&gt;Willing to take critique.&lt;/li&gt;
+&lt;li&gt;Want to be part of a team&amp;hellip;more of a family environment, actually.&lt;/li&gt;
+&lt;li&gt;Willing to make sacrifices to help the company succeed.&lt;/li&gt;
+&lt;li&gt;Are okay working long(er) hours.&lt;/li&gt;
+&lt;li&gt;Want to make a difference &amp;amp; make a small dent in the universe.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Desired Skills &amp;amp; Experience:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Outstanding with problem solving and logic.&lt;/li&gt;
+&lt;li&gt;Experience building Android Applications (portfolio of work required).&lt;/li&gt;
+&lt;li&gt;Experienced in API connectivity, databases, especially MySQL (required).&lt;/li&gt;
+&lt;li&gt;Experienced in front and back-end Application development (required).&lt;/li&gt;
+&lt;li&gt;Experienced in web-services and working with APIs (required).&lt;/li&gt;
+&lt;li&gt;Knowledge of HTML, JavaScript, CSS, AJAX, MySQL&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;We offer competitive compensation, full health benefits, referral incentives, and unlimited vacation (yep!). If this sounds like you&amp;hellip;let us know. We look forward to hearing from you soon!&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/android-application-developer-loyaltree-pittsburgh-pa</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/android-application-developer-loyaltree-pittsburgh-pa</guid>
+			</item>
 		
 	</channel>
 </rss>

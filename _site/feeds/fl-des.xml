@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
+		<title>Work Creative</title>
 		<description>Job Notification Feed</description>
-		<link></link>
-		<atom:link href="/feeds/fl-des.xml" rel="self" type="application/rss+xml" />
+		<link>http://workcreative.net/</link>
+		<atom:link href="http://workcreative.net/feeds/fl-des.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Temporary GraphicDesigner-Creative Services at PGA TOUR, Inc. in Ponte Vedra, FL</title>
+				<description>&lt;p&gt;We presently are searching for a &lt;strong&gt;Temporary Graphic Designer&lt;/strong&gt; within our &lt;strong&gt;&lt;em&gt;Creative Services department&lt;/em&gt;&lt;/strong&gt;. This position will design print or online literature and collateral materials for all
+business units of PGA TOUR. Should be fully capable of using contemporary graphic design software and workstations.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create graphic design solutions for projects as requested by supervisor working from sketches, photographs and verbal descriptions to achieve desired results.&lt;/li&gt;
+&lt;li&gt;Prepare all projects for reproduction correctly within established timelines.&lt;/li&gt;
+&lt;li&gt;Notify supervisor of status of all work projects.&lt;/li&gt;
+&lt;li&gt;Know current typographical trends and apply to design solutions.&lt;/li&gt;
+&lt;li&gt;Prepare illustrations ad charts for projects as needed.&lt;/li&gt;
+&lt;li&gt;Recommend supplies as needed.&lt;/li&gt;
+&lt;li&gt;Stay informed through reading trade publications, other periodicals related to design field and maintain contact with trade membership organizations.&lt;/li&gt;
+&lt;li&gt;Demonstrate competent ability with InDesign, Adobe Illustrator, Photoshop, Apple OS, network and other support software needed to complete job requirements.&lt;/li&gt;
+&lt;li&gt;Understand functions of all peripheral equipment including scanners, hard drives (internal and external), CD drives and CD read-write devices and PGA TOUR networks.&lt;/li&gt;
+&lt;li&gt;Special Projects or other duties as assigned.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Qualified candidates will have the following:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor’s degree or Associate’s degree in graphic design required.&lt;/li&gt;
+&lt;li&gt;1-2 years experience in producing graphics on Macintosh workstations using page layout (InDesign), vector based (Illustrator/freehand) illustration, and raster imaging
+(Photoshop) software.&lt;/li&gt;
+&lt;li&gt;Ability to work 24-40 hrs/week
+Must be proficient with Adobe InDesign, Photoshop, Illustrator, and Adobe Acrobat in an Apple workstation environment.&lt;/li&gt;
+&lt;li&gt;Must be able to use scanners and networked components like printers and fax machine.&lt;/li&gt;
+&lt;li&gt;General understanding of web software including Dreamweaver and Flash.&lt;/li&gt;
+&lt;li&gt;Know understand typographical resources and font management software.&lt;/li&gt;
+&lt;li&gt;Able to use email and internet.&lt;/li&gt;
+&lt;li&gt;Pay rate for this role is $11/hr&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Mon, 11 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/temporary-graphicdesigner-creative-services-pga-tour-inc.-ponte-vedra-fl</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/temporary-graphicdesigner-creative-services-pga-tour-inc.-ponte-vedra-fl</guid>
+			</item>
 		
 			<item>
 				<title>Web Designer at Lender Processing Services in Jacksonville, FL</title>
@@ -51,7 +93,7 @@
 &lt;/ul&gt;
 
 </description>
-				<pubDate>Sun, 03 Feb 2013 11:41:56 -0500</pubDate>
+				<pubDate>Mon, 04 Feb 2013 00:00:00 -0500</pubDate>
 				<link>http://workcreative.net/jobs/web-designer-lender-processing-services-jacksonville-fl</link>
 				<guid isPermaLink="true">http://workcreative.net/jobs/web-designer-lender-processing-services-jacksonville-fl</guid>
 			</item>
