@@ -6,5 +6,32 @@
 		<link>http://workcreative.net/</link>
 		<atom:link href="http://workcreative.net/feeds/co-mdev.xml" rel="self" type="application/rss+xml" />
 		
+			<item>
+				<title>iOS Developer at Occipital in Boulder, CO</title>
+				<description>&lt;p&gt;Are you someone who deeply understands the bleeding edge of the Apple frameworks from the bare metal on up to the higher level APIs? Are you outrageously detail oriented? Then we really want to meet you.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve been pushing the boundaries of what&amp;rsquo;s possible with iOS since late 2008 with mobile computer vision apps like RedLaser (acquired by eBay in 2010) and 360 Panorama. We&amp;rsquo;re not just an &amp;ldquo;app company.&amp;rdquo; We strive to change the world through our products and their underlying state-of-the-art computer vision technology, all of which is built from scratch by our broadly-talented team.&lt;/p&gt;
+
+&lt;p&gt;We need someone who knows exactly what the Apple iOS SDK is doing under the covers and can help us build innovative computer vision applications the right way.&lt;/p&gt;
+
+&lt;h2&gt;Do most of the following apply to you?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Real artists ship &amp;ndash; You have a strong desire to help build something that is the best in the world and ship it.&lt;/li&gt;
+&lt;li&gt;Details matter &amp;ndash; You believe everything should have a reason, down to the placement of a button and the text of an error message.&lt;/li&gt;
+&lt;li&gt;You write bulletproof, well-commented and reusable code.&lt;/li&gt;
+&lt;li&gt;Thorough knowledge of memory management on iOS is ingrained in you. You can optimize the memory footprint of an app, avoid memory leaks like the plague, and you know what NSZombieEnabled is.&lt;/li&gt;
+&lt;li&gt;You can recite the exact setup / teardown process that UIKit follows for UIViewController and UIViews in your sleep.&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ve worked with AV Foundation, know what YCbCr is, and perhaps you&amp;rsquo;ve even written a camera-based application.&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ve built a game or other graphics-based app using Open GL ES 2.0 and think pixel shaders are the best thing since sliced bread.&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ve built an app that is live on the App Store that we can try.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ios-developer-occipital-boulder-co</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ios-developer-occipital-boulder-co</guid>
+			</item>
+		
 	</channel>
 </rss>

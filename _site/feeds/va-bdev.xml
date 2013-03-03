@@ -7,6 +7,37 @@
 		<atom:link href="http://workcreative.net/feeds/va-bdev.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Back-End Developer at Huddler in Herndon, VA</title>
+				<description>&lt;p&gt;We&amp;rsquo;re looking for emerging superstars &amp;ndash; developers that are still hungry and looking for exciting opportunities, but who also have a few years of relevant experience. Experience with scalability (caching, database sharding, etc.), performance tuning, community growth, and SEO are all considered major pluses, but ultimately great developers are problem solvers regardless of the challenge. You should be comfortable leading a small team of engineers and working collaboratively with our front-end team under tight deadlines.&lt;/p&gt;
+
+&lt;h2&gt;Required Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Object Oriented PHP5 experience&lt;/li&gt;
+&lt;li&gt;Database schema design and optimization (PostgreSQL a plus)&lt;/li&gt;
+&lt;li&gt;Comfortable working with other engineers on a small team&lt;/li&gt;
+&lt;li&gt;Fast learner and natural problem solver&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Bonus Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;JavaScript (YUI even better)&lt;/li&gt;
+&lt;li&gt;Optimization, scalability, database sharding and caching (memcached)&lt;/li&gt;
+&lt;li&gt;Security-aware&lt;/li&gt;
+&lt;li&gt;Experience implementing and customizing site-wide search (Lucene/Solr a big plus)&lt;/li&gt;
+&lt;li&gt;Search Engine Optimization experience&lt;/li&gt;
+&lt;li&gt;Management/distribution of large email lists&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sat, 23 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/back-end-developer-huddler-herndon-va</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/back-end-developer-huddler-herndon-va</guid>
+			</item>
+		
+			<item>
 				<title>Software Developer II - US Job at Rackspace in Blacksburg, VA</title>
 				<description>&lt;p&gt;Rackspace is seeking a talented Software Developer to help build a world class interface for customers to manage their IT infrastructure. Fanatical Support starts with a
 Control Panel that enables our customers to get things done faster and simpler than ever before. You&amp;rsquo;ll work with a strong, passionate engineering team to turn our public

@@ -7,6 +7,84 @@
 		<atom:link href="http://workcreative.net/feeds/co-bdev.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Back-End Web Developer at Occipital in Boulder, CO</title>
+				<description>&lt;p&gt;Do you want to push the boundaries of what’s possible in web technology to help build the future of augmented reality? Are you able to hold a complete understanding of a complex backend system in your head to build fast and reliable web applications and APIs? Do you have a deep understanding of how networking, databases, and servers work down to the bare metal? Then we really want to meet you.&lt;/p&gt;
+
+&lt;p&gt;We’re creating a computer vision platform to power the next generation of augmented reality. This is an incredibly complex endeavor that will require everything from sophisticated computer vision algorithms running on mobile devices, to vast storage of visual information, to taking advantage of GPU servers for fast parallel image processing. An important part of this platform will be the web backend system required to tie it all together.&lt;/p&gt;
+
+&lt;p&gt;Our currently launched product, 360 Panorama, has millions of users and huge potential that we have yet to tap. 360 Panorama users are helping us build the 360VERSE &amp;ndash; a way to explore the world through 360 views, searchable by location AND time (currently in beta, launching soon).&lt;/p&gt;
+
+&lt;p&gt;We’re looking for a web wizard who is excited to help us expand on 360 Panorama and 360VERSE and also help us build the computer vision platform that will usher in a new wave of augmented reality.&lt;/p&gt;
+
+&lt;h2&gt;If you have experience with most of the following, we’d love to talk to you:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Python or other server side scripting language experience (most of our backend is written in Python)&lt;/li&gt;
+&lt;li&gt;MVC frameworks (we use Django)&lt;/li&gt;
+&lt;li&gt;Node.js (used on our GPU servers)&lt;/li&gt;
+&lt;li&gt;Postgres or other SQL experience&lt;/li&gt;
+&lt;li&gt;Geospatial / location search using PostGIS&lt;/li&gt;
+&lt;li&gt;*nix server administration and automation&lt;/li&gt;
+&lt;li&gt;Usage of cloud services, including storage and server provisioning&lt;/li&gt;
+&lt;li&gt;Working knowledge of front-end technologies (e.g. Javascript, HTML5, WebGL)&lt;/li&gt;
+&lt;li&gt;Knowledge and ability to debug the full web stack.&lt;/li&gt;
+&lt;li&gt;Understanding of networking protocols and ability to implement and design new ones.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/back-end-web-developer-occipital-boulder-co</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/back-end-web-developer-occipital-boulder-co</guid>
+			</item>
+		
+			<item>
+				<title>Developer at Factory Design Labs in Denver, CO</title>
+				<description>&lt;h2&gt;POSITION SUMMARY:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We’re looking for someone that not only loves Rails, but also has a desire to understand the inner workings and underpinnings of the framework. Design driven development is what we aspire to and BDD is our focus. Our projects move at a fast pace, and Cucumber and Rspec help keep us honest. We work hard but we don&amp;rsquo;t take ourselves too seriously, so be prepared to write a lot of code while sipping whatever is in the keg this week.&lt;/li&gt;
+&lt;li&gt;The Developer is responsible for development and debugging of new and existing web applications and services. Primary responsibilities include writing specs and code to implement requirements for a given application. Excellent attention to detail and personal responsibility are a must.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;DUTIES AND RESPONSIBILITIES:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Follow Factory development methodologies (a healthy blend of the best the agile world has to offer)&lt;/li&gt;
+&lt;li&gt;Take initiative during discussions of process and development improvements&lt;/li&gt;
+&lt;li&gt;Write stories and specs&lt;/li&gt;
+&lt;li&gt;Produce stable, well-architected code&lt;/li&gt;
+&lt;li&gt;Occasionally wrangle some front-end code&lt;/li&gt;
+&lt;li&gt;Pair-program when needed&lt;/li&gt;
+&lt;li&gt;Provide complexity- and time-based estimates for projects&lt;/li&gt;
+&lt;li&gt;Keep up to date with the latest technologies&lt;/li&gt;
+&lt;li&gt;Some travel may be required&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;QUALIFICATIONS:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2+ year of backend web development experience, including database experience&lt;/li&gt;
+&lt;li&gt;6+ months experience with the Ruby language and the Rails framework, with a solid understanding of the Ruby on Rails stack&lt;/li&gt;
+&lt;li&gt;Must have a strong appricieation in OO programming and practices&lt;/li&gt;
+&lt;li&gt;Some knowledge of web standards, including HTML, CSS, and JavaScript&lt;/li&gt;
+&lt;li&gt;Past exposure to test driven development and agile development processes a plus&lt;/li&gt;
+&lt;li&gt;Experience with jQuery or similar JS frameworks a plus&lt;/li&gt;
+&lt;li&gt;Familiarity with version control systems (Git preferred)&lt;/li&gt;
+&lt;li&gt;Experience in an advertising agency setting a plus&lt;/li&gt;
+&lt;li&gt;Must be able to work outside of normal business hours as job duties or assignment requires, sometime  with little or no advance notification&lt;/li&gt;
+&lt;li&gt;Excellent communication skills with a willingness to speak with both internal stakeholders and clients&lt;/li&gt;
+&lt;li&gt;Tolerance for bad puns a bonus&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Fri, 15 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/developer-factory-design-labs-denver-co</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/developer-factory-design-labs-denver-co</guid>
+			</item>
+		
+			<item>
 				<title>Senior Ruby on Rails Developer at White Cheetah, Inc. in Fort Collins, CO</title>
 				<description>&lt;p&gt;Whitecheetah is looking high and low for incredible Ruby on Rails developers. If you&amp;rsquo;ve got awesome Rails skills and are plugged in enough to be reading this post, we know you already probably have a pretty good Rails gig going, so we&amp;rsquo;ll cut to the chase: We think you should jump ship and join Whitecheetah.&lt;/p&gt;
 

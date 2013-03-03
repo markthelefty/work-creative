@@ -6,5 +6,60 @@
 		<link>http://workcreative.net/</link>
 		<atom:link href="http://workcreative.net/feeds/me-fdev.xml" rel="self" type="application/rss+xml" />
 		
+			<item>
+				<title>Front End Developer at CashStar in Portland, ME</title>
+				<description>&lt;p&gt;CashStar has opportunities available for Junior and Senior Front End Developers.  Successful candidates will join a fun and diverse team working on the design and creation of eGift Card products for our rapidly growing international client roster. This includes many of the world’s leading brands: Gap, Starbucks, iTunes, Williams Sonoma, Coach, Chili’s, The Home Depot, Pizza Hut, Best Buy and many others.&lt;/p&gt;
+
+&lt;h2&gt;Junior Developers should have:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience hand-coding cross-browser HTML and CSS&lt;/li&gt;
+&lt;li&gt;Solid understanding of the DOM&lt;/li&gt;
+&lt;li&gt;Experience with HTML and CSS standards&lt;/li&gt;
+&lt;li&gt;Familiarity with JavaScript, jQuery and associated libraries&lt;/li&gt;
+&lt;li&gt;Familiarity with graphic design tools such as Photoshop or Illustrator&lt;/li&gt;
+&lt;li&gt;Familiarity with Bootstrap&lt;/li&gt;
+&lt;li&gt;Familiarity with progressive enhancement and responsive web design concepts&lt;/li&gt;
+&lt;li&gt;Knowledge of Accessibility and SEO&lt;/li&gt;
+&lt;li&gt;Exceptional problem solving skills and a fantastic attention to detail&lt;/li&gt;
+&lt;li&gt;Ability to work alone or as a member of a team&lt;/li&gt;
+&lt;li&gt;Ability to self manage and complete your work within the scoped timeframes&lt;/li&gt;
+&lt;li&gt;Excellent written and oral English-language skills&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Senior Developers should have all of the above plus:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience developing applications using HTML 5&lt;/li&gt;
+&lt;li&gt;Experience with CSS3 and preprocessors like LESS or SASS&lt;/li&gt;
+&lt;li&gt;Advanced JavaScript experience&lt;/li&gt;
+&lt;li&gt;Experience consuming service-oriented architectures and RESTful web services&lt;/li&gt;
+&lt;li&gt;Experience creating mobile or responsive interfaces&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Bonus Points for:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with Django and/or Python&lt;/li&gt;
+&lt;li&gt;Experience using Backbone.js and Underscore.js&lt;/li&gt;
+&lt;li&gt;Web CMS implementations&lt;/li&gt;
+&lt;li&gt;Interaction Design&lt;/li&gt;
+&lt;li&gt;Experience with Analytics and analysis&lt;/li&gt;
+&lt;li&gt;Open source contributions&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;If you don’t meet all of these criteria, that’s ok! A strong set of core skills, a positive
+attitude and the ability to learn quickly go a long way.&lt;/p&gt;
+
+&lt;p&gt;Apply now by sending in your resume and links to your website and/or portfolio if you have one.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 20 Feb 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-cashstar-portland-me</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-cashstar-portland-me</guid>
+			</item>
+		
 	</channel>
 </rss>

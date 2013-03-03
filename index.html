@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Work Creative
+layout: page
+title: Work Creative | Land Your Dream Job
 meta_description: WorkCreative.net brings you the very best web development, design, management & support jobs. We want you to land your dream job. Find yours today.
 meta_keywords: web development job, web design job, job web design, job in web design, job web development, web design job description, web site design job, web design job boards, web design job postings
 ---
@@ -22,7 +22,7 @@ meta_keywords: web development job, web design job, job web design, job in web d
                 		
                 		<!-- data -->
                 		<div class='list'>
-	                		{% for post in site.posts %}    	
+	                		{% for post in site.posts limit: 350 %}    	
                             <a class='list-item' href='{{post.url}}'>
                                 <div class='block'>
                                     <div class='type'>{{post.type}}</div>
