@@ -6,6 +6,12 @@ layout: default
     	<div class='span9'>
       	<div class='content-container'> 
       	<a class='back-to' href='http://workcreative.net'><i class='icon-arrow-left'></i> Back To Jobs</a>
+      		<div class="date-message alert alert-error">
+	      		<button type="button" class="close" data-dismiss="alert">&times;</button>
+	      			<h4>Aw Man.</h4>
+	      			<p>This job is <span class="daysOld"></span> days old, therefore it may no longer be available.</p> 
+	      			<a href="http://workcreative.net/">Checkout the latest ones here <i class="icon-share-alt"></i></a>
+	      	</div><!/date-message->
       		{% include share.html %}
       		<h1>{{page.title}}</h1>
       		<h6>at <strong>{{page.company}}</strong> in {{page.location}}</h6>
