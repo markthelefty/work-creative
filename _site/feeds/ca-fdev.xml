@@ -7,431 +7,460 @@
 		<atom:link href="http://workcreative.net/feeds/ca-fdev.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Front End Web Developer at Spendgo in San Francisco, CA</title>
-				<description>&lt;p&gt;We are looking for a motivated Front End Web Developer who understands that great web-based applications are not just about the back-end or front-end, but truly a team effort to create a seamless elegant product. Every day we are disrupting the consumer-merchant-brand ecosystem like no one else has, using our patent pending technology to collect real-time itemized transaction data. This means we are constantly facing new challenges finding better ways to build intelligent Big Data applications and manage an ever expanding and interrelated data set. Our development team is rapidly growing and we’re looking for a super-star to get in on the ground floor and help build our cloud products.&lt;/p&gt;
-
-&lt;h2&gt;Responsibilities&lt;/h2&gt;
-
-&lt;p&gt;The person who takes this position will play a key role in developing all of our web applications, portals, and analytics reports for consumers, merchants and brands. You will be entrusted with the design and delivery of key features of web products, and you ideas and input will be welcomed and expected.&lt;/p&gt;
-
-&lt;h2&gt;Required&lt;/h2&gt;
+				<title>Front-End Web Developer at Nest in Palo Alto, CA</title>
+				<description>&lt;h2&gt;The Work&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Experience working with, developing and building highly interaction Web 2.0 UI’s&lt;/li&gt;
-&lt;li&gt;Exceptionally strong in HTML, HTML5, JavaScript, UI design patterns, and solving cross-browser UI issues&lt;/li&gt;
-&lt;li&gt;Experience in Java/J2EE and Spring MVC Framework&lt;/li&gt;
-&lt;li&gt;Knowledge of open source technologies such as Apache, Tomcat, and MemCached&lt;/li&gt;
-&lt;li&gt;Knowledge of NoSQL databases such as MongoDB, Casandra, etc.&lt;/li&gt;
-&lt;li&gt;Understanding of RDMS and implementing optimized data structures&lt;/li&gt;
+&lt;li&gt;Maintain and update nest.com, nest.com/works, support.nest.com, etc&lt;/li&gt;
+&lt;li&gt;Utilize and show off the latest and greatest in HTML5, CSS, and JavaScript.&lt;/li&gt;
+&lt;li&gt;Help deliver best of breed blog posts on a regular basis.&lt;/li&gt;
+&lt;li&gt;Develop tests and standards for the web properties.&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;h2&gt;Bonus Points&lt;/h2&gt;
+&lt;h2&gt;Skills and experience needed:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Production level experience with display side languages and libraries. We use Jquery quite a bit, would be great if you did too&lt;/li&gt;
-&lt;li&gt;Experience working in a continuous integration development environment using Agile Methodologies like Scrum&lt;/li&gt;
-&lt;li&gt;Have worked on server side technologies like Spring, Hibernate and RDBMS&lt;/li&gt;
-&lt;li&gt;Experience with Adobe Photoshop&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Perks&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;San Francisco Office location with tons of free parking and close to public transportation&lt;/li&gt;
-&lt;li&gt;Great Compensation: We offer competitive salaries and significant equity&lt;/li&gt;
-&lt;li&gt;100% employer paid Medical, Dental and Vision benefits for all employees&lt;/li&gt;
-&lt;li&gt;Many nerf weapons to defend yourself during spontaneous battles with the sales team&lt;/li&gt;
+&lt;li&gt;Experience with front end web engineering (JavaScript, HTML5, CSS3/SCSS, AJAX)&lt;/li&gt;
+&lt;li&gt;Comfortable with backend tools and languages (Ruby, Python, Middleman, Yeoman, etc)&lt;/li&gt;
+&lt;li&gt;Comfortable using the best practices of version control (GitHub/Git)&lt;/li&gt;
+&lt;li&gt;Familiar with nuances between Mobile Safari and other WebKit based mobile browsers&lt;/li&gt;
+&lt;li&gt;Able to both guide and expand upon given designs&lt;/li&gt;
+&lt;li&gt;Knows when to use a library, and when it is better to role your own code for a particular interaction&lt;/li&gt;
+&lt;li&gt;Can make HTML, CSS, and JS sing and dance&lt;/li&gt;
+&lt;li&gt;Able to employ graceful fallbacks for older browsers (especially IE)&lt;/li&gt;
+&lt;li&gt;Able to communicate technical topics to non-technical people.&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
-				<pubDate>Thu, 28 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/front-end-web-developer-spendgo-san-francisco-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-spendgo-san-francisco-ca</guid>
+				<pubDate>Thu, 21 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/ruby-on-rails-developer-zoll-broomfield-co</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ruby-on-rails-developer-zoll-broomfield-co</guid>
 			</item>
 		
 			<item>
-				<title>Front-End Lead Web Developer at xOverTime in Sunnyvale, CA</title>
-				<description>&lt;p&gt;The Front-End Lead Web Developer will be responsible for designing and implementing the large scale JavaScript application running in the browser and will co-ordinate with the lead for the back-end server to design appropriate web APIs to support the user interface. This role reports to our Technical Founder and VP of Development to build the company’s cloud-based web application.&lt;/p&gt;
+				<title>Front-End/UI Developer at EVault, A Seagate Company in San Francisco, CA</title>
+				<description>&lt;p&gt;EVault, A Seagate Company, is a fast-growing industry leader in network-based data backup and recovery solutions.  We’ve been providing data protection and professional-grade storage solutions to small and mid-size businesses since 1997. Our technology platform is stable, secure, and optimized for WAN data transfer, and our recovery capabilities are ultra-reliable. We back it all with a rock-solid data center infrastructure and the industry&amp;rsquo;s highest quality customer service, while encouraging innovation and creativity by providing a casual and friendly work environment.&lt;/p&gt;
 
-&lt;h2&gt;Desired Skills &amp;amp; Experience:&lt;/h2&gt;
+&lt;p&gt;EVault is led by a team of storage industry veterans with a compelling vision and a proven track record. We also benefit from the backing and expertise of our parent company, Seagate—the largest storage company in the world.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;BS/CS and 5-7 years of industry experience.&lt;/li&gt;
-&lt;li&gt;Expert in JavaScript, HTML and CSS.&lt;/li&gt;
-&lt;li&gt;Passion for user interface design and the overall user experience.&lt;/li&gt;
-&lt;li&gt;Strong desire to build an application from scratch with a small team.&lt;/li&gt;
-&lt;li&gt;Proven project experience building single page web applications using a MVC style design.&lt;/li&gt;
-&lt;li&gt;Experience with Angular.js or Backbone.js is a major plus.&lt;/li&gt;
-&lt;li&gt;Committed to test driven development.&lt;/li&gt;
-&lt;li&gt;Current with latest HTML5 features being implemented by the leading browsers.&lt;/li&gt;
-&lt;li&gt;A preferred candidate will enjoy applying new technologies to push the boundaries of usability and interface design (e.g. CSS3, SVG and Canvas).&lt;/li&gt;
-&lt;li&gt;Knowledge of node.js for the server application framework is a plus.&lt;/li&gt;
-&lt;li&gt;Familiarity with mongoDB is desirable.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;If you are qualified, please send your resume to careers@xovertime.com.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 28 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/front-end-lead-web-developer-xovertime-sunnyvale-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-lead-web-developer-xovertime-sunnyvale-ca</guid>
-			</item>
-		
-			<item>
-				<title>Front end Developer at Pulsepoint in San Francisco, CA</title>
-				<description>&lt;p&gt;We are seeking an experienced Front-End Developer to join our User Experience Team. The ideal candidate should be able to quickly hand-code clean HTML and CSS from Comps and Wireframes. You will report to the Manager of Front-end Development. You will take on new development initiatives and platform enhancements on Grainger.com focusing on front-end development and client-side interactions using HTML, XHTML, CSS, XML, JavaScript, and other related interactive technologies.&lt;/p&gt;
-
-&lt;h2&gt;Major responsibilities and duties&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Generate and maintain front-end code (HTML / CSS / JavaScript)&lt;/li&gt;
-&lt;li&gt;Working to improve site performance&lt;/li&gt;
-&lt;li&gt;Develop and maintain reusable code libraries&lt;/li&gt;
-&lt;li&gt;Accurately estimating and tracking your time across multiple simultaneous projects.&lt;/li&gt;
-&lt;li&gt;Work with a team of developers&lt;/li&gt;
-&lt;li&gt;Ability to learn and adapt to new software/hardware technology and incorporate into production process.&lt;/li&gt;
-&lt;li&gt;collaborating on new design concepts&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Position Requirements&lt;/h2&gt;
-
-&lt;h3&gt;Core Competencies&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Expert HTML, XHTML, DHTML, CSS, XML programming skills.&lt;/li&gt;
-&lt;li&gt;Ability to create clean, precise browser-compatible code&lt;/li&gt;
-&lt;li&gt;Proficient in JavaScript / Dojo / jQuery.&lt;/li&gt;
-&lt;li&gt;Proficient with Adobe Photoshop.&lt;/li&gt;
-&lt;li&gt;Basic understanding of interaction design and user-centered design methods &amp;amp; practices&lt;/li&gt;
-&lt;li&gt;Professional experience collaborating with design and development teams on large-scale projects.&lt;/li&gt;
-&lt;li&gt;Excellent oral communication skills.&lt;/li&gt;
-&lt;li&gt;Ability to prioritize and track multiple tasks across multiple projects, under tight deadlines.&lt;/li&gt;
-&lt;li&gt;Enjoy working closely with others, and respectful of other perspectives.&lt;/li&gt;
-&lt;li&gt;Expert conflict resolution skills and being able to negotiate with stakeholders.&lt;/li&gt;
-&lt;li&gt;Willingness to switch gears quickly and be flexible to work on concurrent projects.&lt;/li&gt;
-&lt;li&gt;Experience working with the Agile development methodology&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h3&gt;Education and Experience&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bachelor’s degree.&lt;/li&gt;
-&lt;li&gt;A minimum of 2 to 3 years experience of hands-on web development experience.&lt;/li&gt;
-&lt;li&gt;Experience Web Accessibility Standards a plus.&lt;/li&gt;
-&lt;li&gt;Experience with Broad Vision, Hybris, JSP, Swing, Struts a plus&lt;/li&gt;
-&lt;li&gt;Degree in Marketing, Visual Communication, Graphic Arts, Computer Science or related area a plus.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-				<pubDate>Thu, 28 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/front-end-developer-pulsepoint-san-francisco-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-pulsepoint-san-francisco-ca</guid>
-			</item>
-		
-			<item>
-				<title>Front End Developer at GumGum in Santa Monica, CA</title>
-				<description>&lt;p&gt;Reaching millions of consumers as they actively view images across hundreds of premium websites, GumGum serves contextually relevant ads that yield far higher engagement than those of traditional display advertising units. In addition to helping advertisers reach highly targeted audiences in a brand-safe environment, GumGum gives publishers a new way to earn revenue by overlaying interactive ad units on the photos within their sites. Founded in 2007, GumGum is headquartered in Santa Monica, California. Investors include GRP Partners, First Round Capital, New Enterprise Associates and Crosscut Ventures. For more information, visit &lt;a href=&quot;http://www.gumgum.com&quot;&gt;http://www.gumgum.com&lt;/a&gt; or call (310) 260-9666.&lt;/p&gt;
+&lt;p&gt;We are seeking a UI Developer with the following:&lt;/p&gt;
 
 &lt;h2&gt;Responsibilities:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Develop and implement static and rich-media In-Image ad creatives using HTML5, CSS3, Javascript, and Flash.&lt;/li&gt;
-&lt;li&gt;Test appearance and functionality of ad creatives on multiple desktop and mobile platforms.&lt;/li&gt;
-&lt;li&gt;Support and troubleshoot issues with existing campaigns.&lt;/li&gt;
-&lt;li&gt;Work closely with graphic designers, account managers, and ad operations teams.&lt;/li&gt;
+&lt;li&gt;Work with development team to quickly understand requirements and come up with a solution proposal&lt;/li&gt;
+&lt;li&gt;Write excellent design and functional documents&lt;/li&gt;
+&lt;li&gt;Communicate design and architecture to cross functional teams&lt;/li&gt;
+&lt;li&gt;Design and development of wireframes and flows&lt;/li&gt;
+&lt;li&gt;Assist in conducting performance testing of application and GUI components&lt;/li&gt;
+&lt;li&gt;Establishing and maintaining high performance GUI web delivery function&lt;/li&gt;
+&lt;li&gt;Selection and implementation of appropriate tools, templates, libraries and standards for the creation of quality GUI components&lt;/li&gt;
+&lt;li&gt;Work with management/leadership/architect to set design direction and guide accordingly&lt;/li&gt;
+&lt;li&gt;Review and evaluate designs and project activities against product goals and requirements&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;h2&gt;Requirements:&lt;/h2&gt;
+&lt;h2&gt;Requirements/Knowledge and Skills:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Solid foundation in front-end development skills, e.g. HTML5, CSS3, JavaScript, jQuery, Flash.&lt;/li&gt;
-&lt;li&gt;Experience ensuring consistency across popular web browsers.&lt;/li&gt;
-&lt;li&gt;Strong understanding of responsive design concepts.&lt;/li&gt;
-&lt;li&gt;Interest and experience in web and mobile advertising is a plus.&lt;/li&gt;
-&lt;li&gt;Strong communications skills and &amp;ldquo;customer service attitude&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;5+ years of experience developing appealing browser-based interfaces&lt;/li&gt;
+&lt;li&gt;Expertise with Javascript and jQuery&lt;/li&gt;
+&lt;li&gt;Development experience with AJAX, HTML5, CSS&lt;/li&gt;
+&lt;li&gt;Knowledge of responsive web design, graceful degradation, and progressive enhancement&lt;/li&gt;
+&lt;li&gt;Experience translating wireframes to fully functional code that is modular and re-usable.Experience using a range of open source technologies and contributing to an open source project&lt;/li&gt;
+&lt;li&gt;Excellent analytical and problem solving skills&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;h2&gt;Perks:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Stock options, 401k, medical/dental&lt;/li&gt;
-&lt;li&gt;Netflix-style vacation policy&lt;/li&gt;
-&lt;li&gt;Located in hotbed of tech startups blocks from the beach!&lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;p&gt;EVault, A Seagate Company, is an Equal Opportunity Employer committed to a diverse workforce.^&lt;/p&gt;
 </description>
-				<pubDate>Thu, 28 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/front-end-developer-gumgum-santa-monica-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-gumgum-santa-monica-ca</guid>
+				<pubDate>Thu, 21 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/front-end-ui-developer-evault-a-seagate-company-san-francisco-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-ui-developer-evault-a-seagate-company-san-francisco-ca</guid>
 			</item>
 		
 			<item>
-				<title>Front End Developer at art.com in Emeryville, CA</title>
-				<description>&lt;p&gt;The Front End Developer works within Creative Services as a member of the web production team translating e-mail, landing page designs and website updates to HTML for internal clients. Major responsibilities include mentoring junior level developers, HTML/CSS/email coding, acting as a liaison between technical and non-technical stakeholders, and some UX design.&lt;/p&gt;
+				<title>Web Developer Internship at Plantronics in Santa Cruz, CA</title>
+				<description>&lt;p&gt;Working at Plantronics gives you the rare opportunity to make a difference and feel valued, respected and supported, both personally and professionally. You&amp;rsquo;ll find the ideal blend of a casual, fun, friendly atmosphere with a strong commitment to the company&amp;rsquo;s success.&lt;/p&gt;
 
-&lt;h2&gt;RESPONSIBILITIES:&lt;/h2&gt;
+&lt;p&gt;Since 1961 Plantronics (NYSE: PLT) people have been bringing sound innovation to the world.  We are a world leader in personal audio communications for professionals and consumers. Our reputation for excellence is built on innovative products, a people-centered workplace and strong ethics.&lt;/p&gt;
+
+&lt;p&gt;Headquartered in Santa Cruz, California, Plantronics and its Clarity division have offices in 20 countries, including facilities in Mexico, China, and Europe.  Plantronics offers a generous mix of health, financial and lifestyle benefits as well as career development opportunities to its associates.  Discover Plantronics.&lt;/p&gt;
+
+&lt;p&gt;PEOPLE-PLACE-PURPOSE-POTENTIAL&lt;/p&gt;
+
+&lt;p&gt;The Web Development team within the Digital Marketing department is looking for someone to assist with the development of our next generation product comparison and product search features.  The project involves analyzing product specifications and organizing them into groups as well as transforming them into terms that a visitor might find useful when searching on Plantronics.com.  Analysis of current best practices in the areas of product comparison and search will also be performed.* The work products to be delivered at the end of the project are a design document for each of the features, and if time allows, a working prototype based on findings from the best practice research that incorporate the specifications and related transformations from the product catalog.  This will require working closely with the Web Development and Production teams within Digital Marketing.&lt;/p&gt;
+
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Work as a part of the HTML/CSS coding team reporting to the Web Production Manager&lt;/li&gt;
-&lt;li&gt;Assist in mentoring junior developers and contractors on a day-to-day basis&lt;/li&gt;
-&lt;li&gt;Manage external creative services agencies on a project-by-project basis&lt;/li&gt;
-&lt;li&gt;Accurately translate Photoshop comps to web and e-mail ready HTML according to specifications&lt;/li&gt;
-&lt;li&gt;Optimize graphics for web usage&lt;/li&gt;
-&lt;li&gt;Perform quality assurance testing of e-mails and landing pages&lt;/li&gt;
-&lt;li&gt;Provide UX and interactive design input that creatively and successfully addresses business objectives&lt;/li&gt;
-&lt;li&gt;Establish solid relationships within the art.com Engineering department&lt;/li&gt;
-&lt;li&gt;Act as a liaison between Creative Services and Engineering teams&lt;/li&gt;
+&lt;li&gt;This role requires knowledge of core web technologies such as HTML, JavaScript, and CSS.&lt;/li&gt;
+&lt;li&gt;Additional knowledge in PHP or JSP technologies is a plus.&lt;/li&gt;
+&lt;li&gt;Must be enrolled in an U.S. accredited higher educational institution on a full-time basis and in good academic standing&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;h2&gt;REQUIREMENTS:&lt;/h2&gt;
+&lt;p&gt;Plantronics is an Affirmative Action/Equal Opportunity Employer.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Undergraduate degree &amp;ndash; and preferably additional qualifications in Creative design (Diploma / Degree in Applied Arts / Design)&lt;/li&gt;
-&lt;li&gt;3-4 years of work experience&lt;/li&gt;
-&lt;li&gt;Excellent communication skills across a variety of disciplines (i.e.: can flawlessly converse with technical and non-technical individuals alike)&lt;/li&gt;
-&lt;li&gt;Good performance in a Creative / Web Production role&lt;/li&gt;
-&lt;li&gt;Previous experience managing junior level developers, contractors, and external creative services agencies is a plus&lt;/li&gt;
-&lt;li&gt;Excellent knowledge of HTML and CSS&lt;/li&gt;
-&lt;li&gt;Javascript and jQuery knowledge and experience preferred (familiarity implementing scripts as well as hand-coded JS or jQuery)&lt;/li&gt;
-&lt;li&gt;Good knowledge of email coding best practices &amp;ndash; expert knowledge of table-based coding practices&lt;/li&gt;
-&lt;li&gt;Excellent knowledge of web browser irregularities and Internet Explorer 7.0+ debugging experience&lt;/li&gt;
-&lt;li&gt;Must be very conversant with design tools such as Adobe PhotoShop and DreamWeaver&lt;/li&gt;
-&lt;li&gt;Must be highly organized, goal oriented and extremely attentive to detail&lt;/li&gt;
-&lt;li&gt;Knowledge of Flash a plus&lt;/li&gt;
-&lt;li&gt;Ability to work under tight deadlines&lt;/li&gt;
-&lt;li&gt;Proven team player as well as independent achiever&lt;/li&gt;
-&lt;li&gt;Excellent problem solving skills&lt;/li&gt;
-&lt;li&gt;A voracious appetite for internet knowledge&lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;p&gt;To all recruitment agencies: Plantronics does not accept agency resumes. Please do not forward resumes to our jobs alias, Plantronics employees or any other company location. Plantronics is not responsible for any fees related to unsolicited resumes.&lt;/p&gt;
 </description>
-				<pubDate>Wed, 27 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/front-end-developer-art.com-emeryville-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-art.com-emeryville-ca</guid>
+				<pubDate>Wed, 20 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-internship-plantronics-santa-cruz-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-internship-plantronics-santa-cruz-ca</guid>
 			</item>
 		
 			<item>
-				<title>Front End Web Developer at Spendgo in San Francisco, CA</title>
-				<description>&lt;p&gt;We are looking for a motivated Front End Web Developer who understands that great web-based applications are not just about the back-end or front-end, but truly a team effort to create a seamless elegant product. Every day we are disrupting the consumer-merchant-brand ecosystem like no one else has, using our patent pending technology to collect real-time itemized transaction data. This means we are constantly facing new challenges finding better ways to build intelligent Big Data applications and manage an ever expanding and interrelated data set. Our development team is rapidly growing and we’re looking for a super-star to get in on the ground floor and help build our cloud products.&lt;/p&gt;
+				<title>Web App UI Developer at Bluenose Analytics in San Francisco, CA</title>
+				<description>&lt;p&gt;Bluenose Analytics is building a CRM for the subscription economy by creating value from the intersection of product usage and CRM data.  Our initial analytics application gives SaaS vendors an &amp;ldquo;early warning system&amp;rdquo; of reports and alerts to drive better trial conversions, prevent churn and grow recurring revenue.  For example, SaaS users with declining product usage might be at risk to renew their subscription.  Bluenose spots these patterns and alerts the vendor before it&amp;rsquo;s too late. We are backed by top-­-tier venture investors.&lt;/p&gt;
 
-&lt;h2&gt;Responsibilities&lt;/h2&gt;
-
-&lt;p&gt;The person who takes this position will play a key role in developing all of our web applications, portals, and analytics reports for consumers, merchants and brands. You will be entrusted with the design and delivery of key features of web products, and you ideas and input will be welcomed and expected.&lt;/p&gt;
-
-&lt;h2&gt;Required&lt;/h2&gt;
+&lt;h2&gt;Success in this role means:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Experience working with, developing and building highly interaction Web 2.0 UI’s&lt;/li&gt;
-&lt;li&gt;Exceptionally strong in HTML, HTML5, JavaScript, UI design patterns, and solving cross-browser UI issues&lt;/li&gt;
-&lt;li&gt;Experience in Java/J2EE and Spring MVC Framework&lt;/li&gt;
-&lt;li&gt;Knowledge of open source technologies such as Apache, Tomcat, and MemCached&lt;/li&gt;
-&lt;li&gt;Knowledge of NoSQL databases such as MongoDB, Casandra, etc.&lt;/li&gt;
-&lt;li&gt;Understanding of RDMS and implementing optimized data structures&lt;/li&gt;
+&lt;li&gt;Delighting users with an intuitive user experience&lt;/li&gt;
+&lt;li&gt;Taming complex data and make interaction a joy&lt;/li&gt;
+&lt;li&gt;Iteration is your middle name&lt;/li&gt;
+&lt;li&gt;A desire to learn more about Big Data and analytics&lt;/li&gt;
+&lt;li&gt;Seeking and ingesting frequent customer feedback&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h2&gt;Bonus Points&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Production level experience with display side languages and libraries. We use Jquery quite a bit, would be great if you did too&lt;/li&gt;
-&lt;li&gt;Experience working in a continuous integration development environment using Agile Methodologies like Scrum&lt;/li&gt;
-&lt;li&gt;Have worked on server side technologies like Spring, Hibernate and RDBMS&lt;/li&gt;
-&lt;li&gt;Experience with Adobe Photoshop&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Perks&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;San Francisco Office location with tons of free parking and close to public transportation&lt;/li&gt;
-&lt;li&gt;Great Compensation: We offer competitive salaries and significant equity&lt;/li&gt;
-&lt;li&gt;100% employer paid Medical, Dental and Vision benefits for all employees&lt;/li&gt;
-&lt;li&gt;Many nerf weapons to defend yourself during spontaneous battles with the sales team&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-				<pubDate>Wed, 20 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/front-end-web-developer-spendgo-san-francisco-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-spendgo-san-francisco-ca</guid>
-			</item>
-		
-			<item>
-				<title>Front End Developer at HotStudio in San Francisco, CA</title>
-				<description>&lt;p&gt;Hot Studio is a leading experience design company with offices in San Francisco and New York. Dedicated to creating elegant solutions for complex design challenges, we collaborate with business leaders, innovative organizations, and emerging companies to create breakthrough products and services that have global reach and local impact. Our clients include Cisco, Dow Jones, Warner Music Group, Palm, Gap, eBay, Zinio, Ancestry.com, SFMOMA, and California Academy of Sciences.&lt;/p&gt;
-
-&lt;h2&gt;Responsibilities&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Articulate the level of effort and timing of projects to producers/project managers&lt;/li&gt;
-&lt;li&gt;Share technical considerations with visual designers and UX designers to support the creation of accurate design comps&lt;/li&gt;
-&lt;li&gt;Take the lead in translating design comps into HTML, CSS and JavaScript files&lt;/li&gt;
-&lt;li&gt;Work with the design team to produce prototypes that help illustrate concepts to the team and to clients&lt;/li&gt;
-&lt;li&gt;Work with the senior web application developer to integrate back end code&lt;/li&gt;
-&lt;li&gt;Create multiple design options within a set period of time&lt;/li&gt;
-&lt;li&gt;Document best practices and code standards&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Required Skills &amp;amp; Qualifications&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ability to author advanced HTML, CSS and JavaScript&lt;/li&gt;
-&lt;li&gt;Knowledge of browser/platform compatibility issues and techniques for front-end development&lt;/li&gt;
-&lt;li&gt;Experience with Web UI debugging tools&lt;/li&gt;
-&lt;li&gt;Understanding of requirements for back-end integration with PHP or similar technologies&lt;/li&gt;
-&lt;li&gt;Experience with bug tracking and version control&lt;/li&gt;
-&lt;li&gt;Experience with Photoshop and web image production&lt;/li&gt;
-&lt;li&gt;Mac and Windows proficient&lt;/li&gt;
-&lt;li&gt;Ability to communicate effectively with information architects and programmers&lt;/li&gt;
-&lt;li&gt;Working knowledge of both waterfall and Agile development methodologies&lt;/li&gt;
-&lt;li&gt;Strong verbal and written communication skills&lt;/li&gt;
-&lt;li&gt;Passion for and experience with video a huge plus&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;Please include a link to your portfolio in your resume&lt;/p&gt;
-
-&lt;p&gt;Hot Studio is an Equal Opportunity Employer&lt;/p&gt;
-</description>
-				<pubDate>Wed, 20 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/front-end-developer-hotstudio-san-francisco-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-hotstudio-san-francisco-ca</guid>
-			</item>
-		
-			<item>
-				<title>Front-End Developer at Demandforce in San Francisco, CA</title>
-				<description>&lt;p&gt;Demandforce is looking for an outstanding front-end developer with a positive can-do attitude. The position will work from the San Francisco office, in an energy-filled startup environment, with a motivated team that is getting results and having fun. This role will be a key asset in the future growth of the company. The position reports to the Corporate Marketing Manager.&lt;/p&gt;
 
 &lt;h2&gt;Responsibilities:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Build new customer facing web applications to increase online conversion&lt;/li&gt;
-&lt;li&gt;Think creatively about how to take the corporate website to the next level&lt;/li&gt;
-&lt;li&gt;Own core processes with stakeholders for landing page and micro site development&lt;/li&gt;
-&lt;li&gt;Implement reporting and analytics on an ongoing basis&lt;/li&gt;
-&lt;li&gt;Push the boundaries with JQuery, Prototype (optional), or other JS platforms&lt;/li&gt;
-&lt;li&gt;Execute reporting and code cleanup responsibilities&lt;/li&gt;
-&lt;li&gt;Operate in a pseudo-agile development environment leveraging GIT repositories&lt;/li&gt;
-&lt;li&gt;Improve upon corporate content management system (Crown Peak)&lt;/li&gt;
-&lt;li&gt;Implement and report on main website and landing pages testing&lt;/li&gt;
-&lt;li&gt;Own high and low level integration efforts with Marketo and Salesforce&lt;/li&gt;
-&lt;li&gt;Ensure cross browser compatibility, including mobile devices&lt;/li&gt;
-&lt;li&gt;Support all marketing efforts on corporate website&lt;/li&gt;
+&lt;li&gt;Lead UX responsibilities for new product development&lt;/li&gt;
+&lt;li&gt;Develop wireframes&lt;/li&gt;
+&lt;li&gt;Design mock-ups and novel user interactions&lt;/li&gt;
+&lt;li&gt;Translate them to working, production code&lt;/li&gt;
+&lt;li&gt;Brainstorm new features and models&lt;/li&gt;
+&lt;li&gt;Make  enterprise  software  look  and  feel  like  it  rightfully  belongs  next  to  the latest consumer application&lt;/li&gt;
 &lt;/ul&gt;
 
 
 &lt;h2&gt;Qualifications:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Must have 3+ years relevant work experience in a front-end development roll.&lt;/li&gt;
-&lt;li&gt;Proven knowledge working with jQuery, JavaScript, and other front end technologies&lt;/li&gt;
-&lt;li&gt;Knowledge of CMS technology such as Crown Peak (SAAS), WordPress, Drupal&lt;/li&gt;
-&lt;li&gt;The ability to quickly think on your feet while working in an agile friendly environment&lt;/li&gt;
-&lt;li&gt;Thorough knowledge of HTML5 and CSS3.&lt;/li&gt;
-&lt;li&gt;Understanding of the DOM, cross-browser issues, and how to resolve them.&lt;/li&gt;
-&lt;li&gt;Experience working with Photoshop to turn designs into working hi-fidelity web applications.&lt;/li&gt;
-&lt;li&gt;Ability to easily learn and work with someone else’s code&lt;/li&gt;
-&lt;li&gt;Knowledge of A/B and multivariate testing tools&lt;/li&gt;
-&lt;li&gt;Knowledge of analytics packages&lt;/li&gt;
-&lt;li&gt;Experience with Salesforce and Marketo a plus&lt;/li&gt;
-&lt;li&gt;BS/MS in Information Systems, Computer Science or a related field, or equivalent work experience.&lt;/li&gt;
-&lt;li&gt;We are looking for high caliber, positive individuals to join our team as we continue to build on our great momentum.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;About Demandforce&lt;/h2&gt;
-
-&lt;p&gt;Demandforce, Inc., a leading online marketing and communication software service from Intuit Inc. (Nasdaq:INTU), helps local businesses thrive in the Internet economy using email communications, text messaging and online services. Demandforce combines an award winning communication platform with best-in-class reputation and networking tools into one powerful web-based application that seamlessly integrates with existing workflow systems to help build businesses a strong online reputation and leverage local network marketing. Founded in 2003, Demandforce has collected over 1.6 Million consumer reviews, which are published across the Web, and has generated over 1.5 Billion dollars for its clients. Through the Demandforce Network, its end clients are connected to over 30 Million local consumers. For more information on how you can utilize Demandforce for your business, please visit &lt;a href=&quot;http://www.demandforce.com&quot;&gt;http://www.demandforce.com&lt;/a&gt;&lt;/p&gt;
-</description>
-				<pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/front-end-developer-demandforce-san-francisco-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-demandforce-san-francisco-ca</guid>
-			</item>
-		
-			<item>
-				<title>Web Developer/Front-End Engineer at AppFolio in Goleta, CA</title>
-				<description>&lt;p&gt;Are you looking to build software that matters? Do you want to work with a brilliant engineering team that really cares that users love their software?&lt;/p&gt;
-
-&lt;p&gt;AppFolio is a fast growing and funded startup in Santa Barbara, CA that is focused on building exciting web-based business applications that customers rave about. We take pride in finding new ways to delight our customers.&lt;/p&gt;
-
-&lt;p&gt;You will join our engineering team to design and build user interfaces that are used millions of times each month and help to make people&amp;rsquo;s lives a little bit better. Although all our engineers work across the entire development stack, we are looking to hire specialists specifically in the front-end who can provide expert level guidance to our team and stay on top of emerging technologies.&lt;/p&gt;
-
-&lt;h2&gt;We are looking for people with expert-level proficiency in:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;HTML(5)&lt;/li&gt;
-&lt;li&gt;CSS(3)&lt;/li&gt;
-&lt;li&gt;JavaScript (and libraries like jQuery, Modernizr, Backbone, Underscore, etc..)&lt;/li&gt;
-&lt;li&gt;Cross-browser support and progressive enhancement&lt;/li&gt;
-&lt;li&gt;Web Inspector/Firebug including the JavaScript debugger and web console&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;Expert-level proficiency means:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You follow industry leaders and the latest w3 specs to stay on the cutting edge of new technology.&lt;/li&gt;
-&lt;li&gt;You’ve downloaded and installed nightly builds of Chrome, Webkit, and Firefox just to try out new features.&lt;/li&gt;
-&lt;li&gt;You don’t just use JavaScript libraries, you know how they work. You’ve probably submitted patches to popular libraries or even built your own.&lt;/li&gt;
-&lt;li&gt;HTML semantics is important to you; you’d never have a hard time deciding between using a &amp;lsquo;&lt;em&gt;div&lt;/em&gt;&amp;rsquo; and a &amp;lsquo;&lt;em&gt;ul&lt;/em&gt;&amp;rsquo;.&lt;/li&gt;
-&lt;li&gt;You have a solid understanding of CSS selector specificity and you don’t resort to just adding another ID to make one rule trump another.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h2&gt;If you have one or more of the skills below, even better:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Experience with Ruby on Rails or similar MVC application framework.&lt;/li&gt;
-&lt;li&gt;Experience with SASS, Compass, CoffeeScript or other language preprocessors.&lt;/li&gt;
+&lt;li&gt;3-5 years making browser-based magic&lt;/li&gt;
+&lt;li&gt;HTML5, CSS3, jQuery (and all their buddies) are your best friends&lt;/li&gt;
+&lt;li&gt;Working experience of popular web app frameworks is most excellent (RoR, Groovy on Grails)&lt;/li&gt;
+&lt;li&gt;Self-directed, motivated, passionate when it comes to user experience&lt;/li&gt;
+&lt;li&gt;Mobile development a plus&lt;/li&gt;
+&lt;li&gt;Desire to define an early-stage start-up culture&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
-				<pubDate>Sat, 16 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/web-developer-front-end-engineer-appfolio-goleta-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-front-end-engineer-appfolio-goleta-ca</guid>
+				<pubDate>Wed, 20 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/web-app-ui-developer-bluenose-analytics-san-francisco-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-app-ui-developer-bluenose-analytics-san-francisco-ca</guid>
 			</item>
 		
 			<item>
-				<title>Senior Graphic Designer/Developer at Pandora in Oakland, CA</title>
-				<description>&lt;p&gt;At Pandora we have a single mission: To play only the music you&amp;rsquo;ll love. (Okay, we&amp;rsquo;ve added comedy as well – so we&amp;rsquo;re also up for playing some jokes you&amp;rsquo;ll love). To do this, it takes lots and lots of smart, self-motivated, and passionate people. Our teams are innovating in everything we do — from our playlists, to our ad services, to making Pandora available everywhere. All of that is in the service of building the best product we can, so that you can simply enjoy the music.&lt;/p&gt;
+				<title>Front-End Developer at BEAR Data Solutions in Los Angeles, CA</title>
+				<description>&lt;p&gt;Bear Data Solutions is named as one of the fastest growing companies by Inc. magazine in 2010 continues to grow and evolve as a successful IT solutions and services provider. The BEAR Data Team is a group of highly experienced and talented professionals who are passionate about delivering five star service and solutions to their clients.&lt;/p&gt;
 
-&lt;p&gt;We have a terrific opportunity for a talented, inspired, self-motivated, and responsible graphic designer to work on creative advertising projects at Pandora. In this position you will report into the creative team, working with many different disciplines, to execute on advertising projects. This position will require traditional digital graphic design skills, along with HTML/CSS development skills. To bring to life ad campaigns, from the custom level to the standard campaign. Delivering engaging experiences across web, mobile and tablet.&lt;/p&gt;
+&lt;h2&gt;Job Description:&lt;/h2&gt;
+
+&lt;p&gt;Our customer is seeking a FrontEnd Developer with 5 years of web development experience and extensive knowledge in JavaScript Frameworks/Toolkits.&lt;/p&gt;
 
 &lt;h2&gt;Responsibilities:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Mobile/Web/Tablet Advertising Design &amp;ndash;  creative design and production of custom ad experiences and standard ad campaigns (banners, wallpapers, custom digital sites)&lt;/li&gt;
-&lt;li&gt;Authoring of HTML and CSS, to build functional, interactive experiences across all platforms.&lt;/li&gt;
-&lt;li&gt;Juggle an array of ongoing client projects, ability to meet deadlines and communicate clearly across the team and across other teams.&lt;/li&gt;
+&lt;li&gt;Develop Client side applications using HTML, CSS, JAVASCRIPT&lt;/li&gt;
+&lt;li&gt;Identify, communicate and debug short and long term Front End Solutions&lt;/li&gt;
+&lt;li&gt;Assist in defining systems architecture from a scripting, efficiency, caching, and client-side performance&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;h2&gt;Requirements:&lt;/h2&gt;
+&lt;h2&gt;Qualifications:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Demonstrated ability to conceptualize creative, solve visual problems with inadequate assets to meet project goals.&lt;/li&gt;
-&lt;li&gt;Have a strong portfolio that demonstrates experience in digital creative (web/mobile/tablet)&lt;/li&gt;
-&lt;li&gt;At least 4 years of relevant experience, including web/mobile design/HTML/CSS&lt;/li&gt;
-&lt;li&gt;BA or BFA in Graphic Design or related field&lt;/li&gt;
-&lt;li&gt;Expert Adobe Suite skills (photoshop, illustrator)&lt;/li&gt;
-&lt;li&gt;Strong Experience coding HTML and CSS&lt;/li&gt;
-&lt;li&gt;Working knowledge of JQuery/Javascript&lt;/li&gt;
-&lt;li&gt;Experience working with Engineer/Developer teams to bring front end to life&lt;/li&gt;
-&lt;li&gt;Flash experience a plus but not required&lt;/li&gt;
-&lt;li&gt;Experience in rich media toolkits and ad builders is a plus but not a requirement, training can be provided.&lt;/li&gt;
+&lt;li&gt;At least 5 years of web development experience, preferably in media and entertainment&lt;/li&gt;
+&lt;li&gt;Strong knowledge in coding native JavaScript, HTML4/5, and CSS2/3 in non-WYSIWYG editors (e.g. Eclipse)&lt;/li&gt;
+&lt;li&gt;Experience in JavaScript Frameworks/Toolkits (e.g. jQuery, YUI)&lt;/li&gt;
+&lt;li&gt;Experience in live data applications using AJAX/JSONP with JSON/XML/HTML content&lt;/li&gt;
+&lt;li&gt;Be able to debug and analyse JavaScript/CSS/http requests using updated tools and methodologies&lt;/li&gt;
+&lt;li&gt;Understand the principles of object-oriented programming and design patterns&lt;/li&gt;
+&lt;li&gt;Experience in cross-browser/fullback solutions and implementing future proof solutions&lt;/li&gt;
+&lt;li&gt;Experience in page speed optimizations such as browser cache, media asset preloading, efficient JavaScript processing techniques&lt;/li&gt;
+&lt;li&gt;Understanding of version control concepts and tools, particularly SVN, with branching and merging (or equivalent) knowledge&lt;/li&gt;
+&lt;li&gt;Solid understanding of web standards and IA/UI best practices&lt;/li&gt;
+&lt;li&gt;Resourcefulness in troubleshooting complex problems, finding available internal solutions, as well as developing new solutions based on external sources.&lt;/li&gt;
+&lt;li&gt;Preferably knowledge in any CMS environment&lt;/li&gt;
+&lt;li&gt;Understands Agile or other project development methodologies&lt;/li&gt;
+&lt;li&gt;Ability to multitask and manage multiple complex initiatives simultaneously&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;For more information, please visit us at www.beardatasolutions.com&lt;/p&gt;
+
+&lt;p&gt;Please send resume to resumes@bdata.com&lt;/p&gt;
+</description>
+				<pubDate>Tue, 19 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-bear-data-solutions-los-angeles-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-bear-data-solutions-los-angeles-ca</guid>
+			</item>
+		
+			<item>
+				<title>Jr. Web &amp; Mobile Developer at Ghost Group in Newport Beach, CA</title>
+				<description>&lt;p&gt;We&amp;rsquo;re an awesome, Orange County based, IT company with a fun atmosphere to work in.We have a lot of new projects starting that you would be working on, providing you with a lot of hands on experience.
+Check us out at http://legalmarijuanadispensary.com/&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re looking for motivated Computer Science majors at major Universities to join our team!
+10-25 hours per week, $15/hour. You&amp;rsquo;ll gain a lot of experience and get to work in a great environment!
+You will be working out of our brand new office in Newport Beach&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Opportunities to Develop Real Web Applications in PHP&lt;/li&gt;
+&lt;li&gt;Opportunities to Develop on the Android &amp;amp; iOS mobile platforms&lt;/li&gt;
+&lt;li&gt;Learn internet marketing and search engine optimization from our experts&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Prerequisites:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Good working knowledge of HTML5/CSS3&lt;/li&gt;
+&lt;li&gt;Ability to analyze and use Google analytic data&lt;/li&gt;
+&lt;li&gt;Linux system administration (Lite)&lt;/li&gt;
+&lt;li&gt;Majoring in Computer Science at a major university (UCI, Chapman, UCLA, USC etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Must be friendly to medical marijuana and mmj patients
+Knowledge of Joomla, Drupal or other CMS systems a plus&lt;/p&gt;
+
+&lt;p&gt;Please provide us with your resume as well as either a demo of sites you&amp;rsquo;ve built, github
+account, or even code examples.&lt;/p&gt;
+
+&lt;p&gt;Thank you.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 18 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/jr-web-and-mobile-developer-ghost-group-newport-beach-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/jr-web-and-mobile-developer-ghost-group-newport-beach-ca</guid>
+			</item>
+		
+			<item>
+				<title>Front-End Developer at ClearCapital.com, Inc. in Roseville, CA</title>
+				<description>&lt;h2&gt;Company Information&lt;/h2&gt;
+
+&lt;p&gt;Clear Capital® is a rapidly growing, privately-held company located near Lake Tahoe in the mountain resort town of Truckee, Calif. Cultivating the highest levels of customer ethics, we serve as a trusted partner for customers across the mortgage and lending industries. We use the most progressive technologies available and human, hands-on analytics to deliver highly accurate and reliable valuation tools. This unique combination of customer ethics and progressive technology makes Clear Capital the ideal choice for people seeking a high trust and high tech work environment.&lt;/p&gt;
+
+&lt;h2&gt;Job Description&lt;/h2&gt;
+
+&lt;p&gt;We are looking for a passionate front-end web developer with strong HTML, CSS, and JavaScript experience. Please include a portfolio of your work and any code samples you feel are a good representation of your skill when you apply.  In this role, you will be responsible for developing rich web user interfaces that integrate with back-end components and result in web solutions that people want to use. You will be part of a team that works on various web-based applications and ultimately contribute to a high-quality user experience. As a front end developer, you will work with the application development team to implement a presentation layer which delivers information from the application layer for further processing and display it in a variety of formats. A passion for new technologies and a drive to find better ways to implement user interfaces is key.&lt;/p&gt;
+
+&lt;h2&gt;Primary Duties and Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Develop rich web user interfaces that integrate with back-end components using HTML, CSS, and JavaScript&lt;/li&gt;
+&lt;li&gt;Develop successful user interfaces that are standards-compliant, cross-browser compatible, and performance optimized&lt;/li&gt;
+&lt;li&gt;Build well-formed user interfaces based on direction from the design team&lt;/li&gt;
+&lt;li&gt;Create and maintain a repository of common and reusable code&lt;/li&gt;
+&lt;li&gt;Develop and maintain documentation for front end code&lt;/li&gt;
+&lt;li&gt;Act as a support resource for back end developers using pre-built front end components&lt;/li&gt;
+&lt;li&gt;Work with development leads to ensure consistent and correct integration with back end code and services&lt;/li&gt;
+&lt;li&gt;Prioritize workload to meet deadlines for assignments in the code release schedule&lt;/li&gt;
+&lt;li&gt;Develop own insights through independent analysis and communicate actionable recommendations based on insights&lt;/li&gt;
+&lt;li&gt;Implement presentation layer components that are backed by data from defined application layer interfaces when necessary&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required Job Related Skills and Experience&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Minimum of five (5) years experience building user interfaces for large, complex template-based websites&lt;/li&gt;
+&lt;li&gt;Expert level front end development using HTML, CSS, object-oriented JavaScript, and jQuery&lt;/li&gt;
+&lt;li&gt;Proven experience developing Ajax style web applications and MVC frameworks&lt;/li&gt;
+&lt;li&gt;Hands-on experience with web development and object-oriented software engineering&lt;/li&gt;
+&lt;li&gt;Competency in developing standards-compliant user interfaces accessible via the web&lt;/li&gt;
+&lt;li&gt;Proven ability to create clean and reusable code libraries&lt;/li&gt;
+&lt;li&gt;Proven ability to develop cross-browser compatible user interfaces&lt;/li&gt;
+&lt;li&gt;Organize requirements into development tasks and execute&lt;/li&gt;
+&lt;li&gt;Proven ability to translate design documents into semantic code&lt;/li&gt;
+&lt;li&gt;Experience using graphic applications like Adobe Photoshop, Illustrator, or Fireworks for web graphic preparation&lt;/li&gt;
+&lt;li&gt;Experience using web development tools such as Firebug, Developer Toolbar, or DebugBar&lt;/li&gt;
+&lt;li&gt;Comfortable working in a team environment on large-scale projects and working within a local development environment&lt;/li&gt;
+&lt;li&gt;Excellent organizational, communication, and interaction skills&lt;/li&gt;
+&lt;li&gt;Must be able to adapt to change quickly, self manage, and work on multiple projects simultaneously&lt;/li&gt;
+&lt;li&gt;Strong interest in how and where the web is consumed, from desktop to mobile devices&lt;/li&gt;
+&lt;li&gt;Relentless self learner who thrives in a fast-paced and highly-interactive environment&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Additional Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor’s degree in computer science or related discipline&lt;/li&gt;
+&lt;li&gt;Experience using HTML5 and CSS3&lt;/li&gt;
+&lt;li&gt;Familiarity of database and server-side scripting languages such as SQL and ColdFusion&lt;/li&gt;
+&lt;li&gt;Experience in development supporting tools like Subversion and Jira&lt;/li&gt;
+&lt;li&gt;Hands-on experience integrating 3rd party APIs such as Google Maps&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;At Clear Capital, we have an underlying philosophy that guides our efforts: Go wherever it leads, and do whatever it takes to help clients find their optimal solution. This philosophy guides how we create and deliver products, and how we interact with our clients, vendors and each other. We offer an exciting fast-paced work environment, challenging and rewarding careers, and competitive compensation and benefits. Relocation assistance is available.&lt;/p&gt;
+
+&lt;h2&gt;Compensation&lt;/h2&gt;
+
+&lt;p&gt;Salary commensurate with experience&lt;/p&gt;
+</description>
+				<pubDate>Sat, 16 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/front-end-developer-clearcapital-com-inc-roseville-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-developer-clearcapital-com-inc-roseville-ca</guid>
+			</item>
+		
+			<item>
+				<title>UI/ Front-End Web Developer at myTAG Inc in San Jose, CA</title>
+				<description>&lt;p&gt;We are offering an exciting full-time employment opportunity to join a fully funded technology start-up located in San Jose, California.&lt;/p&gt;
+
+&lt;h2&gt;About The Position&lt;/h2&gt;
+
+&lt;p&gt;In this position you will be the front end developer.  You will assume various roles such as translating the design renderings to pixel perfect code.&lt;/p&gt;
+
+&lt;p&gt;You will work with the creative director to create web and mobile GUI&amp;rsquo;s for myTAG customers. Projects are highly varied to allow you to engage in something new every few days. Each project provides a new problem-solving opportunity and depending on its requirements may incorporate new third party technologies. If you enjoy creating smart and user friendly web apps and thrive in a fast paced environment,  this position is for you!&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web layout integration&lt;/li&gt;
+&lt;li&gt;Web interface design implementation&lt;/li&gt;
+&lt;li&gt;Build web apps with JavaScript, CSS, XHTML, HTML5,&lt;/li&gt;
+&lt;li&gt;Integrate apps with web services, such as payment gateways, e-signatures, emails, etc.&lt;/li&gt;
+&lt;li&gt;Take projects from concept through development cycle.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Required Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Expert knowledge of HTML5, XHTML and CSS&lt;/li&gt;
+&lt;li&gt;In depth knowledge of converting graphic design to HTML/CSS&lt;/li&gt;
+&lt;li&gt;Able to write cross-browser compatible code&lt;/li&gt;
+&lt;li&gt;Must have a current portfolio&lt;/li&gt;
+&lt;li&gt;In depth knowledge of cross browser development&lt;/li&gt;
+&lt;li&gt;Mobile and responsive web development experience&lt;/li&gt;
+&lt;li&gt;Hand coding javascript and jquery experience&lt;/li&gt;
+&lt;li&gt;BS in computer science or related discipline&lt;/li&gt;
+&lt;li&gt;Ability to work with minimal supervision and perform well under pressure to meet project milestones&lt;/li&gt;
+&lt;li&gt;Attention to Detail&lt;/li&gt;
+&lt;li&gt;Must be able to work onsite full time&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Preferred Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Understanding of MVC Architecture, LAMP structure,  with frameworks such as Codeigniter&lt;/li&gt;
+&lt;li&gt;Familiar with Git or SVN&lt;/li&gt;
+&lt;li&gt;Examples of iconography and current web interface samples&lt;/li&gt;
+&lt;li&gt;Legal residency&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Experience Breakdown&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5+ years experience&lt;/li&gt;
+&lt;li&gt;3 years Jquery and javascript&lt;/li&gt;
+&lt;li&gt;Experience working with a development team&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;We offer many employment incentives including stock options, equity sharing, and upward mobility within the company.&lt;/p&gt;
+
+&lt;p&gt;If you are qualified and interested, please email your cover letter, resume including compensation history and portfolio or work examples to our ZipRecruiter Account.&lt;/p&gt;
+
+&lt;h2&gt;About myTAG Inc:&lt;/h2&gt;
+
+&lt;p&gt;Stealth start-up company located in San Jose, CA&lt;/p&gt;
+</description>
+				<pubDate>Fri, 15 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/ui-front-end-web-developer-mytag-inc-san-jose-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ui-front-end-web-developer-mytag-inc-san-jose-ca</guid>
+			</item>
+		
+			<item>
+				<title>Front-End Web Developer at Sony Computer Entertainment of America Inc. in San Francisco, CA</title>
+				<description>&lt;p&gt;Sony Computer Entertainment America&amp;rsquo;s &amp;ldquo;Developer Services and Support Group&amp;rdquo; provides a range of services (technical support, software development and consultancy) that support the development of PlayStation products by both SCEA and its partners throughout North America.&lt;/p&gt;
+
+&lt;p&gt;The Developer Services and Support Group is looking for a full-time staff member to join our infrastructure development team immediately, reporting to the team lead.&lt;/p&gt;
+
+&lt;h2&gt;Responsibilities&lt;/h2&gt;
+
+&lt;p&gt;The SCEA Developer Services and Support Group implements web-based services to enable the highest quality of support for PlayStation developers and facilitate internal collaborative software development.&lt;/p&gt;
+
+&lt;p&gt;We are seeking an individual with agile skills and proven front-end experience developing web applications to join our team in improving and expanding our existing services.&lt;/p&gt;
+
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+
+&lt;p&gt;Skills/Experience
+Applicants should have at least two years of professional experience developing web applications in a team setting.&lt;/p&gt;
+
+&lt;h3&gt;The following skills are essential:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong HTML5, JavaScript, and CSS skills&lt;/li&gt;
+&lt;li&gt;At least 2 years of experience implementing rich client-side interaction for web applications&lt;/li&gt;
+&lt;li&gt;Familiarity with emerging methods, web standards, and open source tech used in web site development (examples: jQuery, client-side MVC such as backbone.js)&lt;/li&gt;
+&lt;li&gt;Experience using test-driven design/development (TDD) for front-end development&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;The following skills would be highly advantageous:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Practical experience with pair-programming&lt;/li&gt;
+&lt;li&gt;Training in Scrum or experience applying Scrum on the job&lt;/li&gt;
+&lt;li&gt;PHP development skills&lt;/li&gt;
+&lt;li&gt;Experience applying server-side MVC frameworks (eg Symfony) on the job&lt;/li&gt;
+&lt;li&gt;Competence with SQL&lt;/li&gt;
+&lt;li&gt;Experience developing with a MongoDB, Cassandra, or similar data store&lt;/li&gt;
+&lt;li&gt;Secure coding practices&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Sony Computer Entertainment America (SCEA) is home to the PlayStation&amp;reg; family of products, including the PlayStation&amp;reg;3 (PS3™), PlayStation&amp;reg; Vita (PS Vita), PlayStation&amp;reg; Mobile and PlayStation&amp;reg;Network. Founded in 1994, SCEA has grown into a leading global computer entertainment brand and continues to redefine interactive consumer entertainment. Since the original PlayStation&amp;reg; first revolutionized the world of gaming, SCEA has repeatedly set the benchmark for innovation in home and portable entertainment through amazing gameplay experiences that inspire people across the world. Based in Foster City, CA, SCEA serves as headquarters for all North American operations and employs over 2,104 people in offices located in Foster City, CA, San Diego, CA, Santa Monica, CA and Bend, OR.&lt;/p&gt;
+
+&lt;p&gt;It is SCEA&amp;rsquo;s policy to provide equal employment opportunity for all applicants and employees. SCEA does not unlawfully discriminate on the basis of race, color, religion, gender, gender identity, marital status, age, disability, veteran status, sexual orientation, national origin, or any other category protected by applicable federal and state law.  SCEA also makes reasonable accommodations for disabled applicants and employees.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-sony-computer-entertainment-of-america-inc-san-francisco-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-sony-computer-entertainment-of-america-inc-san-francisco-ca</guid>
+			</item>
+		
+			<item>
+				<title>HTML/CSS Developer at The Phelps Group in Los Angeles, CA</title>
+				<description>&lt;p&gt;Phelps, an integrated marketing communications agency in Santa Monica, is seeking a full time, in-house web developer to take on multiple responsibilities within our organization.&lt;/p&gt;
+
+&lt;h2&gt;Candidates should have the following experience:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1 to 2 years of hands-on web development experience (examples of past work/projects will be required)&lt;/li&gt;
+&lt;li&gt;Thorough understanding of HTML and CSS coding best practices&lt;/li&gt;
+&lt;li&gt;Experience with Photoshop, Fireworks, and other graphics optimization software&lt;/li&gt;
+&lt;li&gt;Thorough understanding of coding websites and HTML emails for consistent appearance across multiple browsers, platforms, and devices&lt;/li&gt;
+&lt;li&gt;Understanding of and experience with quality assurance processes&lt;/li&gt;
+&lt;li&gt;Firm grasp of working within a team environment&lt;/li&gt;
+&lt;li&gt;Ability to manage one’s own time and project responsibilities&lt;/li&gt;
+&lt;li&gt;Ability to effectively communicate with other members of a team&lt;/li&gt;
+&lt;li&gt;Great attitude, and the desire to expand one’s skill set and abilities&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Bonus experience&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with Campaign Monitor ESP&lt;/li&gt;
+&lt;li&gt;Experience with other ESP platforms&lt;/li&gt;
+&lt;li&gt;Experience with Litmus email testing platform&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
-				<pubDate>Sat, 16 Feb 2013 00:00:00 -0500</pubDate>
-				<link>http://workcreative.net/jobs/senior-graphic-designer-developer-pandora-oakland-ca</link>
-				<guid isPermaLink="true">http://workcreative.net/jobs/senior-graphic-designer-developer-pandora-oakland-ca</guid>
+				<pubDate>Thu, 07 Mar 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/html-css-developer-the-phelps-group-los-angeles-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/html-css-developer-the-phelps-group-los-angeles-ca</guid>
 			</item>
 		
 	</channel>

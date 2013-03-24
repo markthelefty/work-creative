@@ -7,6 +7,92 @@
 		<atom:link href="http://workcreative.net/feeds/md-bdev.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ruby Software Developer at CyberCore Technologies in Annapolis Junction, MD</title>
+				<description>&lt;p&gt;The candidate will work under the direction of the team lead to help develop Ruby/ Ruby on Rails applications for the Strands development effort. This position is for a motivated developer experienced in an agile development environment. Candidates should possess inter- and intra-team skills that allow them to work effectively with external teams to capture requirements and implement said requirements within the development environment. A working knowledge of network designs, principles and practices is helpful.&lt;/p&gt;
+
+&lt;h2&gt;Required Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Must have a Full Scope Polygraph&lt;/li&gt;
+&lt;li&gt;Experience with Ruby, MySQL, JavaScript, HTML, CSS and Ajax&lt;/li&gt;
+&lt;li&gt;Experience with either Ruby on Rails, or Django frameworks&lt;/li&gt;
+&lt;li&gt;Linux and web development experience&lt;/li&gt;
+&lt;li&gt;Experience with agile development practices (test driven development, automated unit testing, continuous builds, spins, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Desired Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience with the Model–view–controller (MVC) software architecture pattern&lt;/li&gt;
+&lt;li&gt;Knowledge of network designs, principles and practices&lt;/li&gt;
+&lt;li&gt;Experience using a multitude of common Internet libraries for JavaScript development (e.g. Bootstrap, Backbone, Express, ExtJS/Sencha Touch)&lt;/li&gt;
+&lt;li&gt;Experience with XSLTs and XSDs, as well as front end user interface implementation&lt;/li&gt;
+&lt;li&gt;Experience with MongoDB&lt;/li&gt;
+&lt;li&gt;Experience with Serialization such as JSON and/or BSON&lt;/li&gt;
+&lt;li&gt;Excellent written and spoken communication skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Thu, 07 Mar 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/ruby-software-developer-cybercore-technologies-annapolis-junction-md</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ruby-software-developer-cybercore-technologies-annapolis-junction-md</guid>
+			</item>
+		
+			<item>
+				<title>Senior Web Developer at Fearless Solutions, LLC in Annapolis Junction, MD</title>
+				<description>&lt;h2&gt;Required Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Proficient in HTML5 tags, meta tags, and usage of W3C current spec.&lt;/li&gt;
+&lt;li&gt;Must be able to create RESTful services in NodeJS.&lt;/li&gt;
+&lt;li&gt;Must be able to create SSL/TLS wrapped WebSocket data streams in NodeJS.&lt;/li&gt;
+&lt;li&gt;Understands JavaScript prototypal design patterns.&lt;/li&gt;
+&lt;li&gt;Must understand and be familiar with JavaEE design paradigms and be able to reflectthat knowledge into SSJ (server-side JavaScript).&lt;/li&gt;
+&lt;li&gt;Experience using a multitude of common Internet libraries for JavaScriptdevelopment (Bootstrap, Backbone, Express, ExtJS/Sencha Touch).&lt;/li&gt;
+&lt;li&gt;Knowledge ofJavaScript-focused continuous integration, continuous deployment andbuild processes.&lt;/li&gt;
+&lt;li&gt;Understand and be proficient in the use of client-side storage and caching withAppCache, Local/SessionStorage, and IndexedDB.&lt;/li&gt;
+&lt;li&gt;Be proficient in test-driven design (TDD) or behavior-driven design (BDD), specificallywith QUnit or Jasmine.&lt;/li&gt;
+&lt;li&gt;Proficient with CSS3 and reactive design paradigms.&lt;/li&gt;
+&lt;li&gt;Understand thefundamental differences in the W3C specification adoption betweendifferent families of browsers.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Desired Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ability to lead and work in Agile/Kanban environments.&lt;/li&gt;
+&lt;li&gt;Version control with Subversion or Git.&lt;/li&gt;
+&lt;li&gt;Experience using the Firefox, Chrome, or Safari APIs to build, package, and deploy custom browser extensions.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Education:&lt;/h2&gt;
+
+&lt;p&gt;Bachelor’s Degree in Computer Engineering, Computer Science, Electrical Engineering, Information Systems,Mathematics or related discipline or equivalent documented combination of training and experience.Advanced degree in related technical field desired.&lt;/p&gt;
+
+&lt;h2&gt;Clearance Requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Must be a US citizen&lt;/li&gt;
+&lt;li&gt;Must have, or be willing to obtain, an active TOP SECRET security clearance, based on a current single scope background investigation (SSBI), as well as a favorable completion of Full Screening Polygraph completed by the U.S. Government.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;About Us:&lt;/h2&gt;
+
+&lt;p&gt;Fearless Solutions is company driven by delivering innovative produces and services to our customers that make a difference.&lt;/p&gt;
+
+&lt;p&gt;Our core values include the &amp;ldquo;Fearless 5&amp;rdquo;: Passion, Integrity, Excellence, Improvement, and Innovation. We keep our competitive advantage by living our values out each day.&lt;/p&gt;
+
+&lt;p&gt;Fearless Solutions is an Equal Opportunity Employer EOE, M/F/D/V&lt;/p&gt;
+</description>
+				<pubDate>Tue, 05 Mar 2013 00:00:00 -0500</pubDate>
+				<link>http://workcreative.net/jobs/senior-web-developer-fearless-solutions-llc-annapolis-junction-md</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/senior-web-developer-fearless-solutions-llc-annapolis-junction-md</guid>
+			</item>
+		
+			<item>
 				<title>Drupal Developer at MMG in Rockville, MD</title>
 				<description>&lt;p&gt;MMG has a full-time opening in our Rockville, MD office for a skilled Drupal Developer. This position will design, develop, test, implement, and maintain client websites using Drupal; work closely with other developers and project teams to identify and modify websites and related applications to function as required; and document current and future configuration processes and policies.&lt;/p&gt;
 
