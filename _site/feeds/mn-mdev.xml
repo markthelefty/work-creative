@@ -6,5 +6,49 @@
 		<link>http://workcreative.net/</link>
 		<atom:link href="http://workcreative.net/feeds/mn-mdev.xml" rel="self" type="application/rss+xml" />
 		
+			<item>
+				<title>Interactive Developer - iOS at KellyMitchell in Minneapolis, MN</title>
+				<description>&lt;p&gt;What We Do &amp;ndash; KellyMitchell matches the best IT and business talent with premier organizations nationwide. Our clients &amp;ndash; ranging from Fortune 500 corporations to rapidly growing high-tech companies &amp;ndash; are exceptionally served by our 1500+ technology and business consultants.&lt;/p&gt;
+
+&lt;p&gt;How We Roll &amp;ndash; KellyMitchell consultants not only have the opportunity to work with high profile clients, but also receive unmatched support from our staff. We offer competitive compensation, extensive benefits, and it is our priority to ensure that every employee feels like part of the KellyMitchell team.&lt;/p&gt;
+
+&lt;p&gt;Our industry is growing rapidly, and opportunities are abundant. Now is a great time to launch a career with KellyMitchell!&lt;/p&gt;
+
+&lt;h2&gt;Job Description&lt;/h2&gt;
+
+&lt;p&gt;INTERACTIVE DEVELOPER &amp;ndash; iOS&lt;/p&gt;
+
+&lt;p&gt;ASSIGNMENT DESCRIPTION:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Analysis, design, development, and refactoring of iOS application code.&lt;/li&gt;
+&lt;li&gt;Implementing user interface designs in the application.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Job Requirements&lt;/h2&gt;
+
+&lt;h3&gt;Minimum requirements:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong Objective-C development skills and two years experience in iOS development&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Desired requirements:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience using Xcode, Instruments, git and Jenkins.&lt;/li&gt;
+&lt;li&gt;Experience in OOAD, with iOS and Objective-C as a focus.&lt;/li&gt;
+&lt;li&gt;Knowledge of the iOS 6 SDK and building for Universal apps.&lt;/li&gt;
+&lt;li&gt;Android development experience a plus.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Sun, 24 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/interactive-developer-ios-kellymitchell-minneapolis-mn</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/interactive-developer-ios-kellymitchell-minneapolis-mn</guid>
+			</item>
+		
 	</channel>
 </rss>
