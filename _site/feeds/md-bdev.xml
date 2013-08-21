@@ -7,6 +7,50 @@
 		<atom:link href="http://workcreative.net/feeds/md-bdev.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Junior Web Developer (Django) at Medical Science &amp; Computing, Inc. in Bethesda, MD</title>
+				<description>&lt;p&gt;Medical Science &amp;amp; Computing, Inc. (MSC) is a small business, dedicated to providing scientific and technical services to the Federal Government.  We have a long history of supporting the National Institutes of Health (NIH). MSC offers a dynamic and upbeat work environment, excellent benefits and career growth opportunities.&lt;/p&gt;
+
+&lt;p&gt;We are currently searching for a Junior Web Developer using Django to support the NIH.  This is a full-time position located at the NIH Campus in Bethesda, MD.&lt;/p&gt;
+
+&lt;h2&gt;Duties and Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Develop data entry interfaces using Django&lt;/li&gt;
+&lt;li&gt;Meet with stakeholders to analyze requirements for interfaces, as well as appropriate data modeling.&lt;/li&gt;
+&lt;li&gt;Perform scripting tasks to both input and export data using various formats.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Position Requirements&lt;/h2&gt;
+
+&lt;h3&gt;Required&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bachelor’s degree; Recent graduates accepted&lt;/li&gt;
+&lt;li&gt;Understanding of a modern web framework such as Django or Ruby on Rails&lt;/li&gt;
+&lt;li&gt;Ability to generate and customize the Django admin interface&lt;/li&gt;
+&lt;li&gt;Ability to use the Django ORM to pre-populate database, as well as export models in various formats&lt;/li&gt;
+&lt;li&gt;Understanding of relational databases and data modeling&lt;/li&gt;
+&lt;li&gt;Basic scripting ability&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Highly Desired&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Knowledge of South for schema migration&lt;/li&gt;
+&lt;li&gt;Writing unit tests&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;EEO/AA – M/M/D/V&lt;/p&gt;
+</description>
+				<pubDate>Sat, 30 Mar 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/junior-web-developer-django-medical-science-and-computing-inc-bethesda-md</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/junior-web-developer-django-medical-science-and-computing-inc-bethesda-md</guid>
+			</item>
+		
+			<item>
 				<title>Ruby Software Developer at CyberCore Technologies in Annapolis Junction, MD</title>
 				<description>&lt;p&gt;The candidate will work under the direction of the team lead to help develop Ruby/ Ruby on Rails applications for the Strands development effort. This position is for a motivated developer experienced in an agile development environment. Candidates should possess inter- and intra-team skills that allow them to work effectively with external teams to capture requirements and implement said requirements within the development environment. A working knowledge of network designs, principles and practices is helpful.&lt;/p&gt;
 

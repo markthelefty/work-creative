@@ -7,6 +7,129 @@
 		<atom:link href="http://workcreative.net/feeds/dc-fdev.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Front-End Web Developer at DC Public Schools in Washington, DC</title>
+				<description>&lt;p&gt;The web developer will have primary responsibility for architecting and developing custom code for front-end heavy applications.* They will work to improve the user experience for existing applications as well as design and develop new user interfaces using a variety of technologies.  In addition to the architectural requirements of any particular app, they will also balance immediate needs with future direction and ensure that code is reusable rather than being merely maintainable as much as possible.   They must be self-starters and have the intellectual curiosity to identify problems themselves and brainstorm innovative solutions while at the same time being able to deliver specific tasks on time and fully tested.   They will act as a key internal consultant to help come up with the appropriate balance between business needs and technical complexity, knowing when to focus on pragmatic solutions rather than a fruitless search for perfection.   In addition to technical skill they must be able to pull up to a higher level as a critical part of the role will be to help come up with the future long term vision for data systems in DCPS and plan out what should be built to implement that vision.&lt;/p&gt;
+
+&lt;h2&gt;Primary duties&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Works with other programs and offices within DCPS to understand overall DCPS needs so as to implement strategic rather than tactical solutions&lt;/li&gt;
+&lt;li&gt;Implements custom front end interfaces for applications such as school performance dashboards, data visualization apps, and operational/workflow apps&lt;/li&gt;
+&lt;li&gt;Implements custom DCPS widget/mashup frameworks that can be leveraged to easily create portals pulling data from disparate sources.&lt;/li&gt;
+&lt;li&gt;Investigates new technologies and suggests new solutions to business problems&lt;/li&gt;
+&lt;li&gt;Works with end users and SMEs to design user interface features so as to minimize data entry errors&lt;/li&gt;
+&lt;li&gt;Uses very strong knowledge of CSS and DHTML to create templates/frameworks for other developers to use.&lt;/li&gt;
+&lt;li&gt;Suggests tools/processes/approaches to help improve application development (ie collaboration, testing, version control, deployment management, etc)&lt;/li&gt;
+&lt;li&gt;Supports and carries out the Chancellor’s mission to transform DC Public Schools and close the achievement gap&lt;/li&gt;
+&lt;li&gt;Performs other related duties as assigned.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Professional/Educational Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5 to 9 years experience in web design or front end web development&lt;/li&gt;
+&lt;li&gt;Previous work or project experience in two or more of the following areas:  RESTful web services, modern mobile apps (iphone, android, ipad), facebook or google gadgets, Ruby on Rails, Django, or google app engine&lt;/li&gt;
+&lt;li&gt;Very strong experience with standard web development AJAX/DHTML frameworks such as jQuery, script.aculo.us, etc&lt;/li&gt;
+&lt;li&gt;Web/Graphic design experience a major plus&lt;/li&gt;
+&lt;li&gt;Exceptional markup and client-side scripting talents applicable to a wide range of contexts&lt;/li&gt;
+&lt;li&gt;Familiarity with the separation of content, presentation, and behavior&lt;/li&gt;
+&lt;li&gt;Command of industry development and source code control tools&lt;/li&gt;
+&lt;li&gt;Superb problem solving skills and troubleshooting abilities&lt;/li&gt;
+&lt;li&gt;Excellent communication and documentation skills&lt;/li&gt;
+&lt;li&gt;Ability to work independently as well as collaboratively in a multidisciplinary team&lt;/li&gt;
+&lt;li&gt;Previous exposure to or experience in the education sector a plus.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Strong Candidate will have&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Familiarity with user-centered design and usability practices&lt;/li&gt;
+&lt;li&gt;Familiarity with Web accessibility standards&lt;/li&gt;
+&lt;li&gt;Experience in tableless, fluid layouts&lt;/li&gt;
+&lt;li&gt;Experience in advanced CSS techniques (float layouts, fluid layout, etc.)&lt;/li&gt;
+&lt;li&gt;Experience in modern frameworks such as Ruby on Rails or Django&lt;/li&gt;
+&lt;li&gt;Knowledgeable in best practices of writing unobtrusive Javascript&lt;/li&gt;
+&lt;li&gt;Cross-browser (X)HTML/CSS&lt;/li&gt;
+&lt;li&gt;Experience in writing very feature rich user interfaces that provide advanced functionality  ie drag-and-drop, charting, etc) in a browser-independent way.&lt;/li&gt;
+&lt;li&gt;Client-side scripting, JavaScript/AJAX (jQuery, Script.aculo.us or Dojo)&lt;/li&gt;
+&lt;li&gt;Dynamic HTML/DOM manipulation&lt;/li&gt;
+&lt;li&gt;UI templates and wiring to back-end controllers&lt;/li&gt;
+&lt;li&gt;Familiarity with XSLT a plus&lt;/li&gt;
+&lt;li&gt;Good understanding of standard server side scripting/coding (ie ruby on rails, php, etc) and configuration (ie, LAMP, app server setup) will be very helpful.&lt;/li&gt;
+&lt;li&gt;Keen sense of maximizing return on investment, focusing on the 80% solutions rather than a fruitless quest for perfection&lt;/li&gt;
+&lt;li&gt;Strong self-starter and ability to work independently&lt;/li&gt;
+&lt;li&gt;Strong attention to detail and the ability to translate high level technical and business initiatives and goals into discrete tasks and specific timelines&lt;/li&gt;
+&lt;li&gt;Excellent communication skills, especially the ability to actively listen and draw out the true needs rather than the stated wants of any given stakeholder&lt;/li&gt;
+&lt;li&gt;Strong focus on teamwork and developing the skills of DCPS colleagues both technical and non-technical&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;About DC Public Schools:&lt;/h2&gt;
+
+&lt;p&gt;Our public school students need your expertise, passion and leadership.&lt;/p&gt;
+
+&lt;p&gt;We are looking for highly motivated and skilled talent to join our team at District of Columbia Public Schools (DCPS). We seek individuals who are passionate about transforming the DC school system and making a significant difference in the lives of public school students, parents, principals, teachers, and central office employees.&lt;/p&gt;
+
+&lt;h2&gt;Why should you work for Data Systems in the Office of Data and Accountability?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Freedom of motion &amp;ndash; Solution developers not code monkeys
+DCPS is a highly results oriented organization and the expectation is that you deliver the tools that are needed. How those tools are built is up to you. As we do not have a formal IT department, we are in the unique position of having a lot of interesting problems with no mandate on how we go about solving them. Want to build a data warehouse using punch cards and highly trained guinea pigs? No one&amp;rsquo;s going to stop you here so long as it works how and when it should. We are also not looking for cogs to slot into a machine. If you like munching through a batch of requirements and just mechanically excreting code with no thought to whether those requirements are correct, then this is not the place for you. However if you think at a higher level about process and systems and recognize that a solution has both technical and business process aspects, then you&amp;rsquo;ll find a home here. If you have always wanted to build things the right way, if you are technology agnostic but prefer open-source, and if you understand the power of the 80% solution, then we want to hear from you.&lt;/li&gt;
+&lt;li&gt;Caliber of your colleagues &amp;ndash; Keeping you intellectually honest
+A lot of organizations talk about &amp;ldquo;empowering&amp;rdquo; their staff but there are two basic requirements for that goal. The first is having relevant data and the tools to use/analyze that data appropriately. This is what most organizations focus on when talking empowerment in this context. However, just as critical is the intellectual horsepower and job engagement of the users of those tools. At DCPS in general and ODA in particular you will find your colleagues are of extremely high caliber. Though relatively non-technical, they will keep you on your A game and any inconsistencies or hand-waving will not fly. It is a thoroughly satisfying experience to build quality tools for smart, driven people and that&amp;rsquo;s what you&amp;rsquo;ll find here.&lt;/li&gt;
+&lt;li&gt;Mission of the organization &amp;ndash; Making a difference
+The mission of DCPS is to educate kids and make sure both that they are given every opportunity possible and that they are prepared to take advantage of those opportunities. There are thousands of dedicated people throughout DCPS working very hard to make that happen. All of them require data or tools of some kind, and your efforts will get magnified through all those thousands of people to effect all 40000+ kids at DCPS. At very few other places will you be able to directly see your day to day work benefiting such a worthy cause.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;In the end, let&amp;rsquo;s face it, you will not get rich working for DCPS. We can guarantee you can make much more money in the private sector working for a startup or as a contractor. But we can equally guarantee that you will find your work here deeply satisfying on both a technical and personal level and see the immediate benefit of the fruits of your labor. We look forward to hearing from you!&lt;/p&gt;
+</description>
+				<pubDate>Thu, 02 May 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-dc-public-schools-washington-dc</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-dc-public-schools-washington-dc</guid>
+			</item>
+		
+			<item>
+				<title>Front-End Web Developer at APCO Worldwide in Washington, DC</title>
+				<description>&lt;p&gt;Come work with a fun team of designers, developers and UX experts to build cutting-edge interactive experiences for some of the world’s largest brands. APCO worldwide is seeking a talented front-end web developer with 0-3 years of experience to join our Studio Online practice.&lt;/p&gt;
+
+&lt;p&gt;We are open to considering May 2013 graduates for this position.&lt;/p&gt;
+
+&lt;p&gt;Studio Online is a global, full-service team of creative and digital professionals who work in partnership with clients to determine the right strategic approach to the creative and digital components of their communication programs and positioning. In this role, your teammates will include individuals from a broad range of disciplines including print and interactive design, broadcast,  user experience, content development, programming, media buying and campaign management. Clients will include globally recognized organizations such as Fortune 500 companies, multinational companies, not-for-profits and NGO’s.&lt;/p&gt;
+
+&lt;h2&gt;Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;0-3 years of applicable experience&lt;/li&gt;
+&lt;li&gt;Excellent HTML/CSS/JS skills&lt;/li&gt;
+&lt;li&gt;Able to write clean/semantic markup&lt;/li&gt;
+&lt;li&gt;Experience with HTML5 and CSS3&lt;/li&gt;
+&lt;li&gt;Knowledge of third-party APIs such as: Facebook, Twitter, Foursquare etc.&lt;/li&gt;
+&lt;li&gt;Comfortable working with modern JavaScript frameworks and animation libraries&lt;/li&gt;
+&lt;li&gt;Working knowledge of back-end technologies and databases  (PHP, MySQL, Ruby)&lt;/li&gt;
+&lt;li&gt;Experience with CMS/publishing platforms such as Drupal and Wordpress&lt;/li&gt;
+&lt;li&gt;Advocate for mobile-first/responsive-design workflow&lt;/li&gt;
+&lt;li&gt;Good design and animation/motion sensibilities&lt;/li&gt;
+&lt;li&gt;Requires a fastidious attention to detail&lt;/li&gt;
+&lt;li&gt;Working knowledge of Photoshop (converting a layered design into HTML/CSS)&lt;/li&gt;
+&lt;li&gt;Objective-C and/or iOS SDK experience a huge plus&lt;/li&gt;
+&lt;li&gt;Good sense of humor&lt;/li&gt;
+&lt;li&gt;Collection of work samples demonstrating your capabilities&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Founded in 1984, APCO Worldwide is an independently owned global communication, stakeholder engagement and business strategy firm that challenges conventional thinking and creates powerful movements to help our clients succeed. APCO combines a global perspective with local expertise to help clients around the world manage challenges, opportunities, perceptions and reputations. APCO clients include corporations and governments; industry associations and nonprofit organizations; and six of the top 10 companies on the Fortune 500.&lt;/p&gt;
+
+&lt;p&gt;APCO Worldwide, named one of the &amp;lsquo;Top Places to Work in PR&amp;rsquo; by PRNews, offers a collegial work environment, countless training and development opportunities, and a competitive compensation and benefits package. EOE M/F/V/D&lt;/p&gt;
+</description>
+				<pubDate>Tue, 02 Apr 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/front-end-web-developer-apco-worldwide-washington-dc</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/front-end-web-developer-apco-worldwide-washington-dc</guid>
+			</item>
+		
+			<item>
 				<title>Front-End Developer at The Pew Charitable Trusts in Washington, DC</title>
 				<description>&lt;h2&gt;The Communications Department&lt;/h2&gt;
 

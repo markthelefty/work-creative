@@ -6,5 +6,31 @@
 		<link>http://workcreative.net/</link>
 		<atom:link href="http://workcreative.net/feeds/ne-fdev.xml" rel="self" type="application/rss+xml" />
 		
+			<item>
+				<title>Web Developer (RWD) at MindMixer in Omaha, NE</title>
+				<description>&lt;p&gt;At MindMixer, we&amp;rsquo;re building massive new features and solutions in an already highly successful product line and we&amp;rsquo;re looking to expand our development family.&lt;/p&gt;
+
+&lt;h2&gt;Core skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web Development&lt;/li&gt;
+&lt;li&gt;Responsive Design&lt;/li&gt;
+&lt;li&gt;UX Design&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The ideal candidate is proficient in the use of html, javascript (preferrably w/ MVC framework exp.), css, and templating/view engines to deliver a user-friendly and responsive experience to users on desktop and mobile devices. In your daily routine, you should also expect to come across or interact with C#, python, json, bson, sql server, and mongodb; experience with or a true excitement to work in those technologies is therefore a quality that will set a candidate apart. Candidates should also be prepared to interact with a number of interesting 3rd party APIs (of various documentation quality).&lt;/p&gt;
+
+&lt;p&gt;Do you enjoy a low stress, high fun, high performance environment?&lt;/p&gt;
+
+&lt;p&gt;Does the idea of a startup that is already profitable but still has enticing incentive opportunities and profound new market and product opportunities interest you?&lt;/p&gt;
+
+&lt;p&gt;MindMixer might be the perfect place for you; we are a small group who espouse a relaxed, work-hard/play-hard culture led by two dynamic founders with a unique vision and a very noble hypothesis: increasing the engagement between individuals in a community and giving them a direct line to community leaders will benefit the community as a whole. Come be a part of that vision!&lt;/p&gt;
+</description>
+				<pubDate>Fri, 05 Apr 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/web-developer-rwd-mindmixer-omaha-ne</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/web-developer-rwd-mindmixer-omaha-ne</guid>
+			</item>
+		
 	</channel>
 </rss>

@@ -6,5 +6,63 @@
 		<link>http://workcreative.net/</link>
 		<atom:link href="http://workcreative.net/feeds/ct-fdev.xml" rel="self" type="application/rss+xml" />
 		
+			<item>
+				<title>Lead Web Developer at Mahalo in Los Angeles, CA</title>
+				<description>&lt;p&gt;Inside.com (formerly Mahalo.com) is a brand new endeavor involving big data and consumer news. We&amp;rsquo;re looking for motivated individuals that would make a great addition to our growing team of highly skilled engineers. We&amp;rsquo;re just starting out and if you are looking to make real contributions from day one and have your opinions heard, Inside.com is the place for you. We&amp;rsquo;re looking for raw talent that is not only excited and eager to learn, but also interested in the fast paced startup world. This is a full-time in house position. Your responsibilities at Inside.com would primarily consist of helping us build the new, unannounced product from the ground up.&lt;/p&gt;
+
+&lt;h2&gt;Requirements:&lt;/h2&gt;
+
+&lt;p&gt;We are looking for a highly motivated developer who not only has exceptional technical skills, but also possess leadership skills that are necessary to guide a team of engineers. The ideal candidate would thrive in a fast paced, collaborative start up environment and will be expected to bring ideas to the table that help shape the future of the company. You will also be responsible for architecting and implementing version one of our planned web application. This kind of opportunity is very rare and is an exciting chance to get involved in building a product from the ground up. Here are a few bullet points of what we&amp;rsquo;re looking for:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong experience with a Python 2.x&lt;/li&gt;
+&lt;li&gt;Previous involvement in building a highly scalable web application&lt;/li&gt;
+&lt;li&gt;Experience using MVC based frameworks such as Django and Flask&lt;/li&gt;
+&lt;li&gt;Excellent Javascript, HTML, and CSS skills&lt;/li&gt;
+&lt;li&gt;Experience with MySQL/Postgres or alternative RDBMS solutions&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;What We Use:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Django&lt;/li&gt;
+&lt;li&gt;nginx&lt;/li&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;redis&lt;/li&gt;
+&lt;li&gt;git&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Pluses:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Contributions to open source projects&lt;/li&gt;
+&lt;li&gt;Experience with Redis, Nginx, Memcached&lt;/li&gt;
+&lt;li&gt;Basic Devops skills&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re a self proclaimed news junkie&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Benefits and Perks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Stock options&lt;/li&gt;
+&lt;li&gt;Laid back work environment&lt;/li&gt;
+&lt;li&gt;Ping pong&lt;/li&gt;
+&lt;li&gt;Health benefits&lt;/li&gt;
+&lt;li&gt;Paid time off (PTO)&lt;/li&gt;
+&lt;li&gt;Pet friendly office&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Please include github or stackoverflow accounts in your applications if applicable.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 07 Apr 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/lead-web-developer-mahalo-los-angeles-ca</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/lead-web-developer-mahalo-los-angeles-ca</guid>
+			</item>
+		
 	</channel>
 </rss>

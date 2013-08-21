@@ -7,6 +7,40 @@
 		<atom:link href="http://workcreative.net/feeds/va-bdev.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PHP Developer at WillowTree Apps in Charlottesville, VA</title>
+				<description>&lt;p&gt;WillowTree Apps is seeking an experienced PHP web-application engineer to develop, manage, maintain, and update PHP application products. If you yearn to work for a tech company on the cutting edge, like collaborating with a group of talented people and want to actually enjoy going to work everyday then WillowTree Apps may be the place for you.&lt;/p&gt;
+
+&lt;p&gt;We use GitHub, embrace continuous integrations and testing, prefer “scrum”-style stand-ups and hang out on our own secure IRC channel (svn users are welcome, but we will convert you).&lt;/p&gt;
+
+&lt;h2&gt;Required skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CS Degree and/or 5 years experience&lt;/li&gt;
+&lt;li&gt;At least four years of experience in PHP and MySQL&lt;/li&gt;
+&lt;li&gt;Experience with testing in PHPUnit, SimpleTest, or similar&lt;/li&gt;
+&lt;li&gt;Strong experience with one or more of the following frameworks:  Symfony, Zend or CodeIgniter&lt;/li&gt;
+&lt;li&gt;Strong front-end development skills in Javascript with jQuery or similar, HTML5, and CSS 3&lt;/li&gt;
+&lt;li&gt;Experience with git, svn, or other modern version control systems&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Bonus skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Magento development experience&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;WillowTree Apps is one of the largest and most respected mobile development companies in the US. Our entire 40+ person team is located in our Charlottesville, VA headquarters. Nothing is outsourced overseas. Our open office environment is designed to facilitate collaboration both among our teams (e.g. a developer walking over to the design team for a clarification or a design tweak) and within each team (e.g. a senior iOS team member pair programming with a junior member).&lt;/p&gt;
+
+&lt;p&gt;Our developers are second to none &amp;mdash; with expertise across the nuances of iPhone, iPad, Android, Windows Phone 7, Blackberry and mobile web/HTML5 design best practices. Our team members are frequent speakers at mobile design conferences. We hire the best in the industry.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 07 Apr 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/php-developer-willowtree-apps-charlottesville-va</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/php-developer-willowtree-apps-charlottesville-va</guid>
+			</item>
+		
+			<item>
 				<title>PHP Developer at GBTI Solutions, Inc in McLean, VA</title>
 				<description>&lt;h2&gt;Responsibilities:&lt;/h2&gt;
 

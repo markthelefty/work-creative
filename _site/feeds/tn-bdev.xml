@@ -7,6 +7,36 @@
 		<atom:link href="http://workcreative.net/feeds/tn-bdev.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ruby on Rails Developer at HealthTeacher in Nashville, TN</title>
+				<description>&lt;p&gt;HealthTeacher is looking for a full-time Ruby on Rails developer. The ideal candidate would posses significant professional experience with all of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ruby/Rails&lt;/li&gt;
+&lt;li&gt;TDD/BDD using RSpec&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;Agile development with Scrum&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Bonus points for experience with:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Front-end JavaScript frameworks (e.g. AngularJS, EmberJS, Backbone.js)&lt;/li&gt;
+&lt;li&gt;OAuth&lt;/li&gt;
+&lt;li&gt;Reporting / DBA-type work&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;This position will include building new features for our Ruby on Rails applications and working with our production staff to improve the existing user experience.&lt;/p&gt;
+
+&lt;p&gt;When applying, please include links to your github and linkedin profiles.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 21 Apr 2013 00:00:00 -0400</pubDate>
+				<link>http://workcreative.net/jobs/ruby-on-rails-developer-healthteacher-nashville-tn</link>
+				<guid isPermaLink="true">http://workcreative.net/jobs/ruby-on-rails-developer-healthteacher-nashville-tn</guid>
+			</item>
+		
+			<item>
 				<title>Back-End PHP Web Developer at Papercut Interactive in Chattanooga, TN</title>
 				<description>&lt;p&gt;Papercut Interactive &lt;a href=&quot;http://www.papercutinteractive.com&quot;&gt;http://www.papercutinteractive.com&lt;/a&gt; is looking for a Back-end PHP Web Developer to join our team. This person will participate in the development and implementation of desktop and responsive websites.&lt;/p&gt;
 
